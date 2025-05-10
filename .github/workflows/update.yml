@@ -5,15 +5,17 @@ on:
     - cron: '0 3 * * *'  # Every day at 03:00 UTC
   workflow_dispatch:
 
+# Grant write permissions to the GITHUB_TOKEN
+permissions:
+  contents: write  # Allows git push
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+        uses: actions/checkout@v3  # Uses GITHUB_TOKEN by default
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -33,5 +35,3 @@ jobs:
           git add playlist.m3u
           git commit -m "Update playlist"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
