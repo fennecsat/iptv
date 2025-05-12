@@ -1577,8 +1577,6 @@ http://livepptv.net:80/299819323222593/1593574628/134566
 http://livepptv.net:80/299819323222593/1593574628/134567
 #EXTINF:-1 tvg-id="DAZN_5" tvg-name="DAZN 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5b.png" group-title="SPORT FR",DAZN 5 
 http://livepptv.net:80/299819323222593/1593574628/134568
-#EXTINF:-1 tvg-id="" tvg-name="DAZN L1 EVENT " tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN L1 EVENT 
-http://livepptv.net:80/299819323222593/1593574628/134569
 #EXTINF:-1 tvg-id="DAZNLigue1M8.fr" tvg-name="DAZN LIGUE1 #1 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #1 ²⁵ᶠᵖˢ
 http://livepptv.net:80/299819323222593/1593574628/135160
 #EXTINF:-1 tvg-id="DAZNLigue1M1.fr" tvg-name="DAZN LIGUE 1 #2 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE 1 #2 ²⁵ᶠᵖˢ
@@ -2243,7 +2241,7 @@ http://livepptv.net:80/299819323222593/1593574628/161616
 http://livepptv.net:80/299819323222593/1593574628/161617
 #EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 4" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 4
 http://livepptv.net:80/299819323222593/1593574628/161618
-#EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 5" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 5
+#EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 5: El Clasico" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 5: El Clasico
 http://livepptv.net:80/299819323222593/1593574628/161619
 #EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 6" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 6
 http://livepptv.net:80/299819323222593/1593574628/161620
