@@ -13,7 +13,7 @@ http://livepptv.net:80/299819323222593/1593574628/7821
 http://livepptv.net:80/299819323222593/1593574628/7818
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/arte.png" group-title="FRANCE HD",ARTE HD
 http://livepptv.net:80/299819323222593/1593574628/7732
-#EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="TPMP EN DIRECT " tvg-logo="http://aptvpix.net/picons/NEW2022/c8.png" group-title="FRANCE HD",TPMP EN DIRECT 
+#EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="RDV LE 6/06" tvg-logo="" group-title="FRANCE HD",RDV LE 6/06
 http://livepptv.net:80/299819323222593/1593574628/7744
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
 http://livepptv.net:80/299819323222593/1593574628/7742
@@ -21,7 +21,7 @@ http://livepptv.net:80/299819323222593/1593574628/7742
 http://livepptv.net:80/299819323222593/1593574628/7839
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
 http://livepptv.net:80/299819323222593/1593574628/7782
-#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/nrj12.png" group-title="FRANCE HD",NRJ 12 HD
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="RDV LE 6/06 ^" tvg-logo="" group-title="FRANCE HD",RDV LE 6/06 ^
 http://livepptv.net:80/299819323222593/1593574628/7810
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
 http://livepptv.net:80/299819323222593/1593574628/7790
@@ -2241,7 +2241,7 @@ http://livepptv.net:80/299819323222593/1593574628/161616
 http://livepptv.net:80/299819323222593/1593574628/161617
 #EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 4" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 4
 http://livepptv.net:80/299819323222593/1593574628/161618
-#EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 5: El Clasico" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 5: El Clasico
+#EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 5" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 5
 http://livepptv.net:80/299819323222593/1593574628/161619
 #EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 6" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 6
 http://livepptv.net:80/299819323222593/1593574628/161620
