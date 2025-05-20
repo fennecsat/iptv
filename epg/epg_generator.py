@@ -29,7 +29,7 @@ def get_shahid_epg():
     shahid_to = tomorrow.strftime('%Y-%m-%dT22:59:59.999Z')
     
     shahid_channel_ids = '400924,400921,400917,387248,387251,49923122575716,387290,387937,400919,387293,387296,409387,387294,418308,986064,986069,387286,1003218,387288,862837,997605,1001845,999399,414449,409385,409390,989622'
-    url = f"https://api3.shahid.net/proxy/v2.1/shahid-epg-api/?csvChannelIds={shahid_channel_ids}&language=en&from={shahid_from}&to={shahid_to}&country=DZ"
+    url = f"https://api3.shahid.net/proxy/v2.1/shahid-epg-api/?csvChannelIds={shahid_channel_ids}&language=en&from={shahid_from}&to={shahid_to}"
     
     try:
         response = requests.get(url, headers=HEADERS, timeout=10)
