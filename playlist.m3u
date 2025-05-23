@@ -13,7 +13,7 @@ http://livepptv.net:80/299819323222593/1593574628/7821
 http://livepptv.net:80/299819323222593/1593574628/7818
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE HD" tvg-logo="http://aptvpix.net/picons/NEW2022/arte.png" group-title="FRANCE HD",ARTE HD
 http://livepptv.net:80/299819323222593/1593574628/7732
-#EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="RDV LE 6/06" tvg-logo="" group-title="FRANCE HD",RDV LE 6/06
+#EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="T18 //SOON//" tvg-logo="" group-title="FRANCE HD",T18 //SOON//
 http://livepptv.net:80/299819323222593/1593574628/7744
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
 http://livepptv.net:80/299819323222593/1593574628/7742
@@ -21,7 +21,7 @@ http://livepptv.net:80/299819323222593/1593574628/7742
 http://livepptv.net:80/299819323222593/1593574628/7839
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
 http://livepptv.net:80/299819323222593/1593574628/7782
-#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="RDV LE 6/06 ^" tvg-logo="" group-title="FRANCE HD",RDV LE 6/06 ^
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NOVO 19 //SOON//" tvg-logo="" group-title="FRANCE HD",NOVO 19 //SOON//
 http://livepptv.net:80/299819323222593/1593574628/7810
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
 http://livepptv.net:80/299819323222593/1593574628/7790
@@ -943,6 +943,8 @@ http://livepptv.net:80/299819323222593/1593574628/137931
 http://livepptv.net:80/299819323222593/1593574628/142291
 #EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE D'AFRIQUE " tvg-logo="" group-title="FRANCE HD",TV5 MONDE D'AFRIQUE 
 http://livepptv.net:80/299819323222593/1593574628/142748
+#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL de CANNES" tvg-logo="" group-title="FRANCE HD",FESTIVAL de CANNES
+http://livepptv.net:80/299819323222593/1593574628/167922
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHD" tvg-logo="https://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE FHD",TF1 FHD
 http://livepptv.net:80/299819323222593/1593574628/94
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2 FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE FHD",FRANCE 2 FHD
@@ -1577,22 +1579,6 @@ http://livepptv.net:80/299819323222593/1593574628/134566
 http://livepptv.net:80/299819323222593/1593574628/134567
 #EXTINF:-1 tvg-id="DAZN_5" tvg-name="DAZN 5 " tvg-logo="https://aptvpix.net/pubs/2024/picons/dazn5b.png" group-title="SPORT FR",DAZN 5 
 http://livepptv.net:80/299819323222593/1593574628/134568
-#EXTINF:-1 tvg-id="DAZNLigue1M8.fr" tvg-name="DAZN LIGUE1 #1 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #1 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135160
-#EXTINF:-1 tvg-id="DAZNLigue1M1.fr" tvg-name="DAZN LIGUE 1 #2 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE 1 #2 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135161
-#EXTINF:-1 tvg-id="DAZNLigue1M2.fr" tvg-name="DAZN LIGUE1 #3 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #3 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135162
-#EXTINF:-1 tvg-id="DAZNLigue1M3.fr" tvg-name="DAZN LIGUE1 #4 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #4 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135163
-#EXTINF:-1 tvg-id="DAZNLigue1M4.fr" tvg-name="DAZN LIGUE1 #5 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #5 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135164
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 #6 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #6 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 #7 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #7 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135166
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 #8 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #8 ²⁵ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135167
 #EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="C+ PREMIER LEAGUE " tvg-logo="http://aptvpix.net/pubs/december2020/23-07-2021/canalpluspremierleague.png" group-title="SPORT FR",C+ PREMIER LEAGUE 
 http://livepptv.net:80/299819323222593/1593574628/76965
 #EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT HD
@@ -1757,28 +1743,6 @@ http://livepptv.net:80/299819323222593/1593574628/75801
 http://livepptv.net:80/299819323222593/1593574628/75802
 #EXTINF:-1 tvg-id="" tvg-name="L'EQUIPE LIVE 6" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT FR",L'EQUIPE LIVE 6
 http://livepptv.net:80/299819323222593/1593574628/75803
-#EXTINF:-1 tvg-id="" tvg-name="FFF TV 1" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/ffftv.png" group-title="SPORT FR",FFF TV 1
-http://livepptv.net:80/299819323222593/1593574628/142414
-#EXTINF:-1 tvg-id="" tvg-name="FFF TV 2" tvg-logo="" group-title="SPORT FR",FFF TV 2
-http://livepptv.net:80/299819323222593/1593574628/147195
-#EXTINF:-1 tvg-id="" tvg-name="FFF TV 3" tvg-logo="" group-title="SPORT FR",FFF TV 3
-http://livepptv.net:80/299819323222593/1593574628/147196
-#EXTINF:-1 tvg-id="" tvg-name="FFF TV 4" tvg-logo="" group-title="SPORT FR",FFF TV 4
-http://livepptv.net:80/299819323222593/1593574628/147197
-#EXTINF:-1 tvg-id="Alsace 20" tvg-name="FFF TV 5" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/ffftv.png" group-title="SPORT FR",FFF TV 5
-http://livepptv.net:80/299819323222593/1593574628/3543
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="FFF TV 6" tvg-logo="" group-title="SPORT FR",FFF TV 6
-http://livepptv.net:80/299819323222593/1593574628/23144
-#EXTINF:-1 tvg-id="" tvg-name="FFF TV 7" tvg-logo="" group-title="SPORT FR",FFF TV 7
-http://livepptv.net:80/299819323222593/1593574628/126382
-#EXTINF:-1 tvg-id="" tvg-name="FFF TV 8" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/ffftv.png" group-title="SPORT FR",FFF TV 8
-http://livepptv.net:80/299819323222593/1593574628/110110
-#EXTINF:-1 tvg-id="" tvg-name="FUTSAL ZONE TV" tvg-logo="https://aptvpix.net/pubs/2022/fzfutsal.png" group-title="SPORT FR",FUTSAL ZONE TV
-http://livepptv.net:80/299819323222593/1593574628/118406
-#EXTINF:-1 tvg-id="" tvg-name="FUTSAL ZONE TV 2" tvg-logo="https://aptvpix.net/pubs/2022/fzfutsal.png" group-title="SPORT FR",FUTSAL ZONE TV 2
-http://livepptv.net:80/299819323222593/1593574628/118407
-#EXTINF:-1 tvg-id="" tvg-name="FUTSAL ZONE TV 3" tvg-logo="https://aptvpix.net/pubs/2022/fzfutsal.png" group-title="SPORT FR",FUTSAL ZONE TV 3
-http://livepptv.net:80/299819323222593/1593574628/118408
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="SKWEEK TV " tvg-logo="http://aptvpix.net/pubs/2022/skweek.png" group-title="SPORT FR",SKWEEK TV 
 http://livepptv.net:80/299819323222593/1593574628/58450
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="SKWEEK #1" tvg-logo="http://aptvpix.net/pubs/2022/skweek.png" group-title="SPORT FR",SKWEEK #1
@@ -1795,38 +1759,6 @@ http://livepptv.net:80/299819323222593/1593574628/110105
 http://livepptv.net:80/299819323222593/1593574628/110968
 #EXTINF:-1 tvg-id="" tvg-name="SKWEEK #7" tvg-logo="http://aptvpix.net/pubs/2022/skweek.png" group-title="SPORT FR",SKWEEK #7
 http://livepptv.net:80/299819323222593/1593574628/110969
-#EXTINF:-1 tvg-id="daznligue1m1.fr" tvg-name="DAZN LIGUE1 1FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 1FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135168
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 1HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 1HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135148
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 2FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 2FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135149
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 2HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 2HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135150
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 3FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 3FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135169
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 3HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 3HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135151
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 4FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 4FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135170
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 4HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 4HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135152
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 5FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 5FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135171
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 5HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 5HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135153
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 6FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 6FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135154
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 6HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 6HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135155
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 7FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 7FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135156
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 7HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 7HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135157
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 8FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 8FHD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135158
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 8HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 8HD⁵⁰ᶠᵖˢ
-http://livepptv.net:80/299819323222593/1593574628/135159
 #EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="DAZN EVENT #1" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPORTHD/dazn.png" group-title="SPORT FR",DAZN EVENT #1
 http://livepptv.net:80/299819323222593/1593574628/114984
 #EXTINF:-1 tvg-id="" tvg-name="DAZN EVENT 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPORTHD/dazn.png" group-title="SPORT FR",DAZN EVENT 2
@@ -2027,14 +1959,124 @@ http://livepptv.net:80/299819323222593/1593574628/137939
 http://livepptv.net:80/299819323222593/1593574628/137940
 #EXTINF:-1 tvg-id="" tvg-name="LNB10" tvg-logo="https://www.lnb.tv/image/original/720a82f4-9b35-4662-9a7b-561ea9b2677f.png" group-title="SPORT FR",LNB10
 http://livepptv.net:80/299819323222593/1593574628/137941
-#EXTINF:-1 tvg-id="" tvg-name="BEIN WEB " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bein_sport_ana_logo.png/320px-Bein_sport_ana_logo.png" group-title="SPORT FR",BEIN WEB 
-http://livepptv.net:80/299819323222593/1593574628/118575
-#EXTINF:-1 tvg-id="" tvg-name="bein web 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bein_sport_ana_logo.png/320px-Bein_sport_ana_logo.png" group-title="SPORT FR",bein web 2
-http://livepptv.net:80/299819323222593/1593574628/142715
 #EXTINF:-1 tvg-id="" tvg-name="RMC TALK SPORT" tvg-logo="" group-title="SPORT FR",RMC TALK SPORT
 http://livepptv.net:80/299819323222593/1593574628/124281
 #EXTINF:-1 tvg-id="" tvg-name="AFTER FOOT TV" tvg-logo="" group-title="SPORT FR",AFTER FOOT TV
 http://livepptv.net:80/299819323222593/1593574628/162837
+#EXTINF:-1 tvg-id="DAZNLigue1M8.fr" tvg-name="DAZN LIGUE1 #1 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #1 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135160
+#EXTINF:-1 tvg-id="DAZNLigue1M1.fr" tvg-name="DAZN LIGUE 1 #2 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE 1 #2 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135161
+#EXTINF:-1 tvg-id="DAZNLigue1M2.fr" tvg-name="DAZN LIGUE1 #3 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #3 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135162
+#EXTINF:-1 tvg-id="DAZNLigue1M3.fr" tvg-name="DAZN LIGUE1 #4 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #4 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135163
+#EXTINF:-1 tvg-id="DAZNLigue1M4.fr" tvg-name="DAZN LIGUE1 #5 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #5 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135164
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 #6 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #6 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135165
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 #7 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #7 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135166
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 #8 ²⁵ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 #8 ²⁵ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135167
+#EXTINF:-1 tvg-id="" tvg-name="FUTSAL ZONE TV" tvg-logo="https://aptvpix.net/pubs/2022/fzfutsal.png" group-title="SPORT FR",FUTSAL ZONE TV
+http://livepptv.net:80/299819323222593/1593574628/118406
+#EXTINF:-1 tvg-id="" tvg-name="FUTSAL ZONE TV 2" tvg-logo="https://aptvpix.net/pubs/2022/fzfutsal.png" group-title="SPORT FR",FUTSAL ZONE TV 2
+http://livepptv.net:80/299819323222593/1593574628/118407
+#EXTINF:-1 tvg-id="" tvg-name="FUTSAL ZONE TV 3" tvg-logo="https://aptvpix.net/pubs/2022/fzfutsal.png" group-title="SPORT FR",FUTSAL ZONE TV 3
+http://livepptv.net:80/299819323222593/1593574628/118408
+#EXTINF:-1 tvg-id="daznligue1m1.fr" tvg-name="DAZN LIGUE1 1FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 1FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135168
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 1HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 1HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135148
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 2FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 2FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135149
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 2HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 2HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135150
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 3FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 3FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135169
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 3HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 3HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135151
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 4FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 4FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135170
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 4HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 4HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135152
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 5FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 5FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135171
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 5HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 5HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135153
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 6FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 6FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135154
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 6HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 6HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135155
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 7FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 7FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135156
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 7HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 7HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135157
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 8FHD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 8FHD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135158
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE1 8HD⁵⁰ᶠᵖˢ" tvg-logo="https://aptvpix.net/pubs/2024/picons/daznligue1.png" group-title="SPORT FR",DAZN LIGUE1 8HD⁵⁰ᶠᵖˢ
+http://livepptv.net:80/299819323222593/1593574628/135159
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 1" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/ffftv.png" group-title="SPORT FR",FFF TV 1
+http://livepptv.net:80/299819323222593/1593574628/142414
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 2" tvg-logo="" group-title="SPORT FR",FFF TV 2
+http://livepptv.net:80/299819323222593/1593574628/147195
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 3" tvg-logo="" group-title="SPORT FR",FFF TV 3
+http://livepptv.net:80/299819323222593/1593574628/147196
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 4" tvg-logo="" group-title="SPORT FR",FFF TV 4
+http://livepptv.net:80/299819323222593/1593574628/147197
+#EXTINF:-1 tvg-id="Alsace 20" tvg-name="FFF TV 5" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/ffftv.png" group-title="SPORT FR",FFF TV 5
+http://livepptv.net:80/299819323222593/1593574628/3543
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="FFF TV 6" tvg-logo="" group-title="SPORT FR",FFF TV 6
+http://livepptv.net:80/299819323222593/1593574628/23144
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 7" tvg-logo="" group-title="SPORT FR",FFF TV 7
+http://livepptv.net:80/299819323222593/1593574628/126382
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 8" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/ffftv.png" group-title="SPORT FR",FFF TV 8
+http://livepptv.net:80/299819323222593/1593574628/110110
+#EXTINF:-1 tvg-id="" tvg-name="FFF TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bein_sport_ana_logo.png/320px-Bein_sport_ana_logo.png" group-title="SPORT FR",FFF TV 9
+http://livepptv.net:80/299819323222593/1593574628/142715
+#EXTINF:-1 tvg-id="" tvg-name="PRIME RG 1 HD" tvg-logo="https://aptvpix.net/pubs/2022/primevideo.png" group-title="SPORT FR",PRIME RG 1 HD
+http://livepptv.net:80/299819323222593/1593574628/76177
+#EXTINF:-1 tvg-id="" tvg-name="PRIME RG 1 FHD" tvg-logo="https://aptvpix.net/pubs/2022/primevideo.png" group-title="SPORT FR",PRIME RG 1 FHD
+http://livepptv.net:80/299819323222593/1593574628/76178
+#EXTINF:-1 tvg-id="" tvg-name="PRIME RG 2" tvg-logo="https://aptvpix.net/pubs/2022/primevideo.png" group-title="SPORT FR",PRIME RG 2
+http://livepptv.net:80/299819323222593/1593574628/76179
+#EXTINF:-1 tvg-id="" tvg-name="PRIME RG 3" tvg-logo="https://aptvpix.net/pubs/2022/primevideo.png" group-title="SPORT FR",PRIME RG 3
+http://livepptv.net:80/299819323222593/1593574628/76180
+#EXTINF:-1 tvg-id="" tvg-name="Roland-Garros TV" tvg-logo="https://medias.france.tv/tYdxuxqBLUGyZ5-QEEO7lHGsNzo/1800x0/filters:quality(85):format(webp)/a/8/4/fb164fbee3684562b15d0ae465dc1520c448db9ffacba4765c90d37d3edbd48a.jpg" group-title="SPORT FR",Roland-Garros TV
+http://livepptv.net:80/299819323222593/1593574628/167846
+#EXTINF:-1 tvg-id="" tvg-name="RG Philippe CHATRIER " tvg-logo="https://images.prismic.io/fft-billetterie/162dbd46-8948-4b3e-9d90-532c2cbc1bd9_29-05-2023_RG_PB_8824-min.jpg?auto=compress,format" group-title="SPORT FR",RG Philippe CHATRIER 
+http://livepptv.net:80/299819323222593/1593574628/79628
+#EXTINF:-1 tvg-id="" tvg-name="RG Suzanne-Lenglen" tvg-logo="https://www.france.tv/image/vignette_16x9/300/168/p/m/x/ffa4a08d-phpeqrxmp.jpg" group-title="SPORT FR",RG Suzanne-Lenglen
+http://livepptv.net:80/299819323222593/1593574628/76611
+#EXTINF:-1 tvg-id="" tvg-name="RG Simonne Mathieu" tvg-logo="https://cf-images.eu-west-1.prod.boltdhttps://www.france.tv/image/vignette_16x9/800/450/9/8/q/e73dbdcc-phpfx2q89.jpg" group-title="SPORT FR",RG Simonne Mathieu
+http://livepptv.net:80/299819323222593/1593574628/79629
+#EXTINF:-1 tvg-id="" tvg-name="RG COURT 7" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG COURT 7
+http://livepptv.net:80/299819323222593/1593574628/79631
+#EXTINF:-1 tvg-id="" tvg-name="RG COURT 14" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG COURT 14
+http://livepptv.net:80/299819323222593/1593574628/118575
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 2" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 2
+http://livepptv.net:80/299819323222593/1593574628/76182
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 3" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 3
+http://livepptv.net:80/299819323222593/1593574628/76183
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 4" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 4
+http://livepptv.net:80/299819323222593/1593574628/131587
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 5" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 5
+http://livepptv.net:80/299819323222593/1593574628/131588
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 6" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 6
+http://livepptv.net:80/299819323222593/1593574628/76613
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 8" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 8
+http://livepptv.net:80/299819323222593/1593574628/131589
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 9" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 9
+http://livepptv.net:80/299819323222593/1593574628/131590
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 10" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 10
+http://livepptv.net:80/299819323222593/1593574628/131591
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 12" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 12
+http://livepptv.net:80/299819323222593/1593574628/131593
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 11" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 11
+http://livepptv.net:80/299819323222593/1593574628/131592
+#EXTINF:-1 tvg-id="" tvg-name="RG Court 13" tvg-logo="https://www.france.tv/image/logo/1000/1000/q/e/n/2179346b-phpdtineq.png" group-title="SPORT FR",RG Court 13
+http://livepptv.net:80/299819323222593/1593574628/131594
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR | beIN SPORTS NEWS" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS NEWS
 http://livepptv.net:80/299819323222593/1593574628/200
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR | beIN SPORTS HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS HD
@@ -2311,8 +2353,6 @@ http://livepptv.net:80/299819323222593/1593574628/99369
 http://livepptv.net:80/299819323222593/1593574628/175
 #EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/al24.png" group-title="ALGERIA",DZ | AL24 NEWS 
 http://livepptv.net:80/299819323222593/1593574628/81039
-#EXTINF:-1 tvg-id="" tvg-name="DZ | EL IKTISSADIA AOULA " tvg-logo="http://aptvpix.net/pubs/2022/arrow.png" group-title="ALGERIA",DZ | EL IKTISSADIA AOULA 
-http://livepptv.net:80/299819323222593/1593574628/181
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ENNAHAR TV " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ENNAHARTV.png" group-title="ALGERIA",DZ | ENNAHAR TV 
 http://livepptv.net:80/299819323222593/1593574628/190
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ECHOROUK NEWS" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQET-ALGERIA/ECHOUROUKNEWS.png" group-title="ALGERIA",DZ | ECHOROUK NEWS
@@ -2915,7 +2955,7 @@ http://livepptv.net:80/299819323222593/1593574628/38222
 http://livepptv.net:80/299819323222593/1593574628/38223
 #EXTINF:-1 tvg-id="Lb| One TV" tvg-name="AR | [LIB] ONE TV" tvg-logo="" group-title="ARABIC",AR | [LIB] ONE TV
 http://livepptv.net:80/299819323222593/1593574628/38228
-#EXTINF:-1 tvg-id="" tvg-name="AR | Platinum Records " tvg-logo="" group-title="ARABIC",AR | Platinum Records 
+#EXTINF:-1 tvg-id="" tvg-name="AR | Mazzika" tvg-logo="" group-title="ARABIC",AR | Mazzika
 http://livepptv.net:80/299819323222593/1593574628/38224
 #EXTINF:-1 tvg-id="" tvg-name="AR | publitools music " tvg-logo="" group-title="ARABIC",AR | publitools music 
 http://livepptv.net:80/299819323222593/1593574628/38225
