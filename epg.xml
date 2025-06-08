@@ -279,892 +279,786 @@
   <channel id="SkyNews.uk">
     <display-name>Sky News English</display-name>
   </channel>
-  <programme start="20250606220000 " stop="20250607000000 " channel="AbuDhabiTV.ae">
-    <title>Million Dollar Arm</title>
-    <desc> يتوجه مدرب رياضي إلى الهند أملاً في العثور على مواهب واعدة في رياضة البيسبول الأمريكية. يجد ضالته في شابين يعود بهما إلى الولايات المتحدة حيث يخضعان لتدريبات مكثفة وإصرارهما يحوّل المعاناة إلى نجاح.</desc>
-  </programme>
-  <programme start="20250607000000 " stop="20250607005500 " channel="AbuDhabiTV.ae">
-    <title>علوم الدار</title>
-    <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
-  </programme>
-  <programme start="20250607005500 " stop="20250607033000 " channel="AbuDhabiTV.ae">
-    <title>البعبع</title>
-    <desc>تنتهي عملية البحث المضني التي تؤرق محروس لفترة طويلة عندما يعرض عليه حارس عقار شقة للإيجار بمبلغ بسيط، وما كان من محروس سوى الموافقة والإسراع في توقيع العقد دون علمه بما ينتظره في شقة الأحلام.</desc>
-  </programme>
-  <programme start="20250607033000 " stop="20250607041000 " channel="AbuDhabiTV.ae">
-    <title>قلوب بيضاء</title>
-    <desc>قصص يومية ممزوجة بمواقف كوميدية تدور بين عائلتين وتستعرض علاقة أفرادها ببعضهم وبأصدقائهم وجيرانهم حين يتعرض البعض أو الجميع لمشاكل وأزمات تتغلب عليها الصحبة في النهاية.</desc>
-  </programme>
-  <programme start="20250607041000 " stop="20250607044000 " channel="AbuDhabiTV.ae">
-    <title>نكهات شبابية</title>
-    <desc>أطباق تقليدية بروح شبابية من تقديم اثنين من الطهاة يبدعان في ابتكار الوصفات عبر تحدي طريف لمهارات كل منهما وقدرته على تلبية مختلف الأذواق.</desc>
-  </programme>
-  <programme start="20250607044000 " stop="20250607073000 " channel="AbuDhabiTV.ae">
-    <title>البعبع</title>
-    <desc>تنتهي عملية البحث المضني التي تؤرق محروس لفترة طويلة عندما يعرض عليه حارس عقار شقة للإيجار بمبلغ بسيط، وما كان من محروس سوى الموافقة والإسراع في توقيع العقد دون علمه بما ينتظره في شقة الأحلام.</desc>
-  </programme>
-  <programme start="20250607073000 " stop="20250607103000 " channel="AbuDhabiTV.ae">
-    <title>كيرة والجن</title>
-    <desc>الاحتلال البريطاني وقسوة تداعياته التي توالت على الشعوب العربية لعقود كثيرة، يفرز حكاية ملحمية بطلاها أحمد كيرة وعبد القادر الملقب بالجن ورحلة نضال توحّد مصائرهما بالتزامن مع اندلاع ثورة 1919 في مصر.</desc>
-  </programme>
-  <programme start="20250607103000 " stop="20250607110000 " channel="AbuDhabiTV.ae">
-    <title>مودة ورحمة</title>
-    <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
-  </programme>
-  <programme start="20250607110000 " stop="20250607113000 " channel="AbuDhabiTV.ae">
-    <title>نشرة الأخبار</title>
-    <desc>نشرة الأخبار</desc>
-  </programme>
-  <programme start="20250607113000 " stop="20250607135000 " channel="AbuDhabiTV.ae">
-    <title>المحظوظ وأنا</title>
-    <desc>يختبر رايق سيطرة الحموات بكافة أبعادها لما يعانيه من تدخل حماته المفرط لتحول دون زواجه من ابنتها وردة وتلجأ لكافة السبل والألاعيب للإيقاع بينهما، لكن عمق حبهما ينجح في التغلب على كيد النساء.</desc>
-  </programme>
-  <programme start="20250607135000 " stop="20250607140000 " channel="AbuDhabiTV.ae">
+  <programme start="20250607204500 " stop="20250607205300 " channel="AbuDhabiTV.ae">
     <title>قصص من دارنا</title>
     <desc>رغم المتغيرات التي تفرضها العولمة وتسارع التطور التكنولوجي، هناك شخصيات لم تتأثر بمغريات الحداثة وبقيت ثابتة في وجه أمواج التغيير. إماراتيون متميزون حافظوا على التقاليد والموروث الأصيل، هذه حكاياتهم.</desc>
   </programme>
-  <programme start="20250607140000 " stop="20250607143000 " channel="AbuDhabiTV.ae">
-    <title>مكة وجهة القلوب</title>
-    <desc>يتطرق البرنامج إلى الأبعاد النفسية والاجتماعية لفريضة الحج والرحلة الروحانية إلى بيت الله الحرام - أطهر بقاع الأرض - حيث تتجه القلوب قبل الخطى.</desc>
+  <programme start="20250607205300 " stop="20250607210000 " channel="AbuDhabiTV.ae">
+    <title>شباب الإمارات</title>
+    <desc>قصص نجاح الشباب الإماراتي المتميز محلياً وعالمياً في ومضات قصصية تبرز الطاقات الشبابية المبدعة في شتى المجالات بدولة الإمارات والنصائح التي يوجهونها لأقرانهم من جيل الشباب ليثابروا على التميز والنجاح.</desc>
   </programme>
-  <programme start="20250607143000 " stop="20250607153000 " channel="AbuDhabiTV.ae">
-    <title>الممر</title>
-    <desc>نعبر مع مشاهير الوطن العربي في ممرات الحياة حيث يختلف كل ممر عن الآخر ويرتبط بمحطة ما في حياة الضيف تخاطب الوجدان في حديث الذكريات التي لا تفارقه وتجاربه وما تخللها من فرح وحزن ونجاحات أو إخفاقات.</desc>
+  <programme start="20250607210000 " stop="20250607213000 " channel="AbuDhabiTV.ae">
+    <title>The Box</title>
+    <desc>بدعوة كريمة تصل نجم الحلقة للسفر إلى الإمارات، يتوجه الضيف إلى هناك ويدرك حال وصوله أن الصندوق وما فيه حيلة تستدرجه إلى خوض غمار تحديات ومفاجآت ممزوجة بسحر الأماكن حيث سيستمتع بالشتاء الأجمل في العالم.</desc>
   </programme>
-  <programme start="20250607153000 " stop="20250607160000 " channel="AbuDhabiTV.ae">
-    <title>أذواق</title>
-    <desc>تجارب مشوقة زاخرة باختلاف الألوان والأذواق تتحدث عن أصحابها الذين استلهموا من الثراء البيئي والتراثي لدولة الإمارات لإحاطة أنفسهم بأجمل المقتنيات والتصاميم المستمدة من كافة المجالات الفنية والإبداعية.</desc>
+  <programme start="20250607213000 " stop="20250607220000 " channel="AbuDhabiTV.ae">
+    <title>سوالف يدوه</title>
+    <desc>تتوالى جلسات السمر مع الجدات الثلاث والأجواء الممتعة المصاحبة لأحاديثهن التي تناقش قضايا تهم المجتمع الإماراتي بقالب عصري محبب ممزوج بالأصالة والحكمة ومصحوب بزيارات يستكشفن عبرها عدة أماكن في الدولة.</desc>
   </programme>
-  <programme start="20250607160000 " stop="20250607170000 " channel="AbuDhabiTV.ae">
+  <programme start="20250607220000 " stop="20250608000000 " channel="AbuDhabiTV.ae">
+    <title>The Second Best Exotic Hotel</title>
+    <desc>بعد نجاح مشروع العمر، يخطط شاب ليخطو نحو تحقيق حلمه التالي وإنشاء فرع آخر للفندق الذي أعاد ترميمه في الهند واحتضن تجارب حياتية جديدة لمجموعة من المتقاعدين الأجانب الذين شاركوه الحلم والأفراح والأتراح.</desc>
+  </programme>
+  <programme start="20250608000000 " stop="20250608010000 " channel="AbuDhabiTV.ae">
     <title>علوم الدار</title>
     <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
   </programme>
-  <programme start="20250607170000 " stop="20250607175000 " channel="AbuDhabiTV.ae">
-    <title>بدون سابق إنذار</title>
-    <desc>يتحول زواج مروان وليلى إلى علاقة ضبابية يصبح الانفصال معها حتمياً، وإذ بطوفان أعنف يزلزل كيان الأسرة دون سابق إنذار. يكتشفان إصابة طفلهما بسرطان الدم وما يتبعه من حقائق يدفعهما إلى نفق بحث ضئيل النور.</desc>
+  <programme start="20250608010000 " stop="20250608031500 " channel="AbuDhabiTV.ae">
+    <title>المحظوظ وأنا</title>
+    <desc>يختبر رايق سيطرة الحموات بكافة أبعادها لما يعانيه من تدخل حماته المفرط لتحول دون زواجه من ابنتها وردة وتلجأ لكافة السبل والألاعيب للإيقاع بينهما، لكن عمق حبهما ينجح في التغلب على كيد النساء.</desc>
   </programme>
-  <programme start="20250607175000 " stop="20250607180000 " channel="AbuDhabiTV.ae">
-    <title>دقائق</title>
-    <desc>دقائق من المعرفة تواكب الاكتشافات من مختلف فروع العلوم وإنجازات التكنولوجيا الحديثة حول العالم لتقديم المعلومات والمفاهيم بطريقة مبسطة تثري العقول وتوسع الآفاق.</desc>
-  </programme>
-  <programme start="20250607180000 " stop="20250607190000 " channel="AbuDhabiTV.ae">
+  <programme start="20250608031500 " stop="20250608043000 " channel="AbuDhabiTV.ae">
     <title>آخر الأسبوع</title>
     <desc>أبرز أحداث الأسبوع في إطار ترفيهي يستعرض أهم المهرجانات والفعاليات في أبوظبي وما تقدمه من عروض لروادها خلال عطلة نهاية الأسبوع، إلى جانب متابعة آخر الأخبار الفنية وضيوف الدولة من النجوم والمشاهير.</desc>
   </programme>
-  <programme start="20250607190000 " stop="20250607204500 " channel="AbuDhabiTV.ae">
+  <programme start="20250608043000 " stop="20250608050000 " channel="AbuDhabiTV.ae">
+    <title>مودة ورحمة</title>
+    <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
+  </programme>
+  <programme start="20250608050000 " stop="20250608072000 " channel="AbuDhabiTV.ae">
+    <title>المحظوظ وأنا</title>
+    <desc>يختبر رايق سيطرة الحموات بكافة أبعادها لما يعانيه من تدخل حماته المفرط لتحول دون زواجه من ابنتها وردة وتلجأ لكافة السبل والألاعيب للإيقاع بينهما، لكن عمق حبهما ينجح في التغلب على كيد النساء.</desc>
+  </programme>
+  <programme start="20250608072000 " stop="20250608090000 " channel="AbuDhabiTV.ae">
     <title>من أجل زيكو</title>
     <desc>تنطلق رحلة تحقيق الحلم من حارة شعبية باتجاه واحة سيوة حيث تتوجه صفاء وزوجها فتحي وأسرته ليشارك الطفل زيكو بمسابقة أذكى طفل في مصر التي تعِد الصبي بمستقبل مشرق وتحمل للبقية مفارقات عجيبة على مدار يومين.</desc>
   </programme>
-  <programme start="20250606202000 " stop="20250606220000 " channel="EmiratesTV.ae">
-    <title>الغسالة</title>
-    <desc>ينجح عمر بتحويل غسالة إلى آلة يسافر فيها عبر الزمن ليتمكن من تغيير مسار حياته والزواج من عايدة. وفي كل رحلة ينتقل فيها بين الماضي والحاضر والمستقبل تتوالى المفارقات المضحكة وهو ينافس سامح على حب عايدة.</desc>
+  <programme start="20250608090000 " stop="20250608100500 " channel="AbuDhabiTV.ae">
+    <title>آخر الأسبوع</title>
+    <desc>أبرز أحداث الأسبوع في إطار ترفيهي يستعرض أهم المهرجانات والفعاليات في أبوظبي وما تقدمه من عروض لروادها خلال عطلة نهاية الأسبوع، إلى جانب متابعة آخر الأخبار الفنية وضيوف الدولة من النجوم والمشاهير.</desc>
   </programme>
-  <programme start="20250606220000 " stop="20250606223000 " channel="EmiratesTV.ae">
-    <title>الطرشة</title>
-    <desc>يواصل محمد صابر المزروعي رحلاته لاستكشاف البيئة البحرية في الدولة، ويقوم في هذا الموسم برحلة من جزيرة راس غراب في أبوظبي إلى المرفأ في المنطقة الغربية ليعرّف على تاريخها وأسلوب الحياة فيها قديماً.</desc>
+  <programme start="20250608100500 " stop="20250608103000 " channel="AbuDhabiTV.ae">
+    <title>The Box</title>
+    <desc>بدعوة كريمة تصل نجم الحلقة للسفر إلى الإمارات، يتوجه الضيف إلى هناك ويدرك حال وصوله أن الصندوق وما فيه حيلة تستدرجه إلى خوض غمار تحديات ومفاجآت ممزوجة بسحر الأماكن حيث سيستمتع بالشتاء الأجمل في العالم.</desc>
   </programme>
-  <programme start="20250606223000 " stop="20250606230000 " channel="EmiratesTV.ae">
-    <title>أرضنا الطيبة</title>
-    <desc>إنجازات وشخصيات إماراتية هي للريادة والابتكار عنوان، غرست بذور بداياتها الطموحة في أرض الإمارات الطيبة فأثمرت لتتحول الرؤى إلى قصص نجاح تستكمل مسيرة الدولة الحافلة بالنجاحات عبر مختلف القطاعات.</desc>
-  </programme>
-  <programme start="20250606230000 " stop="20250607011000 " channel="EmiratesTV.ae">
-    <title>المحظوظ وأنا</title>
-    <desc>يختبر رايق سيطرة الحموات بكافة أبعادها لما يعانيه من تدخل حماته المفرط لتحول دون زواجه من ابنتها وردة وتلجأ لكافة السبل والألاعيب للإيقاع بينهما، لكن عمق حبهما ينجح في التغلب على كيد النساء.</desc>
-  </programme>
-  <programme start="20250607011000 " stop="20250607021000 " channel="EmiratesTV.ae">
-    <title>علوم الدار</title>
-    <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
-  </programme>
-  <programme start="20250607021000 " stop="20250607024000 " channel="EmiratesTV.ae">
+  <programme start="20250608103000 " stop="20250608110000 " channel="AbuDhabiTV.ae">
     <title>مودة ورحمة</title>
     <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
   </programme>
-  <programme start="20250607024000 " stop="20250607030000 " channel="EmiratesTV.ae">
-    <title>أهل العطاء</title>
-    <desc>رحلة نجاح مشتركة بين مؤسسة &quot;معاً&quot; وشخصيات كانت تعاني من فقدان الانتماء لحين قامت المؤسسة بتقديم الدعم اللازم لتمكين وتشجيع هؤلاء الأفراد على الاندماج في المجتمع في ظل مساعيها لتحقيق التنمية الاجتماعية.</desc>
+  <programme start="20250608110000 " stop="20250608113000 " channel="AbuDhabiTV.ae">
+    <title>نشرة الأخبار</title>
+    <desc>نشرة الأخبار</desc>
   </programme>
-  <programme start="20250607030000 " stop="20250607032200 " channel="EmiratesTV.ae">
-    <title>أمونة المزيونة </title>
-    <desc>برنامجنا رقم 1
-إنها في الخامسة فقط ، لكن السماء هي حدودها! امونة تذهب في مغامرات لا نهاية لها لاكتشاف  العالم المذهل من حولها حيث يلتقي الواقع بالخيالل.
-</desc>
+  <programme start="20250608113000 " stop="20250608152000 " channel="AbuDhabiTV.ae">
+    <title>يا مسافر وحدك</title>
+    <desc>أحداث مريبة ليلة زفاف أنسي آدم تمهّد للحدث الجلل الذي يقع حين يتم قتله وهو يراقص عروسه. يصحو بعدها ليعيش تجربة مبهمة يتوه فيها بين عتبة الحياة والموت، ويدرك عواقب العمل الصالح عندما تحين ساعة الحقيقة.</desc>
   </programme>
-  <programme start="20250607032200 " stop="20250607034300 " channel="EmiratesTV.ae">
-    <title>أمونة المزيونة </title>
-    <desc>برنامجنا رقم 1
-إنها في الخامسة فقط ، لكن السماء هي حدودها! امونة تذهب في مغامرات لا نهاية لها لاكتشاف  العالم المذهل من حولها حيث يلتقي الواقع بالخيالل.
-</desc>
-  </programme>
-  <programme start="20250607034300 " stop="20250607040500 " channel="EmiratesTV.ae">
-    <title>نرويها</title>
-    <desc>قصص نجاح غرسها أصحابها في تراب موطنهم وثابروا في سعيهم لنجاحها حتى رأوها تنمو وتصبح مشاريع هامة تساهم في  تعزيز القطاع الزراعي والأمن الغذائي وزيادة الإنتاج المحلي في الدولة.</desc>
-  </programme>
-  <programme start="20250607040500 " stop="20250607050000 " channel="EmiratesTV.ae">
-    <title>صانعو السيارات الخارقة</title>
-    <desc>فريق من الخبراء والفنيّين يعملون بدأب لمواجهة تحدي تحويل مركبات عادية إلى سيارات فاخرة تفوق توقعات أصحابها من حيث تصميمها وخصائصها الميكانيكية.</desc>
-  </programme>
-  <programme start="20250607050000 " stop="20250607052200 " channel="EmiratesTV.ae">
-    <title>الطرشة</title>
-    <desc>يواصل محمد صابر المزروعي رحلاته لاستكشاف البيئة البحرية في الدولة، ويقوم في هذا الموسم برحلة من جزيرة راس غراب في أبوظبي إلى المرفأ في المنطقة الغربية ليعرّف على تاريخها وأسلوب الحياة فيها قديماً.</desc>
-  </programme>
-  <programme start="20250607052200 " stop="20250607053000 " channel="EmiratesTV.ae">
+  <programme start="20250608152000 " stop="20250608153000 " channel="AbuDhabiTV.ae">
     <title>قصص من دارنا</title>
     <desc>رغم المتغيرات التي تفرضها العولمة وتسارع التطور التكنولوجي، هناك شخصيات لم تتأثر بمغريات الحداثة وبقيت ثابتة في وجه أمواج التغيير. إماراتيون متميزون حافظوا على التقاليد والموروث الأصيل، هذه حكاياتهم.</desc>
   </programme>
-  <programme start="20250607053000 " stop="20250607060000 " channel="EmiratesTV.ae">
-    <title>مودة ورحمة</title>
-    <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
+  <programme start="20250608153000 " stop="20250608160000 " channel="AbuDhabiTV.ae">
+    <title>The Box</title>
+    <desc>بدعوة كريمة تصل نجم الحلقة للسفر إلى الإمارات، يتوجه الضيف إلى هناك ويدرك حال وصوله أن الصندوق وما فيه حيلة تستدرجه إلى خوض غمار تحديات ومفاجآت ممزوجة بسحر الأماكن حيث سيستمتع بالشتاء الأجمل في العالم.</desc>
   </programme>
-  <programme start="20250607060000 " stop="20250607063500 " channel="EmiratesTV.ae">
-    <title>بالحكمة</title>
-    <desc>يعمل البرنامج على توضيح الرأي الشرعي والأحكام الفقهية التي تهم المسلم في عباداته ومعاملاته فيما يخص مختلف مجالات الحياة، إلى جانب إبراز عدد من المساجد المنتشرة في في أرجاء إمارة أبوظبي.</desc>
+  <programme start="20250608160000 " stop="20250608170000 " channel="AbuDhabiTV.ae">
+    <title>علوم الدار</title>
+    <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
   </programme>
-  <programme start="20250607063500 " stop="20250607081000 " channel="EmiratesTV.ae">
-    <title>الغسالة</title>
-    <desc>ينجح عمر بتحويل غسالة إلى آلة يسافر فيها عبر الزمن ليتمكن من تغيير مسار حياته والزواج من عايدة. وفي كل رحلة ينتقل فيها بين الماضي والحاضر والمستقبل تتوالى المفارقات المضحكة وهو ينافس سامح على حب عايدة.</desc>
+  <programme start="20250608170000 " stop="20250608180000 " channel="AbuDhabiTV.ae">
+    <title>مذكرات زوج</title>
+    <desc>تبدأ أزمة منتصف العمر بالتسلل إلى حياة رؤوف ويضيق بدوره كزوج مقهور خانع لزوجة متسلطة. يقرر التمرد على الحياة التي لم تعد تشبهه ليحقق أحلامه المؤجلة باللجوء إلى طبيب نفسي يضاهيه في انتكاس حياته الزوجية.</desc>
   </programme>
-  <programme start="20250607081000 " stop="20250607083000 " channel="EmiratesTV.ae">
-    <title>نرويها</title>
-    <desc>قصص نجاح غرسها أصحابها في تراب موطنهم وثابروا في سعيهم لنجاحها حتى رأوها تنمو وتصبح مشاريع هامة تساهم في  تعزيز القطاع الزراعي والأمن الغذائي وزيادة الإنتاج المحلي في الدولة.</desc>
+  <programme start="20250608180000 " stop="20250608190000 " channel="AbuDhabiTV.ae">
+    <title>غوردن رامزي - أسرار الطعام</title>
+    <desc>الشيف (غوردن رامزي) الشغوف بفن الطهي يقدم تجربة ممتعة يمزج فيها بين فنون الطهي والحضارات المتنوعة التي ينغمس فيها من خلال أسفاره إلى كافة أقطاب الأرض بحثاً عن المتعة والثقافة.</desc>
   </programme>
-  <programme start="20250607083000 " stop="20250607110000 " channel="EmiratesTV.ae">
-    <title>المحظوظ وأنا</title>
-    <desc>يختبر رايق سيطرة الحموات بكافة أبعادها لما يعانيه من تدخل حماته المفرط لتحول دون زواجه من ابنتها وردة وتلجأ لكافة السبل والألاعيب للإيقاع بينهما، لكن عمق حبهما ينجح في التغلب على كيد النساء.</desc>
+  <programme start="20250608190000 " stop="20250608210000 " channel="AbuDhabiTV.ae">
+    <title>توأم روحي</title>
+    <desc>يفقد عمر الرغبة في الحياة حين تتوفى زوجته ريم وهما في شهر العسل ويغرق في دوامة أحزانه. يخضع لجلسات علاجية توجه عقله الباطن نحو عوالم افتراضية حيث يلتقي ريم بهيئات مختلفة وتنتهي الرحلة بلقائه توأم روحه.</desc>
   </programme>
-  <programme start="20250607110000 " stop="20250607113000 " channel="EmiratesTV.ae">
-    <title>مودة ورحمة</title>
-    <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
+  <programme start="20250607214500 " stop="20250607233000 " channel="EmiratesTV.ae">
+    <title>البدلة</title>
+    <desc>فشل وخيبات أمل متكررة تضع حمادة وابن أخته وليد على هامش الحياة حتى تسوقهما الصدفة لحضور حفلة متنكرين كضباط شرطة ليثير وليد إعجاب ريم. يستمتعان في اللعبة لحين تضعهما الصدفة في مواجهة مجرم دولي خطير.</desc>
   </programme>
-  <programme start="20250607113000 " stop="20250607120000 " channel="EmiratesTV.ae">
+  <programme start="20250607233000 " stop="20250608003000 " channel="EmiratesTV.ae">
+    <title>المدينة الذكية</title>
+    <desc>تحتل أبوظبي الصدارة في مؤشرات المدن الذكية بالمنطقة بفضل توظيفها أبرز التقنيات والبرمجيات الذكية في المجالات الحيوية. تتناول الحلقات إنجازات الإمارة في هذا المجال ومشاريعها المبتكرة في كافة القطاعات.</desc>
+  </programme>
+  <programme start="20250608003000 " stop="20250608010000 " channel="EmiratesTV.ae">
+    <title>أرضنا الطيبة</title>
+    <desc>إنجازات وشخصيات إماراتية هي للريادة والابتكار عنوان، غرست بذور بداياتها الطموحة في أرض الإمارات الطيبة فأثمرت لتتحول الرؤى إلى قصص نجاح تستكمل مسيرة الدولة الحافلة بالنجاحات عبر مختلف القطاعات.</desc>
+  </programme>
+  <programme start="20250608010000 " stop="20250608020000 " channel="EmiratesTV.ae">
+    <title>علوم الدار</title>
+    <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
+  </programme>
+  <programme start="20250608020000 " stop="20250608030000 " channel="EmiratesTV.ae">
+    <title>أسرار حديقة الحيوانات - تامبا</title>
+    <desc>رحلة ممتعة إلى حديقة حيوانات تامبا في ولاية فلوريدا الأمريكية التي تجمع فصائل حيوانات من ثلاث قارات مختلفة يتفانى فريق من المختصين في رعايتها وحمايتها.</desc>
+  </programme>
+  <programme start="20250608030000 " stop="20250608032000 " channel="EmiratesTV.ae">
+    <title>أمونة المزيونة </title>
+    <desc>برنامجنا رقم 1
+إنها في الخامسة فقط ، لكن السماء هي حدودها! امونة تذهب في مغامرات لا نهاية لها لاكتشاف  العالم المذهل من حولها حيث يلتقي الواقع بالخيالل.
+</desc>
+  </programme>
+  <programme start="20250608032000 " stop="20250608034500 " channel="EmiratesTV.ae">
     <title>أمونة</title>
     <desc>برنامجنا رقم 1
 إنها في الخامسة فقط ، لكن السماء هي حدودها! امونة تذهب في مغامرات لا نهاية لها لاكتشاف  العالم المذهل من حولها حيث يلتقي الواقع بالخيال.
 </desc>
   </programme>
-  <programme start="20250607120000 " stop="20250607135000 " channel="EmiratesTV.ae">
-    <title>البدلة</title>
-    <desc>فشل وخيبات أمل متكررة تضع حمادة وابن أخته وليد على هامش الحياة حتى تسوقهما الصدفة لحضور حفلة متنكرين كضباط شرطة ليثير وليد إعجاب ريم. يستمتعان في اللعبة لحين تضعهما الصدفة في مواجهة مجرم دولي خطير.</desc>
-  </programme>
-  <programme start="20250607135000 " stop="20250607140000 " channel="EmiratesTV.ae">
-    <title>شباب الإمارات</title>
-    <desc>قصص نجاح الشباب الإماراتي المتميز محلياً وعالمياً في ومضات قصصية تبرز الطاقات الشبابية المبدعة في شتى المجالات بدولة الإمارات والنصائح التي يوجهونها لأقرانهم من جيل الشباب ليثابروا على التميز والنجاح.</desc>
-  </programme>
-  <programme start="20250607140000 " stop="20250607143000 " channel="EmiratesTV.ae">
-    <title>مكة وجهة القلوب</title>
-    <desc>يتطرق البرنامج إلى الأبعاد النفسية والاجتماعية لفريضة الحج والرحلة الروحانية إلى بيت الله الحرام - أطهر بقاع الأرض - حيث تتجه القلوب قبل الخطى.</desc>
-  </programme>
-  <programme start="20250607143000 " stop="20250607150000 " channel="EmiratesTV.ae">
+  <programme start="20250608034500 " stop="20250608041500 " channel="EmiratesTV.ae">
     <title>مودة ورحمة</title>
     <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
   </programme>
-  <programme start="20250607150000 " stop="20250607160000 " channel="EmiratesTV.ae">
-    <title>أسرار حديقة الحيوانات - تامبا</title>
-    <desc>رحلة ممتعة إلى حديقة حيوانات تامبا في ولاية فلوريدا الأمريكية التي تجمع فصائل حيوانات من ثلاث قارات مختلفة يتفانى فريق من المختصين في رعايتها وحمايتها.</desc>
+  <programme start="20250608041500 " stop="20250608044500 " channel="EmiratesTV.ae">
+    <title>أرضنا الطيبة</title>
+    <desc>إنجازات وشخصيات إماراتية هي للريادة والابتكار عنوان، غرست بذور بداياتها الطموحة في أرض الإمارات الطيبة فأثمرت لتتحول الرؤى إلى قصص نجاح تستكمل مسيرة الدولة الحافلة بالنجاحات عبر مختلف القطاعات.</desc>
   </programme>
-  <programme start="20250607160000 " stop="20250607163000 " channel="EmiratesTV.ae">
-    <title>الطرشة</title>
-    <desc>يواصل محمد صابر المزروعي رحلاته لاستكشاف البيئة البحرية في الدولة، ويقوم في هذا الموسم برحلة من جزيرة راس غراب في أبوظبي إلى المرفأ في المنطقة الغربية ليعرّف على تاريخها وأسلوب الحياة فيها قديماً.</desc>
+  <programme start="20250608044500 " stop="20250608052000 " channel="EmiratesTV.ae">
+    <title>بالحكمة</title>
+    <desc>يعمل البرنامج على توضيح الرأي الشرعي والأحكام الفقهية التي تهم المسلم في عباداته ومعاملاته فيما يخص مختلف مجالات الحياة، إلى جانب إبراز عدد من المساجد المنتشرة في في أرجاء إمارة أبوظبي.</desc>
   </programme>
-  <programme start="20250607163000 " stop="20250607170000 " channel="EmiratesTV.ae">
-    <title>مشكال</title>
-    <desc>عدسة فنية تنقل الجانب الإبداعي لبعض الحرف التقليدية التي توارثتها الأجيال عبر السنين وما زالت تمارس حتى اليوم لكن بشكل عصري ولمسة من الحداثة، مع التعريف بتاريخ كل حرفة ومكانتها في التراث الإماراتي.</desc>
+  <programme start="20250608052000 " stop="20250608070000 " channel="EmiratesTV.ae">
+    <title>البدلة</title>
+    <desc>فشل وخيبات أمل متكررة تضع حمادة وابن أخته وليد على هامش الحياة حتى تسوقهما الصدفة لحضور حفلة متنكرين كضباط شرطة ليثير وليد إعجاب ريم. يستمتعان في اللعبة لحين تضعهما الصدفة في مواجهة مجرم دولي خطير.</desc>
   </programme>
-  <programme start="20250607170000 " stop="20250607180000 " channel="EmiratesTV.ae">
-    <title>علوم الدار</title>
-    <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
-  </programme>
-  <programme start="20250607180000 " stop="20250607214500 " channel="EmiratesTV.ae">
+  <programme start="20250608070000 " stop="20250608110000 " channel="EmiratesTV.ae">
     <title>يا مسافر وحدك</title>
     <desc>أحداث مريبة ليلة زفاف أنسي آدم تمهّد للحدث الجلل الذي يقع حين يتم قتله وهو يراقص عروسه. يصحو بعدها ليعيش تجربة مبهمة يتوه فيها بين عتبة الحياة والموت، ويدرك عواقب العمل الصالح عندما تحين ساعة الحقيقة.</desc>
   </programme>
-  <programme start="20250606200000 " stop="20250606210000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Africa's Deadliest S7 - HD</title>
-    <desc>Africa's Deadliest S7 - HD: Ep   2 Oceans</desc>
+  <programme start="20250608110000 " stop="20250608113000 " channel="EmiratesTV.ae">
+    <title>مودة ورحمة</title>
+    <desc>يبحث البرنامج في قيم التكافل الاجتماعي وأهميتها خلال موسم الحج، والجوانب الأخرى التي تتجلى في هذا الوقت المبارك من تعزيز قيم العطاء والعلاقات الأسرية والمجتمعة والرحمة بين الناس وأعمال البر والإحسان.</desc>
   </programme>
-  <programme start="20250606210000 " stop="20250606220000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Primal Survivor Season 5 - HD</title>
-    <desc>Primal Survivor: Compilation Season 4 - HD: Ep5-Ex</desc>
+  <programme start="20250608113000 " stop="20250608120000 " channel="EmiratesTV.ae">
+    <title>أمونة</title>
+    <desc>برنامجنا رقم 1
+إنها في الخامسة فقط ، لكن السماء هي حدودها! امونة تذهب في مغامرات لا نهاية لها لاكتشاف  العالم المذهل من حولها حيث يلتقي الواقع بالخيال.
+</desc>
   </programme>
-  <programme start="20250606220000 " stop="20250606223000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Science of Stupid S8 - HD</title>
-    <desc>Science of Stupid S8 - HD: Ep   9</desc>
+  <programme start="20250608120000 " stop="20250608141000 " channel="EmiratesTV.ae">
+    <title>العارف</title>
+    <desc>عملية الاغتيال التي أودت بحياة والديّ زوجته بدلاَ من حياته دفعت يونس لاعتزال الحياة كلياًَ لحين ظهور العارف من جديد، الإرهابي الذي سعى لتصفية يونس وأقحمه في حرب شرسة قوامها الاستخبارات الإلكترونية.</desc>
   </programme>
-  <programme start="20250606223000 " stop="20250606230000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Science of Stupid S8 - HD</title>
-    <desc>Science of Stupid S8 - HD: Ep  10</desc>
+  <programme start="20250608141000 " stop="20250608144000 " channel="EmiratesTV.ae">
+    <title>مكة وجهة القلوب</title>
+    <desc>يتطرق البرنامج إلى الأبعاد النفسية والاجتماعية لفريضة الحج والرحلة الروحانية إلى بيت الله الحرام - أطهر بقاع الأرض - حيث تتجه القلوب قبل الخطى.</desc>
   </programme>
-  <programme start="20250606230000 " stop="20250607000000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Buried Secrets of WWII - HD</title>
-    <desc>Buried Secrets of WWII - HD: Ep 4-Battle That Won </desc>
+  <programme start="20250608144000 " stop="20250608150000 " channel="EmiratesTV.ae">
+    <title>نرويها</title>
+    <desc>قصص نجاح غرسها أصحابها في تراب موطنهم وثابروا في سعيهم لنجاحها حتى رأوها تنمو وتصبح مشاريع هامة تساهم في  تعزيز القطاع الزراعي والأمن الغذائي وزيادة الإنتاج المحلي في الدولة.</desc>
   </programme>
-  <programme start="20250607000000 " stop="20250607010000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>When Shark Attack S5 -HD</title>
-    <desc>When Shark Attack S5 -HD: Ep5-Jersey Gore</desc>
+  <programme start="20250608150000 " stop="20250608160000 " channel="EmiratesTV.ae">
+    <title>صانعو السيارات الخارقة</title>
+    <desc>فريق من الخبراء والفنيّين يعملون بدأب لمواجهة تحدي تحويل مركبات عادية إلى سيارات فاخرة تفوق توقعات أصحابها من حيث تصميمها وخصائصها الميكانيكية.</desc>
   </programme>
-  <programme start="20250607010000 " stop="20250607020000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>First Alaskans</title>
-    <desc>First Alaskans (1): Ep 5 Cold Catch</desc>
+  <programme start="20250608160000 " stop="20250608163000 " channel="EmiratesTV.ae">
+    <title>عشان صحتك يا غالي</title>
+    <desc>أشهى الأطباق الرمضانية بأبسط طرق الطهي مع الشيف شامي الذي يضيف لمساته الإبداعية المعروفة أثناء إعداد الوصفات في كل يوم من أيام الشهر الفضيل.</desc>
   </programme>
-  <programme start="20250607020000 " stop="20250607030000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Defending Europe</title>
-    <desc>Defending Europe (1): Ep  5 France</desc>
+  <programme start="20250608163000 " stop="20250608170000 " channel="EmiratesTV.ae">
+    <title>أهل العطاء</title>
+    <desc>رحلة نجاح مشتركة بين مؤسسة &quot;معاً&quot; وشخصيات كانت تعاني من فقدان الانتماء لحين قامت المؤسسة بتقديم الدعم اللازم لتمكين وتشجيع هؤلاء الأفراد على الاندماج في المجتمع في ظل مساعيها لتحقيق التنمية الاجتماعية.</desc>
   </programme>
-  <programme start="20250607030000 " stop="20250607040000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Hostile Planet: </title>
-    <desc>Hostile Planet: Masters of The Freeze - HD</desc>
+  <programme start="20250608170000 " stop="20250608180000 " channel="EmiratesTV.ae">
+    <title>علوم الدار</title>
+    <desc>نشرة إخبارية تستعرض آخر الأخبار والتطورات داخل دولة الإمارات من أحداث راهنة ومستجدات في الشأن السياسي، الاقتصادي، الرياضي والفني.</desc>
   </programme>
-  <programme start="20250607040000 " stop="20250607050000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Sharkfest - HD</title>
-    <desc>Sharkfest - HD: Forecast: Shark Attack</desc>
+  <programme start="20250608180000 " stop="20250608205000 " channel="EmiratesTV.ae">
+    <title>البعبع</title>
+    <desc>تنتهي عملية البحث المضني التي تؤرق محروس لفترة طويلة عندما يعرض عليه حارس عقار شقة للإيجار بمبلغ بسيط، وما كان من محروس سوى الموافقة والإسراع في توقيع العقد دون علمه بما ينتظره في شقة الأحلام.</desc>
   </programme>
-  <programme start="20250607050000 " stop="20250607060000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>الناجي البدائي: رحلات السفاري الأفريقية المتطرفة 1</title>
-    <desc>Primal Survivor: Extreme African Safari -EP-2- Val</desc>
-  </programme>
-  <programme start="20250607060000 " stop="20250607070000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Africa's Deadliest S7 - HD</title>
-    <desc>Africa's Deadliest S7 - HD: Ep   2 Oceans</desc>
-  </programme>
-  <programme start="20250607070000 " stop="20250607080000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Primal Survivor Season 5 - HD</title>
-    <desc>Primal Survivor: Compilation Season 4 - HD: Ep5-Ex</desc>
-  </programme>
-  <programme start="20250607080000 " stop="20250607090000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>أوروبا من الأعلى</title>
-    <desc>Europe from Above S3 - HD: Ep1- Norway</desc>
-  </programme>
-  <programme start="20250607090000 " stop="20250607100000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>أوروبا من الأعلى</title>
-    <desc>Europe from Above S3 - HD: Ep4 - Switzerland</desc>
-  </programme>
-  <programme start="20250607100000 " stop="20250607110000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>أوروبا من الأعلى</title>
-    <desc>Europe from Above S3 - HD: Ep5 - Ireland</desc>
-  </programme>
-  <programme start="20250607110000 " stop="20250607120000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>First Alaskans</title>
-    <desc>First Alaskans (1): Ep 5 Cold Catch</desc>
-  </programme>
-  <programme start="20250607120000 " stop="20250607130000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Defending Europe</title>
-    <desc>Defending Europe (1): Ep  5 France</desc>
-  </programme>
-  <programme start="20250607130000 " stop="20250607140000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Hostile Planet: </title>
-    <desc>Hostile Planet: Masters of The Freeze - HD</desc>
-  </programme>
-  <programme start="20250607140000 " stop="20250607150000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>Sharkfest - HD</title>
-    <desc>Sharkfest - HD: Forecast: Shark Attack</desc>
-  </programme>
-  <programme start="20250607150000 " stop="20250607160000 " channel="NationalGeographicAbuDhabi.ae">
-    <title>الناجي البدائي: رحلات السفاري الأفريقية المتطرفة 1</title>
-    <desc>Primal Survivor: Extreme African Safari -EP-2- Val</desc>
-  </programme>
-  <programme start="20250607160000 " stop="20250607170000 " channel="NationalGeographicAbuDhabi.ae">
+  <programme start="20250607200000 " stop="20250607210000 " channel="NationalGeographicAbuDhabi.ae">
     <title>Queens-EP-6 Mountain Queens</title>
     <desc>Queens-EP-6 Mountain Queens</desc>
   </programme>
-  <programme start="20250607170000 " stop="20250607180000 " channel="NationalGeographicAbuDhabi.ae">
+  <programme start="20250607210000 " stop="20250607220000 " channel="NationalGeographicAbuDhabi.ae">
     <title>Egypt's Treasure Guardians -HD</title>
     <desc>Egypt's Treasure Guardians -HD</desc>
   </programme>
-  <programme start="20250607180000 " stop="20250607190000 " channel="NationalGeographicAbuDhabi.ae">
+  <programme start="20250607220000 " stop="20250607230000 " channel="NationalGeographicAbuDhabi.ae">
     <title>رحلة عبر الصين</title>
     <desc>Extreme China - HD: Ep   3</desc>
   </programme>
-  <programme start="20250607190000 " stop="20250607200000 " channel="NationalGeographicAbuDhabi.ae">
+  <programme start="20250607230000 " stop="20250608000000 " channel="NationalGeographicAbuDhabi.ae">
     <title>Air Crash Investigation 19 - HD</title>
     <desc>Air Crash Investigation 19 - HD: Explosive Touchdo</desc>
   </programme>
-  <programme start="20250606200000 " stop="20250606203000 " channel="MajidTV.ae">
-    <title>THE DOG FLANDER</title>
-    <desc>THE DOG FLANDER: Ep  25</desc>
+  <programme start="20250608000000 " stop="20250608010000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Soul of The Cat </title>
+    <desc>Soul of The Cat - HD</desc>
   </programme>
-  <programme start="20250606203000 " stop="20250606210000 " channel="MajidTV.ae">
-    <title>THE DOG FLANDER</title>
-    <desc>THE DOG FLANDER: Ep  26</desc>
+  <programme start="20250608010000 " stop="20250608013000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>علم البسطاء</title>
+    <desc>Science of Stupid S7 - HD: Ep   1</desc>
   </programme>
-  <programme start="20250606210000 " stop="20250606213000 " channel="MajidTV.ae">
-    <title>فهد البراري</title>
-    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  <programme start="20250608013000 " stop="20250608020000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>علم البسطاء</title>
+    <desc>Science of Stupid S7 - HD: Ep   2</desc>
   </programme>
-  <programme start="20250606223000 " stop="20250606230000 " channel="MajidTV.ae">
-    <title>فهد البراري</title>
-    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  <programme start="20250608020000 " stop="20250608030000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>World's Greatest Train Journeys from Above - HD</title>
+    <desc>World's Greatest Train Journeys from Above - HD: E</desc>
   </programme>
-  <programme start="20250606230000 " stop="20250606233000 " channel="MajidTV.ae">
-    <title>فهد البراري</title>
-    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  <programme start="20250608030000 " stop="20250608040000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Yukon Vet: Double O Oakley</title>
+    <desc>Yukon Vet: Double O Oakley</desc>
   </programme>
-  <programme start="20250606233000 " stop="20250606234500 " channel="MajidTV.ae">
-    <title>تاينا و حراس الأمازون</title>
-    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
-</desc>
+  <programme start="20250608040000 " stop="20250608050000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Lost Treasures of Egypt - HD</title>
+    <desc>Lost Treasures of Egypt - HD: Women Warriors</desc>
   </programme>
-  <programme start="20250607003000 " stop="20250607004500 " channel="MajidTV.ae">
-    <title>تاينا و حراس الأمازون</title>
-    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
-</desc>
+  <programme start="20250608050000 " stop="20250608053000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>The Forever Walk: China -EP-3 Ancient Trade Routes</title>
+    <desc>The Forever Walk: China -EP-3 Ancient Trade Routes</desc>
   </programme>
-  <programme start="20250607010000 " stop="20250607011500 " channel="MajidTV.ae">
-    <title>تاينا و حراس الأمازون</title>
-    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
-</desc>
+  <programme start="20250608053000 " stop="20250608060000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>The Forever Walk: China -EP-4 Flow of Life(New)</title>
+    <desc>The Forever Walk: China -EP-4 Flow of Life(New)</desc>
   </programme>
-  <programme start="20250607014500 " stop="20250607020000 " channel="MajidTV.ae">
-    <title>تاينا و حراس الأمازون</title>
-    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
-</desc>
+  <programme start="20250608060000 " stop="20250608070000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Queens-EP-6 Mountain Queens</title>
+    <desc>Queens-EP-6 Mountain Queens</desc>
   </programme>
-  <programme start="20250607030000 " stop="20250607031500 " channel="MajidTV.ae">
-    <title>قطار الحيوانات</title>
-    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  <programme start="20250608070000 " stop="20250608080000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Egypt's Treasure Guardians -HD</title>
+    <desc>Egypt's Treasure Guardians -HD</desc>
   </programme>
-  <programme start="20250607031500 " stop="20250607033000 " channel="MajidTV.ae">
-    <title>قطار الحيوانات</title>
-    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  <programme start="20250608080000 " stop="20250608090000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>World's Greatest Train Journeys from Above - HD</title>
+    <desc>World's Greatest Train Journeys from Above - HD: E</desc>
   </programme>
-  <programme start="20250607033000 " stop="20250607034500 " channel="MajidTV.ae">
-    <title>قطار الحيوانات</title>
-    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  <programme start="20250608090000 " stop="20250608100000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>World's Greatest Train Journeys from Above - HD</title>
+    <desc>World's Greatest Train Journeys from Above - HD: E</desc>
   </programme>
-  <programme start="20250607041500 " stop="20250607043000 " channel="MajidTV.ae">
-    <title>قطار الحيوانات</title>
-    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  <programme start="20250608100000 " stop="20250608110000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>World's Greatest Train Journeys from Above - HD</title>
+    <desc>World's Greatest Train Journeys from Above - HD: E</desc>
   </programme>
-  <programme start="20250607043000 " stop="20250607050000 " channel="MajidTV.ae">
-    <title>فهد البراري</title>
-    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  <programme start="20250608110000 " stop="20250608113000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>علم البسطاء</title>
+    <desc>Science of Stupid S7 - HD: Ep   1</desc>
   </programme>
-  <programme start="20250607050000 " stop="20250607053000 " channel="MajidTV.ae">
-    <title>فهد البراري</title>
-    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  <programme start="20250608113000 " stop="20250608120000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>علم البسطاء</title>
+    <desc>Science of Stupid S7 - HD: Ep   2</desc>
   </programme>
-  <programme start="20250607063000 " stop="20250607070000 " channel="MajidTV.ae">
-    <title>فهد البراري</title>
-    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  <programme start="20250608120000 " stop="20250608130000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Pristine Seas: The Power of Protection - HD</title>
+    <desc>Pristine Seas: The Power of Protection - HD</desc>
   </programme>
-  <programme start="20250607070000 " stop="20250607071500 " channel="MajidTV.ae">
-    <title>BU HILAL W AYALA</title>
-    <desc>BU HILAL W AYALA: Ep   1</desc>
+  <programme start="20250608130000 " stop="20250608140000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>اكتشاف عالم المحيطات </title>
+    <desc>Drain The Oceans S4 : Ep4- The Great Barrier Reef</desc>
   </programme>
-  <programme start="20250607071500 " stop="20250607073000 " channel="MajidTV.ae">
-    <title>BU HILAL W AYALA</title>
-    <desc>BU HILAL W AYALA: Ep   2</desc>
+  <programme start="20250608140000 " stop="20250608150000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>على أفق المحيط</title>
+    <desc>Beyond The Blue -HD (New)</desc>
   </programme>
-  <programme start="20250607073000 " stop="20250607074500 " channel="MajidTV.ae">
-    <title>BU HILAL W AYALA</title>
-    <desc>BU HILAL W AYALA: Ep   3</desc>
+  <programme start="20250608150000 " stop="20250608160000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Super Reefs - HD</title>
+    <desc>Super Reefs - HD</desc>
   </programme>
-  <programme start="20250607080000 " stop="20250607081500 " channel="MajidTV.ae">
-    <title>BU HILAL W AYALA</title>
-    <desc>BU HILAL W AYALA: Ep   5</desc>
+  <programme start="20250608160000 " stop="20250608170000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>جوهر المحيط</title>
+    <desc>Soul Of The Ocean -HD</desc>
   </programme>
-  <programme start="20250607081500 " stop="20250607082500 " channel="MajidTV.ae">
-    <title>طرائف جحا</title>
-    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
+  <programme start="20250608170000 " stop="20250608180000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Ocean with David Attenborough</title>
+    <desc>Ocean with David Attenborough</desc>
   </programme>
-  <programme start="20250607083500 " stop="20250607084500 " channel="MajidTV.ae">
-    <title>طرائف جحا</title>
-    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
+  <programme start="20250608180000 " stop="20250608185000 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Colossal Machines: S2</title>
+    <desc>Colossal Machines: S2 (2): Ep   6 Speed Demons</desc>
   </programme>
-  <programme start="20250607085500 " stop="20250607090500 " channel="MajidTV.ae">
-    <title>طرائف جحا</title>
-    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
+  <programme start="20250608185000 " stop="20250608204500 " channel="NationalGeographicAbuDhabi.ae">
+    <title>Killing Reagan- </title>
+    <desc>Killing Reagan- HD</desc>
   </programme>
-  <programme start="20250607090500 " stop="20250607091000 " channel="MajidTV.ae">
-    <title>الصلصال المتحرك</title>
-    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
-</desc>
-  </programme>
-  <programme start="20250607091000 " stop="20250607091500 " channel="MajidTV.ae">
-    <title>الصلصال المتحرك</title>
-    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
-</desc>
-  </programme>
-  <programme start="20250607091500 " stop="20250607092000 " channel="MajidTV.ae">
-    <title>الصلصال المتحرك</title>
-    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
-</desc>
-  </programme>
-  <programme start="20250607092000 " stop="20250607092500 " channel="MajidTV.ae">
-    <title>الصلصال المتحرك</title>
-    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
-</desc>
-  </programme>
-  <programme start="20250607092500 " stop="20250607093000 " channel="MajidTV.ae">
-    <title>الصلصال المتحرك</title>
-    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
-</desc>
-  </programme>
-  <programme start="20250607093000 " stop="20250607094500 " channel="MajidTV.ae">
-    <title>النينجا الصغار </title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607094500 " stop="20250607100000 " channel="MajidTV.ae">
-    <title>النينجا الصغار </title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607100000 " stop="20250607101500 " channel="MajidTV.ae">
-    <title>النينجا الصغار </title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607101500 " stop="20250607103000 " channel="MajidTV.ae">
-    <title>النينجا الصغار </title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607110000 " stop="20250607111500 " channel="MajidTV.ae">
-    <title>MINI NINJAS S2</title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607111500 " stop="20250607113000 " channel="MajidTV.ae">
-    <title>MINI NINJAS S2</title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607113000 " stop="20250607114500 " channel="MajidTV.ae">
-    <title>MINI NINJAS S2</title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607114500 " stop="20250607120000 " channel="MajidTV.ae">
-    <title>MINI NINJAS S2</title>
-    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
-Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
-</desc>
-  </programme>
-  <programme start="20250607120000 " stop="20250607133000 " channel="MajidTV.ae">
-    <title>Nasreddin Hodja 3 - Ancient Civilizations</title>
-    <desc>
-&quot;يجد حجا وأصدقاؤه أنفسهم في رحلة مثيرة عبر الزمن بينما يزورون أطلال حضارة قديمة لاكتشاف آثار الماضي. يسافرون إلى حضارة تاريخية ويسعون لضمان اتخاذ الناس الخيارات الصحيحة ليصبحوا ملوكًا عادلين.&quot;
-
-</desc>
-  </programme>
-  <programme start="20250607133000 " stop="20250607134500 " channel="MajidTV.ae">
-    <title>صديقي لومي </title>
-    <desc>SADIKI LUMI 3: Ep   6</desc>
-  </programme>
-  <programme start="20250607134500 " stop="20250607135500 " channel="MajidTV.ae">
-    <title>THE LOODLES</title>
-    <desc>في قمة جبل مغطى بالثلوج توجد بلدة لودلفيل الغريبة والرائعة. تبدو حياة لودل آن وعائلتها مشابهة لحياتنا، ولكنها أصغر بكثير وأكثر غرابة بكثير! الشخصيات الرئيسية هي لودل آن وعائلتها، حيث تشارك لودل آن بحماس أحداث حياتها، وتستخدم الرسوم التوضيحية لتوضيح قصصها من خلال ألبومها العجيب.
-</desc>
-  </programme>
-  <programme start="20250607140000 " stop="20250607141500 " channel="MajidTV.ae">
-    <title>صديقي لومي </title>
-    <desc>SADIKI LUMI 3: Ep   7</desc>
-  </programme>
-  <programme start="20250607141500 " stop="20250607142500 " channel="MajidTV.ae">
-    <title>THE LOODLES</title>
-    <desc>في قمة جبل مغطى بالثلوج توجد بلدة لودلفيل الغريبة والرائعة. تبدو حياة لودل آن وعائلتها مشابهة لحياتنا، ولكنها أصغر بكثير وأكثر غرابة بكثير! الشخصيات الرئيسية هي لودل آن وعائلتها، حيث تشارك لودل آن بحماس أحداث حياتها، وتستخدم الرسوم التوضيحية لتوضيح قصصها من خلال ألبومها العجيب.
-</desc>
-  </programme>
-  <programme start="20250607142500 " stop="20250607143000 " channel="MajidTV.ae">
-    <title>OLLIE</title>
-    <desc>Right in the middle of a very busy city, there is a peaceful place.. It is where you can find Ollie and his friends. A little owl, a small stork, a young frog and five little birds live there, and they have many adventures together. </desc>
-  </programme>
-  <programme start="20250607143000 " stop="20250607144500 " channel="MajidTV.ae">
-    <title>جورميتي</title>
-    <desc>منذ زمن بعيد ، كانت جزيرة غورم مهددة من قبل عدو عازم على القضاء على كل أشكال الحياة: الدركان. اتحد فرسان الطبيعة، الغورميتي ، لمحاربة الخطر. وبلغت ذروتها في معركة ملحمية. لكن الغورميتي انتصروا. في الوقت الحاضر ، يعتبر معظم الناس هذه المعركة أسطورة. الدليل الوحيد على حدوث شيء ما هو البرج الواحد ، القلعة القديمة لغورميتي. برج لا يبدو أن أحدًا قادرًا على العثور عليه بعد الآن.
-</desc>
-  </programme>
-  <programme start="20250607150000 " stop="20250607151500 " channel="MajidTV.ae">
-    <title>جورميتي</title>
-    <desc>منذ زمن بعيد ، كانت جزيرة غورم مهددة من قبل عدو عازم على القضاء على كل أشكال الحياة: الدركان. اتحد فرسان الطبيعة، الغورميتي ، لمحاربة الخطر. وبلغت ذروتها في معركة ملحمية. لكن الغورميتي انتصروا. في الوقت الحاضر ، يعتبر معظم الناس هذه المعركة أسطورة. الدليل الوحيد على حدوث شيء ما هو البرج الواحد ، القلعة القديمة لغورميتي. برج لا يبدو أن أحدًا قادرًا على العثور عليه بعد الآن.
-</desc>
-  </programme>
-  <programme start="20250607151500 " stop="20250607153000 " channel="MajidTV.ae">
-    <title>جورميتي</title>
-    <desc>منذ زمن بعيد ، كانت جزيرة غورم مهددة من قبل عدو عازم على القضاء على كل أشكال الحياة: الدركان. اتحد فرسان الطبيعة، الغورميتي ، لمحاربة الخطر. وبلغت ذروتها في معركة ملحمية. لكن الغورميتي انتصروا. في الوقت الحاضر ، يعتبر معظم الناس هذه المعركة أسطورة. الدليل الوحيد على حدوث شيء ما هو البرج الواحد ، القلعة القديمة لغورميتي. برج لا يبدو أن أحدًا قادرًا على العثور عليه بعد الآن.
-</desc>
-  </programme>
-  <programme start="20250607154500 " stop="20250607160000 " channel="MajidTV.ae">
-    <title>جورميتي</title>
-    <desc>منذ زمن بعيد ، كانت جزيرة غورم مهددة من قبل عدو عازم على القضاء على كل أشكال الحياة: الدركان. اتحد فرسان الطبيعة، الغورميتي ، لمحاربة الخطر. وبلغت ذروتها في معركة ملحمية. لكن الغورميتي انتصروا. في الوقت الحاضر ، يعتبر معظم الناس هذه المعركة أسطورة. الدليل الوحيد على حدوث شيء ما هو البرج الواحد ، القلعة القديمة لغورميتي. برج لا يبدو أن أحدًا قادرًا على العثور عليه بعد الآن.
-</desc>
-  </programme>
-  <programme start="20250607170000 " stop="20250607183000 " channel="MajidTV.ae">
-    <title>Captain Pengu and His Friends 2</title>
-    <desc> كابتن بنغو وأصدقائه في محاربة التلوث في خليجهم، مع التركيز على قضايا مثل تغير المناخ والكوارث الطبيعية والجفاف وتلوث المحيطات.&quot;</desc>
-  </programme>
-  <programme start="20250607183000 " stop="20250607190000 " channel="MajidTV.ae">
-    <title>THE DOG FLANDER</title>
-    <desc>THE DOG FLANDER: Ep  25</desc>
-  </programme>
-  <programme start="20250607190000 " stop="20250607193000 " channel="MajidTV.ae">
-    <title>THE DOG FLANDER</title>
-    <desc>THE DOG FLANDER: Ep  26</desc>
-  </programme>
-  <programme start="20250607193000 " stop="20250607194500 " channel="MajidTV.ae">
+  <programme start="20250607200000 " stop="20250607201500 " channel="MajidTV.ae">
     <title>أمونة المزيونة</title>
     <desc>طفلة إماراتية في السابعة من عمرها. ذكيَّة وشقية لا تتوقف عن الحركة والنشاط تحرص على أن تكون نجمة الأسرة دائماً كما هي نجمة الفصل والمدرسة لخفة دمها وشخصيتها القيادية</desc>
   </programme>
-  <programme start="20250606204500 " stop="20250606211500 " channel="AbuDhabiSports1.ae">
-    <title>Footballiga (Ar) 2025 </title>
-    <desc>Footballiga (Ar) 2025 : Ep  22</desc>
+  <programme start="20250607201500 " stop="20250607203000 " channel="MajidTV.ae">
+    <title>أمونة المزيونة</title>
+    <desc>طفلة إماراتية في السابعة من عمرها. ذكيَّة وشقية لا تتوقف عن الحركة والنشاط تحرص على أن تكون نجمة الأسرة دائماً كما هي نجمة الفصل والمدرسة لخفة دمها وشخصيتها القيادية</desc>
   </programme>
-  <programme start="20250606211500 " stop="20250606220000 " channel="AbuDhabiSports1.ae">
-    <title>Trans World Sports (Ar) '25</title>
-    <desc>Trans World Sports (Ar) '25: Ep 1987</desc>
+  <programme start="20250607210000 " stop="20250607211500 " channel="MajidTV.ae">
+    <title> عالم ماجد</title>
+    <desc>MAJID WORLD: Ep  13</desc>
   </programme>
-  <programme start="20250606220000 " stop="20250606223000 " channel="AbuDhabiSports1.ae">
-    <title>The Football Review (Ar) 2025</title>
-    <desc>The Football Review (Ar) 2025: Ep 1270</desc>
+  <programme start="20250607211500 " stop="20250607213000 " channel="MajidTV.ae">
+    <title> عالم ماجد</title>
+    <desc>MAJID WORLD: Ep  14</desc>
   </programme>
-  <programme start="20250606223000 " stop="20250607010000 " channel="AbuDhabiSports1.ae">
-    <title>AFC Champions League Elite 2024 - 2025</title>
-    <desc>AFC Champions League Elite 2024 - 2025: Ep 102</desc>
+  <programme start="20250607220000 " stop="20250607221000 " channel="MajidTV.ae">
+    <title>طرائف جحا</title>
+    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
   </programme>
-  <programme start="20250607010000 " stop="20250607060000 " channel="AbuDhabiSports1.ae">
-    <title>UAE Tour Men 2025</title>
-    <desc>UAE Tour Men 2025: Ep   7</desc>
+  <programme start="20250607221000 " stop="20250607222000 " channel="MajidTV.ae">
+    <title>طرائف جحا</title>
+    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
   </programme>
-  <programme start="20250607060000 " stop="20250607063000 " channel="AbuDhabiSports1.ae">
-    <title>برنامج عالم السرعة</title>
-    <desc>مزيج أسبوعي من أجدد الأحداث من عالم رياضة السيارات ، كل حلقة مليئة بتغطية لجميع الفعاليات والسباقات من حول العالم</desc>
+  <programme start="20250607222000 " stop="20250607223000 " channel="MajidTV.ae">
+    <title>طرائف جحا</title>
+    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
   </programme>
-  <programme start="20250607063000 " stop="20250607081500 " channel="AbuDhabiSports1.ae">
-    <title>دوري ادنوك للمحترفين 2024-2025</title>
-    <desc>دوري ادنوك للمحترفين 2024-2025</desc>
+  <programme start="20250607225500 " stop="20250607230000 " channel="MajidTV.ae">
+    <title>الصلصال المتحرك</title>
+    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
+</desc>
   </programme>
-  <programme start="20250607081500 " stop="20250607084500 " channel="AbuDhabiSports1.ae">
-    <title>The Football Review (Ar) 2025</title>
-    <desc>The Football Review (Ar) 2025: Ep 1270</desc>
+  <programme start="20250607231000 " stop="20250607231500 " channel="MajidTV.ae">
+    <title>الصلصال المتحرك</title>
+    <desc>الصلصال المتحرك هم سبعة شخصيات طينية إيجابية ومحبوبة يمكنها التحول إلى أي شيء. يكتشفون العالم بفضول ولعب، ويقدمون معلومات وحقائق مثيرة حول المواضيع المختلفة. السلسلة تتضمن مواضيع مثل الأرقام، الحيوانات، والموسيقى، مما يسهل استكشاف العالم للأطفال الصغار بطريقة ممتعة.
+</desc>
   </programme>
-  <programme start="20250607084500 " stop="20250607093000 " channel="AbuDhabiSports1.ae">
-    <title>Trans World Sports (Ar) '25</title>
-    <desc>Trans World Sports (Ar) '25: Ep 1987</desc>
+  <programme start="20250607231500 " stop="20250607233000 " channel="MajidTV.ae">
+    <title>السنافر</title>
+    <desc>السنافر مخلوقات زرقاء صغيرة تعيش في منازل على شكل فطر في غابة هادئة. يحاولون باستمرار التفوق على جارجاميل، الساحر الشرير، ، وقطه المتهالك هرهور.</desc>
   </programme>
-  <programme start="20250607093000 " stop="20250607100000 " channel="AbuDhabiSports1.ae">
-    <title>Follow The Flow (Ar) 2025</title>
-    <desc>Follow The Flow (Ar) 2025: Ep  21</desc>
+  <programme start="20250607233000 " stop="20250607234500 " channel="MajidTV.ae">
+    <title>السنافر</title>
+    <desc>السنافر مخلوقات زرقاء صغيرة تعيش في منازل على شكل فطر في غابة هادئة. يحاولون باستمرار التفوق على جارجاميل، الساحر الشرير، ، وقطه المتهالك هرهور.</desc>
   </programme>
-  <programme start="20250607100000 " stop="20250607123000 " channel="AbuDhabiSports1.ae">
-    <title>ADIB Cup 2024-2025</title>
-    <desc>ADIB Cup 2024-2025: Ep  25</desc>
+  <programme start="20250607234500 " stop="20250608000000 " channel="MajidTV.ae">
+    <title>السنافر</title>
+    <desc>السنافر مخلوقات زرقاء صغيرة تعيش في منازل على شكل فطر في غابة هادئة. يحاولون باستمرار التفوق على جارجاميل، الساحر الشرير، ، وقطه المتهالك هرهور.</desc>
   </programme>
-  <programme start="20250607123000 " stop="20250607130000 " channel="AbuDhabiSports1.ae">
+  <programme start="20250608003000 " stop="20250608004500 " channel="MajidTV.ae">
+    <title>فريق النخبة</title>
+    <desc>يقود فتى المدينة (ساند) فريقًا من الحيوانات بمركبات تساعدهم في تقديم المساعدة لأي شخص يحتاج إليها في المدينة التي يعيشون فيها، بمساعدة فنية من جده ووالده...</desc>
+  </programme>
+  <programme start="20250608011500 " stop="20250608013000 " channel="MajidTV.ae">
+    <title>فريق النخبة</title>
+    <desc>يقود فتى المدينة (ساند) فريقًا من الحيوانات بمركبات تساعدهم في تقديم المساعدة لأي شخص يحتاج إليها في المدينة التي يعيشون فيها، بمساعدة فنية من جده ووالده...</desc>
+  </programme>
+  <programme start="20250608014500 " stop="20250608020000 " channel="MajidTV.ae">
+    <title>فريق النخبة</title>
+    <desc>يقود فتى المدينة (ساند) فريقًا من الحيوانات بمركبات تساعدهم في تقديم المساعدة لأي شخص يحتاج إليها في المدينة التي يعيشون فيها، بمساعدة فنية من جده ووالده...</desc>
+  </programme>
+  <programme start="20250608020000 " stop="20250608021500 " channel="MajidTV.ae">
+    <title>فريق النخبة</title>
+    <desc>يقود فتى المدينة (ساند) فريقًا من الحيوانات بمركبات تساعدهم في تقديم المساعدة لأي شخص يحتاج إليها في المدينة التي يعيشون فيها، بمساعدة فنية من جده ووالده...</desc>
+  </programme>
+  <programme start="20250608023000 " stop="20250608024500 " channel="MajidTV.ae">
+    <title>قطار الحيوانات</title>
+    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  </programme>
+  <programme start="20250608030000 " stop="20250608031500 " channel="MajidTV.ae">
+    <title>أمونة المزيونة</title>
+    <desc>طفلة إماراتية في السابعة من عمرها. ذكيَّة وشقية لا تتوقف عن الحركة والنشاط تحرص على أن تكون نجمة الأسرة دائماً كما هي نجمة الفصل والمدرسة لخفة دمها وشخصيتها القيادية</desc>
+  </programme>
+  <programme start="20250608031500 " stop="20250608033000 " channel="MajidTV.ae">
+    <title> عالم ماجد</title>
+    <desc>MAJID WORLD: Ep   1</desc>
+  </programme>
+  <programme start="20250608034500 " stop="20250608040000 " channel="MajidTV.ae">
+    <title>تاينا و حراس الأمازون</title>
+    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
+</desc>
+  </programme>
+  <programme start="20250608040000 " stop="20250608043000 " channel="MajidTV.ae">
+    <title>فهد البراري</title>
+    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  </programme>
+  <programme start="20250608043000 " stop="20250608044500 " channel="MajidTV.ae">
+    <title>عندي سؤال</title>
+    <desc> المسلسل حول شخصيتين الثعلب وثاب والقط طواف، وثاب ثعلب جريء في التعامل مع الحيوانات وفضولي لمعرفة كل شيء، وطواف قط يحب القراءة والرجوع إلى موسوعته لفهم المزيد عما يدور حوله، أحداث المسلسل هادفة وتعليمية بطريقة مضحكة ومسلية 
+</desc>
+  </programme>
+  <programme start="20250608053000 " stop="20250608060000 " channel="MajidTV.ae">
+    <title>THE DOG FLANDER</title>
+    <desc>THE DOG FLANDER: Ep  26</desc>
+  </programme>
+  <programme start="20250608063000 " stop="20250608064500 " channel="MajidTV.ae">
+    <title>MINI NINJAS S2</title>
+    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
+Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
+</desc>
+  </programme>
+  <programme start="20250608070000 " stop="20250608071500 " channel="MajidTV.ae">
+    <title>جورميتي 1</title>
+    <desc>منذ زمن بعيد ، كانت جزيرة غورم مهددة من قبل عدو عازم على القضاء على كل أشكال الحياة: الدركان. اتحد فرسان الطبيعة، الغورميتي ، لمحاربة الخطر. وبلغت ذروتها في معركة ملحمية. لكن الغورميتي انتصروا. في الوقت الحاضر ، يعتبر معظم الناس هذه المعركة أسطورة. الدليل الوحيد على حدوث شيء ما هو البرج الواحد ، القلعة القديمة لغورميتي. برج لا يبدو أن أحدًا قادرًا على العثور عليه بعد الآن.
+</desc>
+  </programme>
+  <programme start="20250608083000 " stop="20250608084500 " channel="MajidTV.ae">
+    <title>قطار الحيوانات</title>
+    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  </programme>
+  <programme start="20250608084500 " stop="20250608090000 " channel="MajidTV.ae">
+    <title>قطار الحيوانات</title>
+    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  </programme>
+  <programme start="20250608090000 " stop="20250608091500 " channel="MajidTV.ae">
+    <title>صديقي لومي </title>
+    <desc>SADIKI LUMI 3: Ep   7</desc>
+  </programme>
+  <programme start="20250608093000 " stop="20250608094500 " channel="MajidTV.ae">
+    <title>تاينا و حراس الأمازون</title>
+    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
+</desc>
+  </programme>
+  <programme start="20250608100000 " stop="20250608103000 " channel="MajidTV.ae">
+    <title>فهد البراري</title>
+    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  </programme>
+  <programme start="20250608103000 " stop="20250608104500 " channel="MajidTV.ae">
+    <title>عندي سؤال</title>
+    <desc> المسلسل حول شخصيتين الثعلب وثاب والقط طواف، وثاب ثعلب جريء في التعامل مع الحيوانات وفضولي لمعرفة كل شيء، وطواف قط يحب القراءة والرجوع إلى موسوعته لفهم المزيد عما يدور حوله، أحداث المسلسل هادفة وتعليمية بطريقة مضحكة ومسلية 
+</desc>
+  </programme>
+  <programme start="20250608104500 " stop="20250608110000 " channel="MajidTV.ae">
+    <title>عندي سؤال</title>
+    <desc> المسلسل حول شخصيتين الثعلب وثاب والقط طواف، وثاب ثعلب جريء في التعامل مع الحيوانات وفضولي لمعرفة كل شيء، وطواف قط يحب القراءة والرجوع إلى موسوعته لفهم المزيد عما يدور حوله، أحداث المسلسل هادفة وتعليمية بطريقة مضحكة ومسلية 
+</desc>
+  </programme>
+  <programme start="20250608110000 " stop="20250608111500 " channel="MajidTV.ae">
+    <title>فريق النخبة</title>
+    <desc>يقود فتى المدينة (ساند) فريقًا من الحيوانات بمركبات تساعدهم في تقديم المساعدة لأي شخص يحتاج إليها في المدينة التي يعيشون فيها، بمساعدة فنية من جده ووالده...</desc>
+  </programme>
+  <programme start="20250608111500 " stop="20250608113000 " channel="MajidTV.ae">
+    <title>فريق النخبة</title>
+    <desc>يقود فتى المدينة (ساند) فريقًا من الحيوانات بمركبات تساعدهم في تقديم المساعدة لأي شخص يحتاج إليها في المدينة التي يعيشون فيها، بمساعدة فنية من جده ووالده...</desc>
+  </programme>
+  <programme start="20250608113000 " stop="20250608114500 " channel="MajidTV.ae">
+    <title>قطار الحيوانات</title>
+    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  </programme>
+  <programme start="20250608114500 " stop="20250608120000 " channel="MajidTV.ae">
+    <title>قطار الحيوانات</title>
+    <desc>a group of animals who live in a small zoo and who have a very special secret. They go home at night! Every afternoon when the zoo closes, they put on their clothes and get on the tram. It carries them to their village on a remote island. The following morning, they gather at the tram station, But on every trip before they even leave - something unexpected happens to turn the journey into a hilarious adventure… </desc>
+  </programme>
+  <programme start="20250608133000 " stop="20250608134500 " channel="MajidTV.ae">
+    <title>عندي سؤال</title>
+    <desc> المسلسل حول شخصيتين الثعلب وثاب والقط طواف، وثاب ثعلب جريء في التعامل مع الحيوانات وفضولي لمعرفة كل شيء، وطواف قط يحب القراءة والرجوع إلى موسوعته لفهم المزيد عما يدور حوله، أحداث المسلسل هادفة وتعليمية بطريقة مضحكة ومسلية 
+</desc>
+  </programme>
+  <programme start="20250608140000 " stop="20250608141500 " channel="MajidTV.ae">
+    <title>السنافر</title>
+    <desc>السنافر مخلوقات زرقاء صغيرة تعيش في منازل على شكل فطر في غابة هادئة. يحاولون باستمرار التفوق على جارجاميل، الساحر الشرير، ، وقطه المتهالك هرهور.</desc>
+  </programme>
+  <programme start="20250608141500 " stop="20250608142500 " channel="MajidTV.ae">
+    <title>طرائف جحا</title>
+    <desc>جحا، رجل حكيم ومحبوب، يحل المشكلات بروح الدعابة والمغامرة. مع حماره، يواجه مواقف طريفة، وينقل القيم الأخلاقية والدروس  من خلال الكوميديا في كل حلقة.</desc>
+  </programme>
+  <programme start="20250608143000 " stop="20250608144500 " channel="MajidTV.ae">
+    <title>صديقي لومي </title>
+    <desc>SADIKI LUMI 3: Ep   8</desc>
+  </programme>
+  <programme start="20250608144500 " stop="20250608145500 " channel="MajidTV.ae">
+    <title>THE LOODLES</title>
+    <desc>في قمة جبل مغطى بالثلوج توجد بلدة لودلفيل الغريبة والرائعة. تبدو حياة لودل آن وعائلتها مشابهة لحياتنا، ولكنها أصغر بكثير وأكثر غرابة بكثير! الشخصيات الرئيسية هي لودل آن وعائلتها، حيث تشارك لودل آن بحماس أحداث حياتها، وتستخدم الرسوم التوضيحية لتوضيح قصصها من خلال ألبومها العجيب.
+</desc>
+  </programme>
+  <programme start="20250608153000 " stop="20250608154500 " channel="MajidTV.ae">
+    <title>MINI NINJAS S2</title>
+    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
+Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
+</desc>
+  </programme>
+  <programme start="20250608154500 " stop="20250608160000 " channel="MajidTV.ae">
+    <title>MINI NINJAS S2</title>
+    <desc>EPIC STORIES WITH A TWIST OF NINJA HUMOR! 
+Hiro, and his friends are the next generation of ninjas. Their mission: defend the Land Below The Clouds from the warlord Ashida, whose Kuji wizardry transforms innocent animals into fearsome but fortunately Stopping Ashida is no easy task for 12-year-olds! 
+</desc>
+  </programme>
+  <programme start="20250608160000 " stop="20250608161500 " channel="MajidTV.ae">
+    <title>جورميتي 1</title>
+    <desc>منذ زمن بعيد ، كانت جزيرة غورم مهددة من قبل عدو عازم على القضاء على كل أشكال الحياة: الدركان. اتحد فرسان الطبيعة، الغورميتي ، لمحاربة الخطر. وبلغت ذروتها في معركة ملحمية. لكن الغورميتي انتصروا. في الوقت الحاضر ، يعتبر معظم الناس هذه المعركة أسطورة. الدليل الوحيد على حدوث شيء ما هو البرج الواحد ، القلعة القديمة لغورميتي. برج لا يبدو أن أحدًا قادرًا على العثور عليه بعد الآن.
+</desc>
+  </programme>
+  <programme start="20250608163000 " stop="20250608170000 " channel="MajidTV.ae">
+    <title>THE DOG FLANDER</title>
+    <desc>THE DOG FLANDER: Ep  37</desc>
+  </programme>
+  <programme start="20250608170000 " stop="20250608183000 " channel="MajidTV.ae">
+    <title>Captain Pengu and His Friends 3: The Legend of Ice</title>
+    <desc>Captain Pengu and His Friends 3: The Legend of Ice</desc>
+  </programme>
+  <programme start="20250608183000 " stop="20250608184500 " channel="MajidTV.ae">
+    <title>تاينا و حراس الأمازون</title>
+    <desc>عندما تكون الغابة في محنة ، يتردد أصداء دعوة  الكلاوكرو حيث تاينا و حراس الامازون مستعدون دائمًا للمساعدة!
+</desc>
+  </programme>
+  <programme start="20250608190000 " stop="20250608191500 " channel="MajidTV.ae">
+    <title>صديقي لومي </title>
+    <desc>SADIKI LUMI 3: Ep   8</desc>
+  </programme>
+  <programme start="20250608192500 " stop="20250608193000 " channel="MajidTV.ae">
+    <title>OLLIE</title>
+    <desc>Right in the middle of a very busy city, there is a peaceful place.. It is where you can find Ollie and his friends. A little owl, a small stork, a young frog and five little birds live there, and they have many adventures together. </desc>
+  </programme>
+  <programme start="20250608193000 " stop="20250608200000 " channel="MajidTV.ae">
+    <title>فهد البراري</title>
+    <desc>هدار هو نمر صغير يبحث عن عائلته وهويته مع صديقيه الأرنب والسلحفاة، يخوض مغامرات مذهلة في طريقه للبحث عن والديه، فيقاتل ويكافح دفاعًا عن نفسه وصديقيه الذئاب الشرسة والصيادين </desc>
+  </programme>
+  <programme start="20250607200000 " stop="20250607203000 " channel="AbuDhabiSports1.ae">
+    <title>Sport Confidential (Ar) 2025</title>
+    <desc>Sport Confidential (Ar) 2025: Ep 570</desc>
+  </programme>
+  <programme start="20250607203000 " stop="20250607210000 " channel="AbuDhabiSports1.ae">
     <title>FIBA World Basketball (Ar) 2025</title>
     <desc>FIBA World Basketball (Ar) 2025: Ep 1011</desc>
   </programme>
-  <programme start="20250607130000 " stop="20250607133000 " channel="AbuDhabiSports1.ae">
-    <title>Eleven in Arabic (Ara) 2025</title>
-    <desc>Eleven in Arabic (Ara) 2025: Ep  46</desc>
+  <programme start="20250607210000 " stop="20250607220000 " channel="AbuDhabiSports1.ae">
+    <title>برنامج غوالازيمو</title>
+    <desc>برنامج غوالازيمو</desc>
   </programme>
-  <programme start="20250607133000 " stop="20250607153000 " channel="AbuDhabiSports1.ae">
-    <title>UAE Volleyball Super Cup 2025 </title>
-    <desc>UAE Volleyball Super Cup 2025 : Ep   2</desc>
-  </programme>
-  <programme start="20250607153000 " stop="20250607160000 " channel="AbuDhabiSports1.ae">
+  <programme start="20250607220000 " stop="20250607223000 " channel="AbuDhabiSports1.ae">
     <title>Footballiga (Ar) 2025 </title>
     <desc>Footballiga (Ar) 2025 : Ep  22</desc>
   </programme>
-  <programme start="20250607160000 " stop="20250607170000 " channel="AbuDhabiSports1.ae">
+  <programme start="20250607223000 " stop="20250608002000 " channel="AbuDhabiSports1.ae">
+    <title>AFC Champions League Elite 2024 - 2025</title>
+    <desc>AFC Champions League Elite 2024 - 2025: Ep 106</desc>
+  </programme>
+  <programme start="20250608002000 " stop="20250608005000 " channel="AbuDhabiSports1.ae">
+    <title>Total Combat (Ar) 2025</title>
+    <desc>Total Combat (Ar) 2025: Ep 538</desc>
+  </programme>
+  <programme start="20250608005000 " stop="20250608054000 " channel="AbuDhabiSports1.ae">
+    <title>UAE Tour Women 2025</title>
+    <desc>UAE Tour Women 2025: Ep   1</desc>
+  </programme>
+  <programme start="20250608054000 " stop="20250608061000 " channel="AbuDhabiSports1.ae">
+    <title>The Football Review (Ar) 2025</title>
+    <desc>The Football Review (Ar) 2025: Ep 1270</desc>
+  </programme>
+  <programme start="20250608061000 " stop="20250608080000 " channel="AbuDhabiSports1.ae">
+    <title>دوري ادنوك للمحترفين 2024-2025</title>
+    <desc>دوري ادنوك للمحترفين 2024-2025</desc>
+  </programme>
+  <programme start="20250608080000 " stop="20250608083000 " channel="AbuDhabiSports1.ae">
+    <title>Eleven in Arabic (Ara) 2025</title>
+    <desc>Eleven in Arabic (Ara) 2025: Ep  46</desc>
+  </programme>
+  <programme start="20250608083000 " stop="20250608103500 " channel="AbuDhabiSports1.ae">
+    <title>UAE Volleyball Super Cup 2025 </title>
+    <desc>UAE Volleyball Super Cup 2025 : Ep   2</desc>
+  </programme>
+  <programme start="20250608103500 " stop="20250608110500 " channel="AbuDhabiSports1.ae">
+    <title>برنامج عالم السرعة</title>
+    <desc>مزيج أسبوعي من أجدد الأحداث من عالم رياضة السيارات ، كل حلقة مليئة بتغطية لجميع الفعاليات والسباقات من حول العالم</desc>
+  </programme>
+  <programme start="20250608110500 " stop="20250608130000 " channel="AbuDhabiSports1.ae">
+    <title>UCI World Tour Critérium du Dauphiné 2025</title>
+    <desc>UCI World Tour Critérium du Dauphiné 2025: Ep   1</desc>
+  </programme>
+  <programme start="20250608130000 " stop="20250608133000 " channel="AbuDhabiSports1.ae">
+    <title>FIBA World Basketball (Ar) 2025</title>
+    <desc>FIBA World Basketball (Ar) 2025: Ep 1011</desc>
+  </programme>
+  <programme start="20250608133000 " stop="20250608143000 " channel="AbuDhabiSports1.ae">
     <title>Documentary from the memory of glory 2025 </title>
     <desc>Documentary from the memory of glory 2025 : Ep   2</desc>
   </programme>
-  <programme start="20250607170000 " stop="20250607191500 " channel="AbuDhabiSports1.ae">
-    <title>AFC Champions League Two 2024 - 2025</title>
-    <desc>AFC Champions League Two 2024 - 2025: Ep 121</desc>
+  <programme start="20250608143000 " stop="20250608150000 " channel="AbuDhabiSports1.ae">
+    <title>Footballiga (Ar) 2025 </title>
+    <desc>Footballiga (Ar) 2025 : Ep  22</desc>
   </programme>
-  <programme start="20250607191500 " stop="20250607200000 " channel="AbuDhabiSports1.ae">
-    <title>Documentary: Sultan Asia 2025 </title>
-    <desc>Documentary: Sultan Asia 2025 </desc>
+  <programme start="20250608150000 " stop="20250608153000 " channel="AbuDhabiSports1.ae">
+    <title>Sport Confidential (Ar) 2025</title>
+    <desc>Sport Confidential (Ar) 2025: Ep 570</desc>
   </programme>
-  <programme start="20250606201000 " stop="20250606202500 " channel="AbuDhabiSports2.ae">
-    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
-    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep   7</desc>
+  <programme start="20250608153000 " stop="20250608163000 " channel="AbuDhabiSports1.ae">
+    <title>Max Power (Ar) 2025</title>
+    <desc>Max Power (Ar) 2025: Ep  22</desc>
   </programme>
-  <programme start="20250606202500 " stop="20250606211500 " channel="AbuDhabiSports2.ae">
-    <title>Max Power 2025  </title>
-    <desc>Max Power 2025  : Ep  22</desc>
+  <programme start="20250608163000 " stop="20250608170000 " channel="AbuDhabiSports1.ae">
+    <title>The Football Review (Ar) 2025</title>
+    <desc>The Football Review (Ar) 2025: Ep 1270</desc>
   </programme>
-  <programme start="20250606211500 " stop="20250606213000 " channel="AbuDhabiSports2.ae">
-    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
-    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  16</desc>
+  <programme start="20250608170000 " stop="20250608190000 " channel="AbuDhabiSports1.ae">
+    <title>EMMAR Super Cup 2024</title>
+    <desc>EMMAR Super Cup 2024: Ep   1</desc>
   </programme>
-  <programme start="20250606213000 " stop="20250607035000 " channel="AbuDhabiSports2.ae">
+  <programme start="20250608190000 " stop="20250608200000 " channel="AbuDhabiSports1.ae">
+    <title>برنامج غوالازيمو</title>
+    <desc>برنامج غوالازيمو</desc>
+  </programme>
+  <programme start="20250607210000 " stop="20250608031500 " channel="AbuDhabiSports2.ae">
     <title>Abu Dhabi HSBC Golf Championship 2024 </title>
-    <desc>Abu Dhabi HSBC Golf Championship 2024 : Ep   2</desc>
+    <desc>Abu Dhabi HSBC Golf Championship 2024 : Ep   3</desc>
   </programme>
-  <programme start="20250607035000 " stop="20250607052500 " channel="AbuDhabiSports2.ae">
-    <title>World Surf League Championship Tour  2025  - Surf </title>
-    <desc>World Surf League Championship Tour  2025  - Surf </desc>
-  </programme>
-  <programme start="20250607052500 " stop="20250607073000 " channel="AbuDhabiSports2.ae">
-    <title>World Surf League Championship Tour  2025  - Surf </title>
-    <desc>World Surf League Championship Tour  2025  - Surf </desc>
-  </programme>
-  <programme start="20250607073000 " stop="20250607082000 " channel="AbuDhabiSports2.ae">
-    <title>Max Power 2025  </title>
-    <desc>Max Power 2025  : Ep  22</desc>
-  </programme>
-  <programme start="20250607082000 " stop="20250607085000 " channel="AbuDhabiSports2.ae">
-    <title>FIBA World Basketball 2025</title>
-    <desc>FIBA World Basketball 2025: Ep 1012</desc>
-  </programme>
-  <programme start="20250607085000 " stop="20250607090500 " channel="AbuDhabiSports2.ae">
-    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
-    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  16</desc>
-  </programme>
-  <programme start="20250607090500 " stop="20250607100000 " channel="AbuDhabiSports2.ae">
-    <title>UCI World Tour 2025 Paris Roubaix Final Highlights</title>
-    <desc>UCI World Tour 2025 Paris Roubaix Final Highlights</desc>
-  </programme>
-  <programme start="20250607100000 " stop="20250607115500 " channel="AbuDhabiSports2.ae">
-    <title>Mubadala Abu Dhabi Open Tennis 2025 – WTA 500</title>
-    <desc>Mubadala Abu Dhabi Open Tennis 2025 – WTA 500: Ep </desc>
-  </programme>
-  <programme start="20250607115500 " stop="20250607121000 " channel="AbuDhabiSports2.ae">
-    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
-    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  13</desc>
-  </programme>
-  <programme start="20250607121000 " stop="20250607124000 " channel="AbuDhabiSports2.ae">
+  <programme start="20250608031500 " stop="20250608034500 " channel="AbuDhabiSports2.ae">
     <title>The Football Review 2025</title>
     <desc>The Football Review 2025: Ep 1270</desc>
   </programme>
-  <programme start="20250607124000 " stop="20250607132500 " channel="AbuDhabiSports2.ae">
-    <title>Max Power 2025  </title>
-    <desc>Max Power 2025  : Ep  22</desc>
-  </programme>
-  <programme start="20250607132500 " stop="20250607134000 " channel="AbuDhabiSports2.ae">
-    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
-    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  14</desc>
-  </programme>
-  <programme start="20250607134000 " stop="20250607141000 " channel="AbuDhabiSports2.ae">
-    <title>برنامج عالم السرعة 2023-2025</title>
-    <desc>مزيج أسبوعي من أجدد الأحداث من عالم رياضة السيارات ، كل حلقة مليئة بتغطية لجميع الفعاليات والسباقات من حول العالم</desc>
-  </programme>
-  <programme start="20250607141000 " stop="20250607150000 " channel="AbuDhabiSports2.ae">
-    <title>World Surf League : Replay 2025  </title>
-    <desc>World Surf League : Replay 2025  : Ep   7</desc>
-  </programme>
-  <programme start="20250607150000 " stop="20250607153000 " channel="AbuDhabiSports2.ae">
-    <title>Sport Confidential 2025</title>
-    <desc>Sport Confidential 2025: Ep 571</desc>
-  </programme>
-  <programme start="20250607153000 " stop="20250607161500 " channel="AbuDhabiSports2.ae">
+  <programme start="20250608034500 " stop="20250608043000 " channel="AbuDhabiSports2.ae">
     <title>Trans World Sports 2025</title>
     <desc>Trans World Sports 2025: Ep1988</desc>
   </programme>
-  <programme start="20250607161500 " stop="20250607163000 " channel="AbuDhabiSports2.ae">
-    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
-    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  15</desc>
-  </programme>
-  <programme start="20250607163000 " stop="20250607170000 " channel="AbuDhabiSports2.ae">
+  <programme start="20250608043000 " stop="20250608050000 " channel="AbuDhabiSports2.ae">
     <title>Total Combat 2025</title>
     <desc>Total Combat 2025: Ep 539</desc>
   </programme>
-  <programme start="20250607170000 " stop="20250607184500 " channel="AbuDhabiSports2.ae">
+  <programme start="20250608050000 " stop="20250608051500 " channel="AbuDhabiSports2.ae">
+    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
+    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  13</desc>
+  </programme>
+  <programme start="20250608051500 " stop="20250608081500 " channel="AbuDhabiSports2.ae">
+    <title>World Surf League Championship Tour  2025  - Surf </title>
+    <desc>World Surf League Championship Tour  2025  - Surf </desc>
+  </programme>
+  <programme start="20250608081500 " stop="20250608083000 " channel="AbuDhabiSports2.ae">
+    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
+    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  15</desc>
+  </programme>
+  <programme start="20250608083000 " stop="20250608093000 " channel="AbuDhabiSports2.ae">
+    <title>UCI World Tour 2025 Paris Roubaix Final Highlights</title>
+    <desc>UCI World Tour 2025 Paris Roubaix Final Highlights</desc>
+  </programme>
+  <programme start="20250608093000 " stop="20250608100000 " channel="AbuDhabiSports2.ae">
+    <title>The Football Review 2025</title>
+    <desc>The Football Review 2025: Ep 1270</desc>
+  </programme>
+  <programme start="20250608100000 " stop="20250608101500 " channel="AbuDhabiSports2.ae">
+    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
+    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep   8</desc>
+  </programme>
+  <programme start="20250608101500 " stop="20250608104500 " channel="AbuDhabiSports2.ae">
+    <title>Sport Confidential 2025</title>
+    <desc>Sport Confidential 2025: Ep 571</desc>
+  </programme>
+  <programme start="20250608104500 " stop="20250608113000 " channel="AbuDhabiSports2.ae">
+    <title>Max Power 2025  </title>
+    <desc>Max Power 2025  : Ep  22</desc>
+  </programme>
+  <programme start="20250608113000 " stop="20250608114500 " channel="AbuDhabiSports2.ae">
+    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
+    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  14</desc>
+  </programme>
+  <programme start="20250608114500 " stop="20250608121500 " channel="AbuDhabiSports2.ae">
+    <title>Total Combat 2025</title>
+    <desc>Total Combat 2025: Ep 539</desc>
+  </programme>
+  <programme start="20250608121500 " stop="20250608134500 " channel="AbuDhabiSports2.ae">
+    <title>Mubadala Abu Dhabi Open Tennis 2025 – WTA 500</title>
+    <desc>Mubadala Abu Dhabi Open Tennis 2025 – WTA 500: Ep </desc>
+  </programme>
+  <programme start="20250608134500 " stop="20250608140000 " channel="AbuDhabiSports2.ae">
+    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
+    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  12</desc>
+  </programme>
+  <programme start="20250608140000 " stop="20250608144500 " channel="AbuDhabiSports2.ae">
+    <title>Trans World Sports 2025</title>
+    <desc>Trans World Sports 2025: Ep1988</desc>
+  </programme>
+  <programme start="20250608144500 " stop="20250608151500 " channel="AbuDhabiSports2.ae">
+    <title>FIBA World Basketball 2025</title>
+    <desc>FIBA World Basketball 2025: Ep 1012</desc>
+  </programme>
+  <programme start="20250608151500 " stop="20250608153000 " channel="AbuDhabiSports2.ae">
+    <title>Serie A Made in Italy 2024-2025 (Ar)</title>
+    <desc>Serie A Made in Italy 2024-2025 (Ar): Ep  16</desc>
+  </programme>
+  <programme start="20250608153000 " stop="20250608160000 " channel="AbuDhabiSports2.ae">
+    <title>UCI World Tour 2025: Flèche Wallonne Final Program</title>
+    <desc>UCI World Tour 2025: Flèche Wallonne Final Program</desc>
+  </programme>
+  <programme start="20250608160000 " stop="20250608170000 " channel="AbuDhabiSports2.ae">
+    <title>World Surf League : Inside Pro Surfing   2025  </title>
+    <desc>World Surf League : Inside Pro Surfing   2025  : E</desc>
+  </programme>
+  <programme start="20250608170000 " stop="20250608184000 " channel="AbuDhabiSports2.ae">
     <title>City TV - Manchester City Football Club Match 2024</title>
     <desc>City TV - Manchester City Football Club Match 2024</desc>
   </programme>
-  <programme start="20250607184500 " stop="20250607193000 " channel="AbuDhabiSports2.ae">
+  <programme start="20250608184000 " stop="20250608193000 " channel="AbuDhabiSports2.ae">
     <title>Inside City (AR) 2024-2025</title>
-    <desc>Inside City (AR) 2024-2025: Ep   3</desc>
+    <desc>Inside City (AR) 2024-2025: Ep   4</desc>
   </programme>
-  <programme start="20250607193000 " stop="20250607210000 " channel="AbuDhabiSports2.ae">
-    <title>Sail GP 2025</title>
-    <desc>Sail GP 2025: Ep   1</desc>
+  <programme start="20250608193000 " stop="20250608203000 " channel="AbuDhabiSports2.ae">
+    <title>Max Power 2025  </title>
+    <desc>Max Power 2025  : Ep  22</desc>
   </programme>
-  <programme start="20250606200000 " stop="20250607024000 " channel="YasTV.ae">
-    <title>FBMA International Show Jumping Cup 2025 </title>
-    <desc>FBMA International Show Jumping Cup 2025 : Ep   4</desc>
+  <programme start="20250607200000 " stop="20250607231500 " channel="YasTV.ae">
+    <title> Belmont Stakes </title>
+    <desc>Belmont Stakes  2025</desc>
   </programme>
-  <programme start="20250607024000 " stop="20250607031000 " channel="YasTV.ae">
-    <title>International Flat Race Highlights 2025</title>
-    <desc>International Flat Race Highlights 2025: Ep   2</desc>
-  </programme>
-  <programme start="20250607031000 " stop="20250607044000 " channel="YasTV.ae">
-    <title>F1H2O Powerboat World Championship 2024-2025</title>
-    <desc>F1H2O Powerboat World Championship 2024-2025: Ep  </desc>
-  </programme>
-  <programme start="20250607044000 " stop="20250607044500 " channel="YasTV.ae">
-    <title>International Flat Race Highlights 2025</title>
-    <desc>International Flat Race Highlights 2025: Ep   3</desc>
-  </programme>
-  <programme start="20250607044500 " stop="20250607054500 " channel="YasTV.ae">
-    <title>Dalma Sailing Race Highlights 2024</title>
-    <desc>Dalma Sailing Race Highlights 2024: Ep   2</desc>
-  </programme>
-  <programme start="20250607054500 " stop="20250607061500 " channel="YasTV.ae">
-    <title>UAE Flat Race Highlights 2024-2025  </title>
-    <desc>UAE Flat Race Highlights 2024-2025  : Ep  64</desc>
-  </programme>
-  <programme start="20250607061500 " stop="20250607064500 " channel="YasTV.ae">
-    <title>The Boat Show (Ara) 2025</title>
-    <desc>The Boat Show (Ara) 2025: Ep  23</desc>
-  </programme>
-  <programme start="20250607064500 " stop="20250607082500 " channel="YasTV.ae">
-    <title>Al Shira'aa International Horse Show 2025 </title>
-    <desc>Al Shira'aa International Horse Show 2025 : Ep   7</desc>
-  </programme>
-  <programme start="20250607082500 " stop="20250607085500 " channel="YasTV.ae">
-    <title>F1H2O Powerboat World Championship 2024-2025 Highl</title>
-    <desc>F1H2O Powerboat World Championship 2024-2025 Highl</desc>
-  </programme>
-  <programme start="20250607085500 " stop="20250607090000 " channel="YasTV.ae">
-    <title>International Flat Race Highlights 2025</title>
-    <desc>International Flat Race Highlights 2025: Ep   3</desc>
-  </programme>
-  <programme start="20250607090000 " stop="20250607101500 " channel="YasTV.ae">
-    <title>Studio: UAE President Cup Flat Races 2025 </title>
-    <desc>Studio: UAE President Cup Flat Races 2025 : Ep   5</desc>
-  </programme>
-  <programme start="20250607101500 " stop="20250607120000 " channel="YasTV.ae">
-    <title>Al Shira'aa International Horse Show 2025 </title>
-    <desc>Al Shira'aa International Horse Show 2025 : Ep   7</desc>
-  </programme>
-  <programme start="20250607120000 " stop="20250607123000 " channel="YasTV.ae">
-    <title>F1H2O Powerboat World Championship 2024-2025 Highl</title>
-    <desc>F1H2O Powerboat World Championship 2024-2025 Highl</desc>
-  </programme>
-  <programme start="20250607123000 " stop="20250607131500 " channel="YasTV.ae">
-    <title>UAE Flat Race Highlights 2024-2025  </title>
-    <desc>UAE Flat Race Highlights 2024-2025  : Ep  63</desc>
-  </programme>
-  <programme start="20250607131500 " stop="20250607143000 " channel="YasTV.ae">
-    <title>UAE President's Cup Show Jumping 2025</title>
-    <desc>UAE President's Cup Show Jumping 2025: Ep   6</desc>
-  </programme>
-  <programme start="20250607143000 " stop="20250607150000 " channel="YasTV.ae">
-    <title>The Boat Show (Ara) 2025</title>
-    <desc>The Boat Show (Ara) 2025: Ep  23</desc>
-  </programme>
-  <programme start="20250607150000 " stop="20250607163000 " channel="YasTV.ae">
-    <title>F1H2O Powerboat World Championship 2024-2025</title>
-    <desc>F1H2O Powerboat World Championship 2024-2025: Ep  </desc>
-  </programme>
-  <programme start="20250607163000 " stop="20250607170000 " channel="YasTV.ae">
-    <title>International Flat Race Highlights 2025</title>
-    <desc>International Flat Race Highlights 2025: Ep   4</desc>
-  </programme>
-  <programme start="20250607170000 " stop="20250607181500 " channel="YasTV.ae">
-    <title>Horse Show Jumping Highlights 2024</title>
-    <desc>Horse Show Jumping Highlights 2024: Ep   6</desc>
-  </programme>
-  <programme start="20250607181500 " stop="20250607191500 " channel="YasTV.ae">
-    <title>Dalma Sailing Race Highlights 2024</title>
-    <desc>Dalma Sailing Race Highlights 2024: Ep   2</desc>
-  </programme>
-  <programme start="20250607191500 " stop="20250607194500 " channel="YasTV.ae">
-    <title>International Flat Race Highlights 2025</title>
-    <desc>International Flat Race Highlights 2025: Ep   2</desc>
-  </programme>
-  <programme start="20250607194500 " stop="20250607200000 " channel="YasTV.ae">
+  <programme start="20250607231500 " stop="20250607233000 " channel="YasTV.ae">
     <title>Studio Belmont Stakes 2025</title>
     <desc>Studio Belmont Stakes 2025</desc>
   </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassOne.qa">
-    <title>NEWS.</title>
+  <programme start="20250607233000 " stop="20250608013000 " channel="YasTV.ae">
+    <title>UAE Presidents Cup Falconry 2025</title>
+    <desc>UAE Presidents Cup Falconry 2025: Ep   1</desc>
   </programme>
-  <programme start="20250607003000 +0300" stop="20250607023000 +0300" channel="AlkassOne.qa">
-    <title>ooredoo Stars League / Alshamal x AlGharafa</title>
+  <programme start="20250608013000 " stop="20250608073000 " channel="YasTV.ae">
+    <title>Al Shira'aa International Horse Show 2025 </title>
+    <desc>Al Shira'aa International Horse Show 2025 : Ep   9</desc>
   </programme>
-  <programme start="20250607023000 +0300" stop="20250607043000 +0300" channel="AlkassOne.qa">
-    <title>Diamond League - Rome</title>
+  <programme start="20250608073000 " stop="20250608080000 " channel="YasTV.ae">
+    <title>UAE Flat Race Highlights 2024-2025  </title>
+    <desc>UAE Flat Race Highlights 2024-2025  : Ep  64</desc>
   </programme>
-  <programme start="20250607043000 +0300" stop="20250607060000 +0300" channel="AlkassOne.qa">
-    <title>10th Arab Cup for Men's Handball iraq vs. uae</title>
+  <programme start="20250608080000 " stop="20250608113000 " channel="YasTV.ae">
+    <title>Studio Belmont Stakes 2025</title>
+    <desc>Studio Belmont Stakes 2025</desc>
   </programme>
-  <programme start="20250607060000 +0300" stop="20250607063000 +0300" channel="AlkassOne.qa">
-    <title>NEWS.</title>
+  <programme start="20250608113000 " stop="20250608120000 " channel="YasTV.ae">
+    <title>The Boat Show (Ara) 2025</title>
+    <desc>The Boat Show (Ara) 2025: Ep  23</desc>
   </programme>
-  <programme start="20250607063000 +0300" stop="20250607080000 +0300" channel="AlkassOne.qa">
-    <title>wasl Basketball  Lebanese Al-Hikma vs. Astana Kazakhstan</title>
+  <programme start="20250608120000 " stop="20250608133000 " channel="YasTV.ae">
+    <title>Sail GP 2025</title>
+    <desc>Sail GP 2025: Ep   1</desc>
   </programme>
-  <programme start="20250607080000 +0300" stop="20250607100000 +0300" channel="AlkassOne.qa">
-    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
+  <programme start="20250608133000 " stop="20250608135000 " channel="YasTV.ae">
+    <title>International Flat Race Highlights 2025</title>
+    <desc>International Flat Race Highlights 2025: Ep   4</desc>
   </programme>
-  <programme start="20250607100000 +0300" stop="20250607103000 +0300" channel="AlkassOne.qa">
-    <title>MARINEMAGAZINE</title>
+  <programme start="20250608135000 " stop="20250608154000 " channel="YasTV.ae">
+    <title>UAE President's Cup Show Jumping 2025</title>
+    <desc>UAE President's Cup Show Jumping 2025: Ep   7</desc>
   </programme>
-  <programme start="20250607103000 +0300" stop="20250607120000 +0300" channel="AlkassOne.qa">
-    <title>FEEDBACK.</title>
+  <programme start="20250608154000 " stop="20250608163000 " channel="YasTV.ae">
+    <title>Dalma Sailing Race Highlights 2024</title>
+    <desc>Dalma Sailing Race Highlights 2024: Ep   3</desc>
   </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassOne.qa">
-    <title>NEWS.</title>
+  <programme start="20250608163000 " stop="20250608170000 " channel="YasTV.ae">
+    <title>International Flat Race Highlights 2025</title>
+    <desc>International Flat Race Highlights 2025: Ep   5</desc>
   </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassOne.qa">
-    <title>JARAYED.</title>
+  <programme start="20250608170000 " stop="20250608190000 " channel="YasTV.ae">
+    <title>Horse Show Jumping Highlights 2024</title>
+    <desc>Horse Show Jumping Highlights 2024: Ep   7</desc>
   </programme>
-  <programme start="20250607130000 +0300" stop="20250607133000 +0300" channel="AlkassOne.qa">
-    <title>TAWAASL</title>
+  <programme start="20250608190000 " stop="20250608193000 " channel="YasTV.ae">
+    <title>The Boat Show (Ara) 2025</title>
+    <desc>The Boat Show (Ara) 2025: Ep  23</desc>
   </programme>
-  <programme start="20250607133000 +0300" stop="20250607143000 +0300" channel="AlkassOne.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250607143000 +0300" stop="20250607153000 +0300" channel="AlkassOne.qa">
-    <title>FOLLOWERS</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607160000 +0300" channel="AlkassOne.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250607160000 +0300" stop="20250607161500 +0300" channel="AlkassOne.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607161500 +0300" stop="20250607180000 +0300" channel="AlkassOne.qa">
-    <title>WASL Basketball</title>
-  </programme>
-  <programme start="20250607180000 +0300" stop="20250607183000 +0300" channel="AlkassOne.qa">
-    <title>Aspire Magazine</title>
-  </programme>
-  <programme start="20250607183000 +0300" stop="20250607203000 +0300" channel="AlkassOne.qa">
-    <title>Ooredoo Stars League / Al Arabi x Al Khor</title>
-  </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassOne.qa">
-    <title>TAWAASL</title>
-  </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassOne.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607213000 +0300" stop="20250607220000 +0300" channel="AlkassOne.qa">
-    <title>HASELA ASIA</title>
-  </programme>
-  <programme start="20250607220000 +0300" stop="20250607233000 +0300" channel="AlkassOne.qa">
-    <title>THE Referee.</title>
-  </programme>
-  <programme start="20250607233000 +0300" stop="20250608000000 +0300" channel="AlkassOne.qa">
-    <title>FADFAD.</title>
+  <programme start="20250608193000 " stop="20250608210000 " channel="YasTV.ae">
+    <title>Sail GP 2025</title>
+    <desc>Sail GP 2025: Ep   2</desc>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608003000 +0300" stop="20250608023000 +0300" channel="AlkassOne.qa">
-    <title>ooredoo Stars League / Alshamal x AlGharafa</title>
+  <programme start="20250608003000 +0300" stop="20250608013000 +0300" channel="AlkassOne.qa">
+    <title>TACTIC</title>
   </programme>
-  <programme start="20250608023000 +0300" stop="20250608043000 +0300" channel="AlkassOne.qa">
-    <title>Diamond League - Rome</title>
+  <programme start="20250608013000 +0300" stop="20250608030000 +0300" channel="AlkassOne.qa">
+    <title>FEEDBACK.</title>
   </programme>
-  <programme start="20250608043000 +0300" stop="20250608060000 +0300" channel="AlkassOne.qa">
-    <title>10th Arab Cup for Men's Handball iraq vs. uae</title>
+  <programme start="20250608030000 +0300" stop="20250608033000 +0300" channel="AlkassOne.qa">
+    <title>FIBA.</title>
+  </programme>
+  <programme start="20250608033000 +0300" stop="20250608060000 +0300" channel="AlkassOne.qa">
+    <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
   </programme>
   <programme start="20250608060000 +0300" stop="20250608063000 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608063000 +0300" stop="20250608080000 +0300" channel="AlkassOne.qa">
-    <title>wasl Basketball  Lebanese Al-Hikma vs. Astana Kazakhstan</title>
-  </programme>
-  <programme start="20250608080000 +0300" stop="20250608100000 +0300" channel="AlkassOne.qa">
-    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
-  </programme>
-  <programme start="20250608100000 +0300" stop="20250608103000 +0300" channel="AlkassOne.qa">
+  <programme start="20250608063000 +0300" stop="20250608070000 +0300" channel="AlkassOne.qa">
     <title>MARINEMAGAZINE</title>
   </programme>
+  <programme start="20250608070000 +0300" stop="20250608090000 +0300" channel="AlkassOne.qa">
+    <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
+  </programme>
+  <programme start="20250608090000 +0300" stop="20250608100000 +0300" channel="AlkassOne.qa">
+    <title>FOLLOWERS</title>
+  </programme>
+  <programme start="20250608100000 +0300" stop="20250608103000 +0300" channel="AlkassOne.qa">
+    <title>FADFAD.</title>
+  </programme>
   <programme start="20250608103000 +0300" stop="20250608120000 +0300" channel="AlkassOne.qa">
-    <title>FEEDBACK.</title>
+    <title>THE Referee.</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
@@ -1175,26 +1069,26 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608130000 +0300" stop="20250608133000 +0300" channel="AlkassOne.qa">
     <title>TAWAASL</title>
   </programme>
-  <programme start="20250608133000 +0300" stop="20250608143000 +0300" channel="AlkassOne.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250608143000 +0300" stop="20250608153000 +0300" channel="AlkassOne.qa">
-    <title>FOLLOWERS</title>
+  <programme start="20250608133000 +0300" stop="20250608153000 +0300" channel="AlkassOne.qa">
+    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
   </programme>
   <programme start="20250608153000 +0300" stop="20250608160000 +0300" channel="AlkassOne.qa">
-    <title>SPORT CONFIDENTIAL.</title>
+    <title>Aspire Magazine</title>
   </programme>
   <programme start="20250608160000 +0300" stop="20250608161500 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608161500 +0300" stop="20250608180000 +0300" channel="AlkassOne.qa">
-    <title>WASL Basketball</title>
+  <programme start="20250608161500 +0300" stop="20250608173000 +0300" channel="AlkassOne.qa">
+    <title>The 10th Arab Men's Handball qatar vs. egypt</title>
+  </programme>
+  <programme start="20250608173000 +0300" stop="20250608180000 +0300" channel="AlkassOne.qa">
+    <title>HASELA ASIA</title>
   </programme>
   <programme start="20250608180000 +0300" stop="20250608183000 +0300" channel="AlkassOne.qa">
-    <title>Aspire Magazine</title>
+    <title>FADFAD.</title>
   </programme>
   <programme start="20250608183000 +0300" stop="20250608203000 +0300" channel="AlkassOne.qa">
-    <title>Ooredoo Stars League / Al Arabi x Al Khor</title>
+    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassOne.qa">
     <title>TAWAASL</title>
@@ -1202,128 +1096,137 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassOne.qa">
-    <title>HASELA ASIA</title>
+  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassOne.qa">
+    <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
   </programme>
-  <programme start="20250608220000 +0300" stop="20250608233000 +0300" channel="AlkassOne.qa">
-    <title>THE Referee.</title>
-  </programme>
-  <programme start="20250608233000 +0300" stop="20250609003000 +0300" channel="AlkassOne.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassTwo.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607003000 +0300" stop="20250607020000 +0300" channel="AlkassTwo.qa">
-    <title>THE Referee.</title>
-  </programme>
-  <programme start="20250607020000 +0300" stop="20250607023000 +0300" channel="AlkassTwo.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250607023000 +0300" stop="20250607033000 +0300" channel="AlkassTwo.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250607033000 +0300" stop="20250607043000 +0300" channel="AlkassTwo.qa">
-    <title>FOLLOWERS</title>
-  </programme>
-  <programme start="20250607043000 +0300" stop="20250607060000 +0300" channel="AlkassTwo.qa">
-    <title>FEEDBACK.</title>
-  </programme>
-  <programme start="20250607060000 +0300" stop="20250607100000 +0300" channel="AlkassTwo.qa">
-    <title>Longines Hathab.</title>
-  </programme>
-  <programme start="20250607100000 +0300" stop="20250607120000 +0300" channel="AlkassTwo.qa">
-    <title>Ooredoo Stars League / Al Sadd × um Salal</title>
-  </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassTwo.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassTwo.qa">
-    <title>JARAYED.</title>
-  </programme>
-  <programme start="20250607130000 +0300" stop="20250607133000 +0300" channel="AlkassTwo.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250607133000 +0300" stop="20250607153000 +0300" channel="AlkassTwo.qa">
-    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607160000 +0300" channel="AlkassTwo.qa">
+  <programme start="20250608233000 +0300" stop="20250609000000 +0300" channel="AlkassOne.qa">
     <title>GOLMNIA</title>
   </programme>
-  <programme start="20250607160000 +0300" stop="20250607161500 +0300" channel="AlkassTwo.qa">
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607161500 +0300" stop="20250607174500 +0300" channel="AlkassTwo.qa">
-    <title>THE Referee.</title>
+  <programme start="20250609003000 +0300" stop="20250609013000 +0300" channel="AlkassOne.qa">
+    <title>TACTIC</title>
   </programme>
-  <programme start="20250607174500 +0300" stop="20250607190000 +0300" channel="AlkassTwo.qa">
-    <title>FOLLOWERS</title>
-  </programme>
-  <programme start="20250607190000 +0300" stop="20250607203000 +0300" channel="AlkassTwo.qa">
+  <programme start="20250609013000 +0300" stop="20250609030000 +0300" channel="AlkassOne.qa">
     <title>FEEDBACK.</title>
   </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassTwo.qa">
-    <title>TAWAASL</title>
+  <programme start="20250609030000 +0300" stop="20250609033000 +0300" channel="AlkassOne.qa">
+    <title>FIBA.</title>
   </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassTwo.qa">
+  <programme start="20250609033000 +0300" stop="20250609060000 +0300" channel="AlkassOne.qa">
+    <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
+  </programme>
+  <programme start="20250609060000 +0300" stop="20250609063000 +0300" channel="AlkassOne.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250607220000 +0300" channel="AlkassTwo.qa">
-    <title>FOOTBALL REVIEW.</title>
+  <programme start="20250609063000 +0300" stop="20250609070000 +0300" channel="AlkassOne.qa">
+    <title>MARINEMAGAZINE</title>
   </programme>
-  <programme start="20250607220000 +0300" stop="20250608000000 +0300" channel="AlkassTwo.qa">
+  <programme start="20250609070000 +0300" stop="20250609090000 +0300" channel="AlkassOne.qa">
     <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
+  </programme>
+  <programme start="20250609090000 +0300" stop="20250609100000 +0300" channel="AlkassOne.qa">
+    <title>FOLLOWERS</title>
+  </programme>
+  <programme start="20250609100000 +0300" stop="20250609103000 +0300" channel="AlkassOne.qa">
+    <title>FADFAD.</title>
+  </programme>
+  <programme start="20250609103000 +0300" stop="20250609120000 +0300" channel="AlkassOne.qa">
+    <title>THE Referee.</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassOne.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassOne.qa">
+    <title>JARAYED.</title>
+  </programme>
+  <programme start="20250609130000 +0300" stop="20250609133000 +0300" channel="AlkassOne.qa">
+    <title>TAWAASL</title>
+  </programme>
+  <programme start="20250609133000 +0300" stop="20250609153000 +0300" channel="AlkassOne.qa">
+    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
+  </programme>
+  <programme start="20250609153000 +0300" stop="20250609160000 +0300" channel="AlkassOne.qa">
+    <title>Aspire Magazine</title>
+  </programme>
+  <programme start="20250609160000 +0300" stop="20250609161500 +0300" channel="AlkassOne.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609161500 +0300" stop="20250609173000 +0300" channel="AlkassOne.qa">
+    <title>The 10th Arab Men's Handball qatar vs. egypt</title>
+  </programme>
+  <programme start="20250609173000 +0300" stop="20250609180000 +0300" channel="AlkassOne.qa">
+    <title>HASELA ASIA</title>
+  </programme>
+  <programme start="20250609180000 +0300" stop="20250609183000 +0300" channel="AlkassOne.qa">
+    <title>FADFAD.</title>
+  </programme>
+  <programme start="20250609183000 +0300" stop="20250609203000 +0300" channel="AlkassOne.qa">
+    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
+  </programme>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassOne.qa">
+    <title>TAWAASL</title>
+  </programme>
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassOne.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609213000 +0300" stop="20250609233000 +0300" channel="AlkassOne.qa">
+    <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
+  </programme>
+  <programme start="20250609233000 +0300" stop="20250610003000 +0300" channel="AlkassOne.qa">
+    <title>GOLMNIA</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
   <programme start="20250608003000 +0300" stop="20250608020000 +0300" channel="AlkassTwo.qa">
-    <title>THE Referee.</title>
+    <title>Saint-Cloud Racing Studio</title>
   </programme>
-  <programme start="20250608020000 +0300" stop="20250608023000 +0300" channel="AlkassTwo.qa">
-    <title>FADFAD.</title>
+  <programme start="20250608020000 +0300" stop="20250608040000 +0300" channel="AlkassTwo.qa">
+    <title>Tunisian Cup Final Espérance Sportive de Tunis vs. Tunisian Stadium</title>
   </programme>
-  <programme start="20250608023000 +0300" stop="20250608033000 +0300" channel="AlkassTwo.qa">
-    <title>TACTIC</title>
+  <programme start="20250608040000 +0300" stop="20250608060000 +0300" channel="AlkassTwo.qa">
+    <title>Diamond League - Rome</title>
   </programme>
-  <programme start="20250608033000 +0300" stop="20250608043000 +0300" channel="AlkassTwo.qa">
-    <title>FOLLOWERS</title>
+  <programme start="20250608060000 +0300" stop="20250608063000 +0300" channel="AlkassTwo.qa">
+    <title>NEWS.</title>
   </programme>
-  <programme start="20250608043000 +0300" stop="20250608060000 +0300" channel="AlkassTwo.qa">
-    <title>FEEDBACK.</title>
+  <programme start="20250608063000 +0300" stop="20250608093000 +0300" channel="AlkassTwo.qa">
+    <title>AFC Volleyball Champions League Japanese Sontori vs. Qatari Al Rayyan</title>
   </programme>
-  <programme start="20250608060000 +0300" stop="20250608100000 +0300" channel="AlkassTwo.qa">
-    <title>Longines Hathab.</title>
+  <programme start="20250608093000 +0300" stop="20250608100000 +0300" channel="AlkassTwo.qa">
+    <title>Aspire Magazine</title>
   </programme>
   <programme start="20250608100000 +0300" stop="20250608120000 +0300" channel="AlkassTwo.qa">
-    <title>Ooredoo Stars League / Al Sadd × um Salal</title>
+    <title>ooredoo Stars League / Alkhor x Alarabi</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassTwo.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250608123000 +0300" stop="20250608123000 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
   <programme start="20250608123000 +0300" stop="20250608130000 +0300" channel="AlkassTwo.qa">
     <title>JARAYED.</title>
   </programme>
-  <programme start="20250608130000 +0300" stop="20250608133000 +0300" channel="AlkassTwo.qa">
-    <title>FADFAD.</title>
+  <programme start="20250608130000 +0300" stop="20250608143000 +0300" channel="AlkassTwo.qa">
+    <title>FEEDBACK.</title>
   </programme>
-  <programme start="20250608133000 +0300" stop="20250608153000 +0300" channel="AlkassTwo.qa">
-    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
-  </programme>
-  <programme start="20250608153000 +0300" stop="20250608160000 +0300" channel="AlkassTwo.qa">
-    <title>GOLMNIA</title>
+  <programme start="20250608143000 +0300" stop="20250608160000 +0300" channel="AlkassTwo.qa">
+    <title>wasl Basketball Al-Tayebat of Iran vs. Al Hikma of Lebanon</title>
   </programme>
   <programme start="20250608160000 +0300" stop="20250608161500 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608161500 +0300" stop="20250608174500 +0300" channel="AlkassTwo.qa">
-    <title>THE Referee.</title>
+  <programme start="20250608161500 +0300" stop="20250608181500 +0300" channel="AlkassTwo.qa">
+    <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
   </programme>
-  <programme start="20250608174500 +0300" stop="20250608190000 +0300" channel="AlkassTwo.qa">
-    <title>FOLLOWERS</title>
+  <programme start="20250608181500 +0300" stop="20250608184500 +0300" channel="AlkassTwo.qa">
+    <title>FIBA.</title>
   </programme>
-  <programme start="20250608190000 +0300" stop="20250608203000 +0300" channel="AlkassTwo.qa">
-    <title>FEEDBACK.</title>
+  <programme start="20250608184500 +0300" stop="20250608203000 +0300" channel="AlkassTwo.qa">
+    <title>Second Division League / Al-Sailiya x Al-Kharaitiyat</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassTwo.qa">
     <title>TAWAASL</title>
@@ -1332,133 +1235,127 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
     <title>NEWS.</title>
   </programme>
   <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassTwo.qa">
-    <title>FOOTBALL REVIEW.</title>
+    <title>SPORT CONFIDENTIAL.</title>
   </programme>
-  <programme start="20250608220000 +0300" stop="20250608230000 +0300" channel="AlkassTwo.qa">
-    <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
+  <programme start="20250608220000 +0300" stop="20250609000000 +0300" channel="AlkassTwo.qa">
+    <title>Tunisian Cup Final Espérance Sportive de Tunis vs. Tunisian Stadium</title>
   </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassThree.qa">
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607003000 +0300" stop="20250607023000 +0300" channel="AlkassThree.qa">
-    <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
+  <programme start="20250609003000 +0300" stop="20250609020000 +0300" channel="AlkassTwo.qa">
+    <title>Saint-Cloud Racing Studio</title>
   </programme>
-  <programme start="20250607023000 +0300" stop="20250607040000 +0300" channel="AlkassThree.qa">
-    <title>wasl Basketball  Lebanese Al-Hikma vs. Astana Kazakhstan</title>
+  <programme start="20250609020000 +0300" stop="20250609040000 +0300" channel="AlkassTwo.qa">
+    <title>Tunisian Cup Final Espérance Sportive de Tunis vs. Tunisian Stadium</title>
   </programme>
-  <programme start="20250607040000 +0300" stop="20250607060000 +0300" channel="AlkassThree.qa">
-    <title>Ooredoo Stars League / Al Sadd × um Salal</title>
-  </programme>
-  <programme start="20250607060000 +0300" stop="20250607063000 +0300" channel="AlkassThree.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607063000 +0300" stop="20250607070000 +0300" channel="AlkassThree.qa">
-    <title>MARINEMAGAZINE</title>
-  </programme>
-  <programme start="20250607070000 +0300" stop="20250607073000 +0300" channel="AlkassThree.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250607073000 +0300" stop="20250607083000 +0300" channel="AlkassThree.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250607083000 +0300" stop="20250607100000 +0300" channel="AlkassThree.qa">
-    <title>THE Referee.</title>
-  </programme>
-  <programme start="20250607100000 +0300" stop="20250607120000 +0300" channel="AlkassThree.qa">
+  <programme start="20250609040000 +0300" stop="20250609060000 +0300" channel="AlkassTwo.qa">
     <title>Diamond League - Rome</title>
   </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassThree.qa">
+  <programme start="20250609060000 +0300" stop="20250609063000 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassThree.qa">
+  <programme start="20250609063000 +0300" stop="20250609093000 +0300" channel="AlkassTwo.qa">
+    <title>AFC Volleyball Champions League Japanese Sontori vs. Qatari Al Rayyan</title>
+  </programme>
+  <programme start="20250609093000 +0300" stop="20250609100000 +0300" channel="AlkassTwo.qa">
+    <title>Aspire Magazine</title>
+  </programme>
+  <programme start="20250609100000 +0300" stop="20250609120000 +0300" channel="AlkassTwo.qa">
+    <title>ooredoo Stars League / Alkhor x Alarabi</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassTwo.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609123000 +0300" channel="AlkassTwo.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassTwo.qa">
     <title>JARAYED.</title>
   </programme>
-  <programme start="20250607130000 +0300" stop="20250607144500 +0300" channel="AlkassThree.qa">
+  <programme start="20250609130000 +0300" stop="20250609143000 +0300" channel="AlkassTwo.qa">
+    <title>FEEDBACK.</title>
+  </programme>
+  <programme start="20250609143000 +0300" stop="20250609160000 +0300" channel="AlkassTwo.qa">
     <title>wasl Basketball Al-Tayebat of Iran vs. Al Hikma of Lebanon</title>
   </programme>
-  <programme start="20250607144500 +0300" stop="20250607160000 +0300" channel="AlkassThree.qa">
-    <title>The 10th Arab Men's Handball  Bahrain vs. Egypt</title>
-  </programme>
-  <programme start="20250607160000 +0300" stop="20250607161500 +0300" channel="AlkassThree.qa">
+  <programme start="20250609160000 +0300" stop="20250609161500 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607161500 +0300" stop="20250607181500 +0300" channel="AlkassThree.qa">
-    <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
+  <programme start="20250609161500 +0300" stop="20250609181500 +0300" channel="AlkassTwo.qa">
+    <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
   </programme>
-  <programme start="20250607181500 +0300" stop="20250607184500 +0300" channel="AlkassThree.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250607184500 +0300" stop="20250607191500 +0300" channel="AlkassThree.qa">
+  <programme start="20250609181500 +0300" stop="20250609184500 +0300" channel="AlkassTwo.qa">
     <title>FIBA.</title>
   </programme>
-  <programme start="20250607191500 +0300" stop="20250607203000 +0300" channel="AlkassThree.qa">
-    <title>10th Arab Cup for Men's Handball iraq vs. uae</title>
+  <programme start="20250609184500 +0300" stop="20250609203000 +0300" channel="AlkassTwo.qa">
+    <title>Second Division League / Al-Sailiya x Al-Kharaitiyat</title>
   </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassThree.qa">
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassTwo.qa">
     <title>TAWAASL</title>
   </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassThree.qa">
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassTwo.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250608000000 +0300" channel="AlkassThree.qa">
-    <title>AFC Volleyball Champions League Japanese Sontori vs. Qatari Al Rayyan</title>
+  <programme start="20250609213000 +0300" stop="20250609220000 +0300" channel="AlkassTwo.qa">
+    <title>SPORT CONFIDENTIAL.</title>
+  </programme>
+  <programme start="20250609220000 +0300" stop="20250609230000 +0300" channel="AlkassTwo.qa">
+    <title>Tunisian Cup Final Espérance Sportive de Tunis vs. Tunisian Stadium</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassThree.qa">
     <title>NEWS.</title>
   </programme>
   <programme start="20250608003000 +0300" stop="20250608023000 +0300" channel="AlkassThree.qa">
+    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
+  </programme>
+  <programme start="20250608023000 +0300" stop="20250608043000 +0300" channel="AlkassThree.qa">
     <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
   </programme>
-  <programme start="20250608023000 +0300" stop="20250608040000 +0300" channel="AlkassThree.qa">
-    <title>wasl Basketball  Lebanese Al-Hikma vs. Astana Kazakhstan</title>
-  </programme>
-  <programme start="20250608040000 +0300" stop="20250608060000 +0300" channel="AlkassThree.qa">
-    <title>Ooredoo Stars League / Al Sadd × um Salal</title>
+  <programme start="20250608043000 +0300" stop="20250608060000 +0300" channel="AlkassThree.qa">
+    <title>wasl Basketball Al-Tayebat of Iran vs. Al Hikma of Lebanon</title>
   </programme>
   <programme start="20250608060000 +0300" stop="20250608063000 +0300" channel="AlkassThree.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608063000 +0300" stop="20250608070000 +0300" channel="AlkassThree.qa">
-    <title>MARINEMAGAZINE</title>
+  <programme start="20250608063000 +0300" stop="20250608080000 +0300" channel="AlkassThree.qa">
+    <title>FEEDBACK.</title>
   </programme>
-  <programme start="20250608070000 +0300" stop="20250608073000 +0300" channel="AlkassThree.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250608073000 +0300" stop="20250608083000 +0300" channel="AlkassThree.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250608083000 +0300" stop="20250608100000 +0300" channel="AlkassThree.qa">
-    <title>THE Referee.</title>
+  <programme start="20250608080000 +0300" stop="20250608100000 +0300" channel="AlkassThree.qa">
+    <title>Saint-Cloud Racing Studio</title>
   </programme>
   <programme start="20250608100000 +0300" stop="20250608120000 +0300" channel="AlkassThree.qa">
-    <title>Diamond League - Rome</title>
+    <title>WASL Basketball</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250608123000 +0300" stop="20250608123000 +0300" channel="AlkassThree.qa">
     <title>NEWS.</title>
   </programme>
   <programme start="20250608123000 +0300" stop="20250608130000 +0300" channel="AlkassThree.qa">
     <title>JARAYED.</title>
   </programme>
-  <programme start="20250608130000 +0300" stop="20250608144500 +0300" channel="AlkassThree.qa">
-    <title>wasl Basketball Al-Tayebat of Iran vs. Al Hikma of Lebanon</title>
+  <programme start="20250608130000 +0300" stop="20250608143000 +0300" channel="AlkassThree.qa">
+    <title>The 10th Arab Men's Handball Kuwait vs.Bahrain</title>
   </programme>
-  <programme start="20250608144500 +0300" stop="20250608160000 +0300" channel="AlkassThree.qa">
-    <title>The 10th Arab Men's Handball  Bahrain vs. Egypt</title>
+  <programme start="20250608143000 +0300" stop="20250608160000 +0300" channel="AlkassThree.qa">
+    <title>AFC Volleyball Champions League Sanatori Japan vs. Foolad Iran</title>
   </programme>
   <programme start="20250608160000 +0300" stop="20250608161500 +0300" channel="AlkassThree.qa">
     <title>NEWS.</title>
   </programme>
   <programme start="20250608161500 +0300" stop="20250608181500 +0300" channel="AlkassThree.qa">
-    <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
+    <title>Tunisian Cup Final Espérance Sportive de Tunis vs. Tunisian Stadium</title>
   </programme>
   <programme start="20250608181500 +0300" stop="20250608184500 +0300" channel="AlkassThree.qa">
-    <title>FADFAD.</title>
+    <title>GOLMNIA</title>
   </programme>
-  <programme start="20250608184500 +0300" stop="20250608191500 +0300" channel="AlkassThree.qa">
-    <title>FIBA.</title>
+  <programme start="20250608184500 +0300" stop="20250608190000 +0300" channel="AlkassThree.qa">
+    <title>AUTOMUNDIAL</title>
   </programme>
-  <programme start="20250608191500 +0300" stop="20250608203000 +0300" channel="AlkassThree.qa">
-    <title>10th Arab Cup for Men's Handball iraq vs. uae</title>
+  <programme start="20250608190000 +0300" stop="20250608203000 +0300" channel="AlkassThree.qa">
+    <title>THE Referee.</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassThree.qa">
     <title>TAWAASL</title>
@@ -1466,128 +1363,113 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassThree.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608223000 +0300" channel="AlkassThree.qa">
-    <title>AFC Volleyball Champions League Japanese Sontori vs. Qatari Al Rayyan</title>
+  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassThree.qa">
+    <title>ooredoo Stars League / Alkhor x Alarabi</title>
   </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassFour.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607003000 +0300" stop="20250607023000 +0300" channel="AlkassFour.qa">
-    <title>ooredoo Stars League / Alshamal x AlGharafa</title>
-  </programme>
-  <programme start="20250607023000 +0300" stop="20250607043000 +0300" channel="AlkassFour.qa">
-    <title>Diamond League - Rome</title>
-  </programme>
-  <programme start="20250607043000 +0300" stop="20250607060000 +0300" channel="AlkassFour.qa">
-    <title>10th Arab Cup for Men's Handball iraq vs. uae</title>
-  </programme>
-  <programme start="20250607060000 +0300" stop="20250607063000 +0300" channel="AlkassFour.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607063000 +0300" stop="20250607080000 +0300" channel="AlkassFour.qa">
-    <title>wasl Basketball  Lebanese Al-Hikma vs. Astana Kazakhstan</title>
-  </programme>
-  <programme start="20250607080000 +0300" stop="20250607100000 +0300" channel="AlkassFour.qa">
-    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
-  </programme>
-  <programme start="20250607100000 +0300" stop="20250607103000 +0300" channel="AlkassFour.qa">
-    <title>MARINEMAGAZINE</title>
-  </programme>
-  <programme start="20250607103000 +0300" stop="20250607120000 +0300" channel="AlkassFour.qa">
-    <title>FEEDBACK.</title>
-  </programme>
-  <programme start="20250607120000 +0300" stop="20250607120000 +0300" channel="AlkassFour.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassFour.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassFour.qa">
-    <title>JARAYED.</title>
-  </programme>
-  <programme start="20250607130000 +0300" stop="20250607133000 +0300" channel="AlkassFour.qa">
-    <title>TAWAASL</title>
-  </programme>
-  <programme start="20250607133000 +0300" stop="20250607143000 +0300" channel="AlkassFour.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250607143000 +0300" stop="20250607153000 +0300" channel="AlkassFour.qa">
-    <title>FOLLOWERS</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607160000 +0300" channel="AlkassFour.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250607160000 +0300" stop="20250607161500 +0300" channel="AlkassFour.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607161500 +0300" stop="20250607161500 +0300" channel="AlkassFour.qa">
-    <title>WASL Basketball</title>
-  </programme>
-  <programme start="20250607161500 +0300" stop="20250607180000 +0300" channel="AlkassFour.qa">
-    <title>The 10th Arab Men's Handball qatar vs. egypt</title>
-  </programme>
-  <programme start="20250607180000 +0300" stop="20250607180000 +0300" channel="AlkassFour.qa">
-    <title>Aspire Magazine</title>
-  </programme>
-  <programme start="20250607180000 +0300" stop="20250607183000 +0300" channel="AlkassFour.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250607183000 +0300" stop="20250607183000 +0300" channel="AlkassFour.qa">
-    <title>Ooredoo Stars League / Al Arabi x Al Khor</title>
-  </programme>
-  <programme start="20250607183000 +0300" stop="20250607203000 +0300" channel="AlkassFour.qa">
-    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
-  </programme>
-  <programme start="20250607203000 +0300" stop="20250607203000 +0300" channel="AlkassFour.qa">
-    <title>TAWAASL</title>
-  </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassFour.qa">
-    <title>TAWAASL</title>
-  </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassFour.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607213000 +0300" stop="20250607213000 +0300" channel="AlkassFour.qa">
+  <programme start="20250608233000 +0300" stop="20250609000000 +0300" channel="AlkassThree.qa">
     <title>HASELA ASIA</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250607220000 +0300" channel="AlkassFour.qa">
-    <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
   </programme>
-  <programme start="20250607220000 +0300" stop="20250607233000 +0300" channel="AlkassFour.qa">
+  <programme start="20250609003000 +0300" stop="20250609023000 +0300" channel="AlkassThree.qa">
+    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
+  </programme>
+  <programme start="20250609023000 +0300" stop="20250609043000 +0300" channel="AlkassThree.qa">
+    <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
+  </programme>
+  <programme start="20250609043000 +0300" stop="20250609060000 +0300" channel="AlkassThree.qa">
+    <title>wasl Basketball Al-Tayebat of Iran vs. Al Hikma of Lebanon</title>
+  </programme>
+  <programme start="20250609060000 +0300" stop="20250609063000 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609063000 +0300" stop="20250609080000 +0300" channel="AlkassThree.qa">
+    <title>FEEDBACK.</title>
+  </programme>
+  <programme start="20250609080000 +0300" stop="20250609100000 +0300" channel="AlkassThree.qa">
+    <title>Saint-Cloud Racing Studio</title>
+  </programme>
+  <programme start="20250609100000 +0300" stop="20250609120000 +0300" channel="AlkassThree.qa">
+    <title>WASL Basketball</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609123000 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassThree.qa">
+    <title>JARAYED.</title>
+  </programme>
+  <programme start="20250609130000 +0300" stop="20250609143000 +0300" channel="AlkassThree.qa">
+    <title>The 10th Arab Men's Handball Kuwait vs.Bahrain</title>
+  </programme>
+  <programme start="20250609143000 +0300" stop="20250609160000 +0300" channel="AlkassThree.qa">
+    <title>AFC Volleyball Champions League Sanatori Japan vs. Foolad Iran</title>
+  </programme>
+  <programme start="20250609160000 +0300" stop="20250609161500 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609161500 +0300" stop="20250609181500 +0300" channel="AlkassThree.qa">
+    <title>Tunisian Cup Final Espérance Sportive de Tunis vs. Tunisian Stadium</title>
+  </programme>
+  <programme start="20250609181500 +0300" stop="20250609184500 +0300" channel="AlkassThree.qa">
+    <title>GOLMNIA</title>
+  </programme>
+  <programme start="20250609184500 +0300" stop="20250609190000 +0300" channel="AlkassThree.qa">
+    <title>AUTOMUNDIAL</title>
+  </programme>
+  <programme start="20250609190000 +0300" stop="20250609203000 +0300" channel="AlkassThree.qa">
     <title>THE Referee.</title>
   </programme>
-  <programme start="20250607233000 +0300" stop="20250607233000 +0300" channel="AlkassFour.qa">
-    <title>FADFAD.</title>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassThree.qa">
+    <title>TAWAASL</title>
   </programme>
-  <programme start="20250607233000 +0300" stop="20250608000000 +0300" channel="AlkassFour.qa">
-    <title>GOLMNIA</title>
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassThree.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609213000 +0300" stop="20250609233000 +0300" channel="AlkassThree.qa">
+    <title>ooredoo Stars League / Alkhor x Alarabi</title>
+  </programme>
+  <programme start="20250609233000 +0300" stop="20250610003000 +0300" channel="AlkassThree.qa">
+    <title>HASELA ASIA</title>
+  </programme>
+  <programme start="20250608000000 +0300" stop="20250608000000 +0300" channel="AlkassFour.qa">
+    <title>NEWS.</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608003000 +0300" stop="20250608023000 +0300" channel="AlkassFour.qa">
-    <title>ooredoo Stars League / Alshamal x AlGharafa</title>
+  <programme start="20250608003000 +0300" stop="20250608013000 +0300" channel="AlkassFour.qa">
+    <title>TACTIC</title>
   </programme>
-  <programme start="20250608023000 +0300" stop="20250608043000 +0300" channel="AlkassFour.qa">
-    <title>Diamond League - Rome</title>
+  <programme start="20250608013000 +0300" stop="20250608030000 +0300" channel="AlkassFour.qa">
+    <title>FEEDBACK.</title>
   </programme>
-  <programme start="20250608043000 +0300" stop="20250608060000 +0300" channel="AlkassFour.qa">
-    <title>10th Arab Cup for Men's Handball iraq vs. uae</title>
+  <programme start="20250608030000 +0300" stop="20250608033000 +0300" channel="AlkassFour.qa">
+    <title>FIBA.</title>
+  </programme>
+  <programme start="20250608033000 +0300" stop="20250608060000 +0300" channel="AlkassFour.qa">
+    <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
   </programme>
   <programme start="20250608060000 +0300" stop="20250608063000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608063000 +0300" stop="20250608080000 +0300" channel="AlkassFour.qa">
-    <title>wasl Basketball  Lebanese Al-Hikma vs. Astana Kazakhstan</title>
-  </programme>
-  <programme start="20250608080000 +0300" stop="20250608100000 +0300" channel="AlkassFour.qa">
-    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
-  </programme>
-  <programme start="20250608100000 +0300" stop="20250608103000 +0300" channel="AlkassFour.qa">
+  <programme start="20250608063000 +0300" stop="20250608070000 +0300" channel="AlkassFour.qa">
     <title>MARINEMAGAZINE</title>
   </programme>
+  <programme start="20250608070000 +0300" stop="20250608090000 +0300" channel="AlkassFour.qa">
+    <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
+  </programme>
+  <programme start="20250608090000 +0300" stop="20250608100000 +0300" channel="AlkassFour.qa">
+    <title>FOLLOWERS</title>
+  </programme>
+  <programme start="20250608100000 +0300" stop="20250608103000 +0300" channel="AlkassFour.qa">
+    <title>FADFAD.</title>
+  </programme>
   <programme start="20250608103000 +0300" stop="20250608120000 +0300" channel="AlkassFour.qa">
-    <title>FEEDBACK.</title>
+    <title>THE Referee.</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608120000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
@@ -1601,38 +1483,26 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608130000 +0300" stop="20250608133000 +0300" channel="AlkassFour.qa">
     <title>TAWAASL</title>
   </programme>
-  <programme start="20250608133000 +0300" stop="20250608143000 +0300" channel="AlkassFour.qa">
-    <title>TACTIC</title>
-  </programme>
-  <programme start="20250608143000 +0300" stop="20250608153000 +0300" channel="AlkassFour.qa">
-    <title>FOLLOWERS</title>
+  <programme start="20250608133000 +0300" stop="20250608153000 +0300" channel="AlkassFour.qa">
+    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
   </programme>
   <programme start="20250608153000 +0300" stop="20250608160000 +0300" channel="AlkassFour.qa">
-    <title>SPORT CONFIDENTIAL.</title>
+    <title>Aspire Magazine</title>
   </programme>
   <programme start="20250608160000 +0300" stop="20250608161500 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608161500 +0300" stop="20250608161500 +0300" channel="AlkassFour.qa">
-    <title>WASL Basketball</title>
-  </programme>
-  <programme start="20250608161500 +0300" stop="20250608180000 +0300" channel="AlkassFour.qa">
+  <programme start="20250608161500 +0300" stop="20250608173000 +0300" channel="AlkassFour.qa">
     <title>The 10th Arab Men's Handball qatar vs. egypt</title>
   </programme>
-  <programme start="20250608180000 +0300" stop="20250608180000 +0300" channel="AlkassFour.qa">
-    <title>Aspire Magazine</title>
+  <programme start="20250608173000 +0300" stop="20250608180000 +0300" channel="AlkassFour.qa">
+    <title>HASELA ASIA</title>
   </programme>
   <programme start="20250608180000 +0300" stop="20250608183000 +0300" channel="AlkassFour.qa">
     <title>FADFAD.</title>
   </programme>
-  <programme start="20250608183000 +0300" stop="20250608183000 +0300" channel="AlkassFour.qa">
-    <title>Ooredoo Stars League / Al Arabi x Al Khor</title>
-  </programme>
   <programme start="20250608183000 +0300" stop="20250608203000 +0300" channel="AlkassFour.qa">
     <title>Ooredoo Stars League / Qatar x Al Ahli</title>
-  </programme>
-  <programme start="20250608203000 +0300" stop="20250608203000 +0300" channel="AlkassFour.qa">
-    <title>TAWAASL</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassFour.qa">
     <title>TAWAASL</title>
@@ -1640,107 +1510,116 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608213000 +0300" channel="AlkassFour.qa">
-    <title>HASELA ASIA</title>
-  </programme>
-  <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassFour.qa">
+  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassFour.qa">
     <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
   </programme>
-  <programme start="20250608220000 +0300" stop="20250608233000 +0300" channel="AlkassFour.qa">
-    <title>THE Referee.</title>
-  </programme>
-  <programme start="20250608233000 +0300" stop="20250608233000 +0300" channel="AlkassFour.qa">
-    <title>FADFAD.</title>
-  </programme>
-  <programme start="20250608233000 +0300" stop="20250609003000 +0300" channel="AlkassFour.qa">
+  <programme start="20250608233000 +0300" stop="20250609000000 +0300" channel="AlkassFour.qa">
     <title>GOLMNIA</title>
   </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609000000 +0300" stop="20250609000000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607003000 +0300" stop="20250607024500 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassFour.qa">
+    <title>NEWS.</title>
   </programme>
-  <programme start="20250607024500 +0300" stop="20250607044500 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
+  <programme start="20250609003000 +0300" stop="20250609013000 +0300" channel="AlkassFour.qa">
+    <title>TACTIC</title>
   </programme>
-  <programme start="20250607044500 +0300" stop="20250607051500 +0300" channel="AlkassFive.qa">
+  <programme start="20250609013000 +0300" stop="20250609030000 +0300" channel="AlkassFour.qa">
+    <title>FEEDBACK.</title>
+  </programme>
+  <programme start="20250609030000 +0300" stop="20250609033000 +0300" channel="AlkassFour.qa">
+    <title>FIBA.</title>
+  </programme>
+  <programme start="20250609033000 +0300" stop="20250609060000 +0300" channel="AlkassFour.qa">
+    <title>AFC Volleyball Champions League  Osaka Japanese VS. Foolad Iranian</title>
+  </programme>
+  <programme start="20250609060000 +0300" stop="20250609063000 +0300" channel="AlkassFour.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609063000 +0300" stop="20250609070000 +0300" channel="AlkassFour.qa">
     <title>MARINEMAGAZINE</title>
   </programme>
-  <programme start="20250607051500 +0300" stop="20250607071500 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250609070000 +0300" stop="20250609090000 +0300" channel="AlkassFour.qa">
+    <title>Ooredoo Stars League / Al wakra x Al Duhail</title>
   </programme>
-  <programme start="20250607071500 +0300" stop="20250607074500 +0300" channel="AlkassFive.qa">
-    <title>THE GREATS OF ALL TIME</title>
+  <programme start="20250609090000 +0300" stop="20250609100000 +0300" channel="AlkassFour.qa">
+    <title>FOLLOWERS</title>
   </programme>
-  <programme start="20250607074500 +0300" stop="20250607100000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
+  <programme start="20250609100000 +0300" stop="20250609103000 +0300" channel="AlkassFour.qa">
+    <title>FADFAD.</title>
   </programme>
-  <programme start="20250607100000 +0300" stop="20250607120000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers UAE vs Uzbekistan</title>
+  <programme start="20250609103000 +0300" stop="20250609120000 +0300" channel="AlkassFour.qa">
+    <title>THE Referee.</title>
   </programme>
-  <programme start="20250607120000 +0300" stop="20250607120000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609120000 +0300" stop="20250609120000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassFour.qa">
     <title>JARAYED.</title>
   </programme>
-  <programme start="20250607130000 +0300" stop="20250607150000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
-  </programme>
-  <programme start="20250607150000 +0300" stop="20250607153000 +0300" channel="AlkassFive.qa">
-    <title>FOOTBALL REVIEW.</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607173000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250607173000 +0300" stop="20250607180000 +0300" channel="AlkassFive.qa">
-    <title>INSIDELINE</title>
-  </programme>
-  <programme start="20250607180000 +0300" stop="20250607200000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
-  </programme>
-  <programme start="20250607200000 +0300" stop="20250607203000 +0300" channel="AlkassFive.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609130000 +0300" stop="20250609133000 +0300" channel="AlkassFour.qa">
     <title>TAWAASL</title>
   </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609133000 +0300" stop="20250609153000 +0300" channel="AlkassFour.qa">
+    <title>Ooredoo Stars League / Al Rayyan × Al Shahaniya</title>
+  </programme>
+  <programme start="20250609153000 +0300" stop="20250609160000 +0300" channel="AlkassFour.qa">
+    <title>Aspire Magazine</title>
+  </programme>
+  <programme start="20250609160000 +0300" stop="20250609161500 +0300" channel="AlkassFour.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250607220000 +0300" channel="AlkassFive.qa">
+  <programme start="20250609161500 +0300" stop="20250609173000 +0300" channel="AlkassFour.qa">
+    <title>The 10th Arab Men's Handball qatar vs. egypt</title>
+  </programme>
+  <programme start="20250609173000 +0300" stop="20250609180000 +0300" channel="AlkassFour.qa">
     <title>HASELA ASIA</title>
   </programme>
-  <programme start="20250607220000 +0300" stop="20250608000000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250609180000 +0300" stop="20250609183000 +0300" channel="AlkassFour.qa">
+    <title>FADFAD.</title>
+  </programme>
+  <programme start="20250609183000 +0300" stop="20250609203000 +0300" channel="AlkassFour.qa">
+    <title>Ooredoo Stars League / Qatar x Al Ahli</title>
+  </programme>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassFour.qa">
+    <title>TAWAASL</title>
+  </programme>
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassFour.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609213000 +0300" stop="20250609233000 +0300" channel="AlkassFour.qa">
+    <title>AFC Volleyball Champions League Al Rayyan Qatar vs. Osaka Japan</title>
+  </programme>
+  <programme start="20250609233000 +0300" stop="20250610003000 +0300" channel="AlkassFour.qa">
+    <title>GOLMNIA</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassFive.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608003000 +0300" stop="20250608024500 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
+  <programme start="20250608003000 +0300" stop="20250608023000 +0300" channel="AlkassFive.qa">
+    <title>World Cup Qualifiers Australia vs. Japan</title>
   </programme>
-  <programme start="20250608024500 +0300" stop="20250608044500 +0300" channel="AlkassFive.qa">
+  <programme start="20250608023000 +0300" stop="20250608030000 +0300" channel="AlkassFive.qa">
+    <title>HASELA ASIA</title>
+  </programme>
+  <programme start="20250608030000 +0300" stop="20250608050000 +0300" channel="AlkassFive.qa">
+    <title>World Cup Qualifiers Uzbekistan vs. United Arab Emirates</title>
+  </programme>
+  <programme start="20250608050000 +0300" stop="20250608060000 +0300" channel="AlkassFive.qa">
+    <title>TACTIC</title>
+  </programme>
+  <programme start="20250608060000 +0300" stop="20250608080000 +0300" channel="AlkassFive.qa">
+    <title>2026 World Cup Qualifiers / north korea x Uzbekistan</title>
+  </programme>
+  <programme start="20250608080000 +0300" stop="20250608100000 +0300" channel="AlkassFive.qa">
     <title>World Cup Qualifiers Kuwait vs. Palestine</title>
   </programme>
-  <programme start="20250608044500 +0300" stop="20250608051500 +0300" channel="AlkassFive.qa">
-    <title>MARINEMAGAZINE</title>
-  </programme>
-  <programme start="20250608051500 +0300" stop="20250608071500 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
-  </programme>
-  <programme start="20250608071500 +0300" stop="20250608074500 +0300" channel="AlkassFive.qa">
-    <title>THE GREATS OF ALL TIME</title>
-  </programme>
-  <programme start="20250608074500 +0300" stop="20250608100000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
-  </programme>
   <programme start="20250608100000 +0300" stop="20250608120000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers UAE vs Uzbekistan</title>
+    <title>2026 World Cup Qualifiers Oman vs Jordan</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608120000 +0300" channel="AlkassFive.qa">
     <title>NEWS.</title>
@@ -1748,26 +1627,29 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassFive.qa">
     <title>NEWS.</title>
   </programme>
+  <programme start="20250608123000 +0300" stop="20250608123000 +0300" channel="AlkassFive.qa">
+    <title>NEWS.</title>
+  </programme>
   <programme start="20250608123000 +0300" stop="20250608130000 +0300" channel="AlkassFive.qa">
     <title>JARAYED.</title>
   </programme>
   <programme start="20250608130000 +0300" stop="20250608150000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
+    <title>World Cup Qualifiers Australia vs. Indonesia</title>
   </programme>
   <programme start="20250608150000 +0300" stop="20250608153000 +0300" channel="AlkassFive.qa">
-    <title>FOOTBALL REVIEW.</title>
+    <title>MARINEMAGAZINE</title>
   </programme>
   <programme start="20250608153000 +0300" stop="20250608173000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
+    <title>World Cup qualifiers / Japan vs Bahrain</title>
   </programme>
   <programme start="20250608173000 +0300" stop="20250608180000 +0300" channel="AlkassFive.qa">
-    <title>INSIDELINE</title>
+    <title>FOOTBALL REVIEW.</title>
   </programme>
   <programme start="20250608180000 +0300" stop="20250608200000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
+    <title>World Cup qualifiers /  South Korea vs Oman</title>
   </programme>
   <programme start="20250608200000 +0300" stop="20250608203000 +0300" channel="AlkassFive.qa">
-    <title>SPORT CONFIDENTIAL.</title>
+    <title>THE GREATS OF ALL TIME</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassFive.qa">
     <title>TAWAASL</title>
@@ -1775,128 +1657,119 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassFive.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassFive.qa">
-    <title>HASELA ASIA</title>
+  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassFive.qa">
+    <title>Asian Qualifiers Council for the 2026 World Cup / North Korea × Qatar</title>
   </programme>
-  <programme start="20250608220000 +0300" stop="20250608230000 +0300" channel="AlkassFive.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
-  </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassSix.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607003000 +0300" stop="20250607024500 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
-  </programme>
-  <programme start="20250607024500 +0300" stop="20250607031500 +0300" channel="AlkassSix.qa">
+  <programme start="20250608233000 +0300" stop="20250609000000 +0300" channel="AlkassFive.qa">
     <title>Aspire Magazine</title>
   </programme>
-  <programme start="20250607031500 +0300" stop="20250607050000 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassFive.qa">
+    <title>NEWS.</title>
   </programme>
-  <programme start="20250607050000 +0300" stop="20250607053000 +0300" channel="AlkassSix.qa">
-    <title>SPORT CONFIDENTIAL.</title>
+  <programme start="20250609003000 +0300" stop="20250609023000 +0300" channel="AlkassFive.qa">
+    <title>World Cup Qualifiers Australia vs. Japan</title>
   </programme>
-  <programme start="20250607053000 +0300" stop="20250607074500 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
+  <programme start="20250609023000 +0300" stop="20250609030000 +0300" channel="AlkassFive.qa">
+    <title>HASELA ASIA</title>
   </programme>
-  <programme start="20250607074500 +0300" stop="20250607100000 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers North Korea vs Kyrgyzstan</title>
+  <programme start="20250609030000 +0300" stop="20250609050000 +0300" channel="AlkassFive.qa">
+    <title>World Cup Qualifiers Uzbekistan vs. United Arab Emirates</title>
   </programme>
-  <programme start="20250607100000 +0300" stop="20250607120000 +0300" channel="AlkassSix.qa">
+  <programme start="20250609050000 +0300" stop="20250609060000 +0300" channel="AlkassFive.qa">
+    <title>TACTIC</title>
+  </programme>
+  <programme start="20250609060000 +0300" stop="20250609080000 +0300" channel="AlkassFive.qa">
+    <title>2026 World Cup Qualifiers / north korea x Uzbekistan</title>
+  </programme>
+  <programme start="20250609080000 +0300" stop="20250609100000 +0300" channel="AlkassFive.qa">
     <title>World Cup Qualifiers Kuwait vs. Palestine</title>
   </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassSix.qa">
+  <programme start="20250609100000 +0300" stop="20250609120000 +0300" channel="AlkassFive.qa">
+    <title>2026 World Cup Qualifiers Oman vs Jordan</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609120000 +0300" channel="AlkassFive.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607123000 +0300" stop="20250607123000 +0300" channel="AlkassSix.qa">
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassFive.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609123000 +0300" channel="AlkassFive.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassFive.qa">
     <title>JARAYED.</title>
   </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassSix.qa">
-    <title>JARAYED.</title>
+  <programme start="20250609130000 +0300" stop="20250609150000 +0300" channel="AlkassFive.qa">
+    <title>World Cup Qualifiers Australia vs. Indonesia</title>
   </programme>
-  <programme start="20250607130000 +0300" stop="20250607150000 +0300" channel="AlkassSix.qa">
-    <title>2026 World Cup Qualifiers / Oman vs Palestine</title>
-  </programme>
-  <programme start="20250607150000 +0300" stop="20250607153000 +0300" channel="AlkassSix.qa">
-    <title>THE GREATS OF ALL TIME</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607173000 +0300" channel="AlkassSix.qa">
-    <title>2026 World Cup Qualifiers / Iraq vs Jordan</title>
-  </programme>
-  <programme start="20250607173000 +0300" stop="20250607180000 +0300" channel="AlkassSix.qa">
+  <programme start="20250609150000 +0300" stop="20250609153000 +0300" channel="AlkassFive.qa">
     <title>MARINEMAGAZINE</title>
   </programme>
-  <programme start="20250607180000 +0300" stop="20250607200000 +0300" channel="AlkassSix.qa">
-    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
+  <programme start="20250609153000 +0300" stop="20250609173000 +0300" channel="AlkassFive.qa">
+    <title>World Cup qualifiers / Japan vs Bahrain</title>
   </programme>
-  <programme start="20250607200000 +0300" stop="20250607203000 +0300" channel="AlkassSix.qa">
-    <title>GOLMNIA</title>
+  <programme start="20250609173000 +0300" stop="20250609180000 +0300" channel="AlkassFive.qa">
+    <title>FOOTBALL REVIEW.</title>
   </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassSix.qa">
+  <programme start="20250609180000 +0300" stop="20250609200000 +0300" channel="AlkassFive.qa">
+    <title>World Cup qualifiers /  South Korea vs Oman</title>
+  </programme>
+  <programme start="20250609200000 +0300" stop="20250609203000 +0300" channel="AlkassFive.qa">
+    <title>THE GREATS OF ALL TIME</title>
+  </programme>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassFive.qa">
     <title>TAWAASL</title>
   </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassSix.qa">
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassFive.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250607233000 +0300" channel="AlkassSix.qa">
-    <title>Asian World Cup Qualifiers Qatar vs. Uzbekistan</title>
+  <programme start="20250609213000 +0300" stop="20250609233000 +0300" channel="AlkassFive.qa">
+    <title>Asian Qualifiers Council for the 2026 World Cup / North Korea × Qatar</title>
   </programme>
-  <programme start="20250607233000 +0300" stop="20250607233000 +0300" channel="AlkassSix.qa">
-    <title>INVINCIBLE</title>
-  </programme>
-  <programme start="20250607233000 +0300" stop="20250608000000 +0300" channel="AlkassSix.qa">
-    <title>INVINCIBLE</title>
+  <programme start="20250609233000 +0300" stop="20250610003000 +0300" channel="AlkassFive.qa">
+    <title>Aspire Magazine</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassSix.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608003000 +0300" stop="20250608024500 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
+  <programme start="20250608003000 +0300" stop="20250608023500 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / UAE x Kyrgyzstan</title>
   </programme>
-  <programme start="20250608024500 +0300" stop="20250608031500 +0300" channel="AlkassSix.qa">
-    <title>Aspire Magazine</title>
+  <programme start="20250608023500 +0300" stop="20250608050000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Bahrain vs China</title>
   </programme>
-  <programme start="20250608031500 +0300" stop="20250608050000 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250608050000 +0300" stop="20250608071500 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Kuwait vs South Korea</title>
   </programme>
-  <programme start="20250608050000 +0300" stop="20250608053000 +0300" channel="AlkassSix.qa">
-    <title>SPORT CONFIDENTIAL.</title>
+  <programme start="20250608071500 +0300" stop="20250608093000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Australia × Saudi Arabia</title>
   </programme>
-  <programme start="20250608053000 +0300" stop="20250608074500 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250608074500 +0300" stop="20250608100000 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers North Korea vs Kyrgyzstan</title>
-  </programme>
-  <programme start="20250608100000 +0300" stop="20250608120000 +0300" channel="AlkassSix.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
+  <programme start="20250608093000 +0300" stop="20250608120000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassSix.qa">
     <title>NEWS.</title>
-  </programme>
-  <programme start="20250608123000 +0300" stop="20250608123000 +0300" channel="AlkassSix.qa">
-    <title>JARAYED.</title>
   </programme>
   <programme start="20250608123000 +0300" stop="20250608130000 +0300" channel="AlkassSix.qa">
     <title>JARAYED.</title>
   </programme>
   <programme start="20250608130000 +0300" stop="20250608150000 +0300" channel="AlkassSix.qa">
-    <title>2026 World Cup Qualifiers / Oman vs Palestine</title>
+    <title>Asian World Cup qualifiers 2026 /  Qatar × UAE</title>
   </programme>
   <programme start="20250608150000 +0300" stop="20250608153000 +0300" channel="AlkassSix.qa">
-    <title>THE GREATS OF ALL TIME</title>
+    <title>INVINCIBLE</title>
   </programme>
   <programme start="20250608153000 +0300" stop="20250608173000 +0300" channel="AlkassSix.qa">
-    <title>2026 World Cup Qualifiers / Iraq vs Jordan</title>
+    <title>Asian World Cup qualifiers 2026 / Jordan × Kuwait</title>
   </programme>
   <programme start="20250608173000 +0300" stop="20250608180000 +0300" channel="AlkassSix.qa">
-    <title>MARINEMAGAZINE</title>
+    <title>SPORT CONFIDENTIAL.</title>
   </programme>
-  <programme start="20250608180000 +0300" stop="20250608200000 +0300" channel="AlkassSix.qa">
-    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
+  <programme start="20250608180000 +0300" stop="20250608183000 +0300" channel="AlkassSix.qa">
+    <title>INSIDELINE</title>
   </programme>
-  <programme start="20250608200000 +0300" stop="20250608203000 +0300" channel="AlkassSix.qa">
-    <title>GOLMNIA</title>
+  <programme start="20250608183000 +0300" stop="20250608203000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers Studio Indonesia vs. Saudi Arabia</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassSix.qa">
     <title>TAWAASL</title>
@@ -1904,125 +1777,83 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassSix.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassSix.qa">
-    <title>Asian World Cup Qualifiers Qatar vs. Uzbekistan</title>
-  </programme>
-  <programme start="20250608233000 +0300" stop="20250608233000 +0300" channel="AlkassSix.qa">
-    <title>INVINCIBLE</title>
-  </programme>
-  <programme start="20250608233000 +0300" stop="20250609003000 +0300" channel="AlkassSix.qa">
-    <title>INVINCIBLE</title>
-  </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassSeven.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607003000 +0300" stop="20250607024500 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
-  </programme>
-  <programme start="20250607024500 +0300" stop="20250607024500 +0300" channel="AlkassSeven.qa">
-    <title>Aspire Magazine</title>
-  </programme>
-  <programme start="20250607024500 +0300" stop="20250607031500 +0300" channel="AlkassSeven.qa">
-    <title>Aspire Magazine</title>
-  </programme>
-  <programme start="20250607031500 +0300" stop="20250607050000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
-  </programme>
-  <programme start="20250607050000 +0300" stop="20250607050000 +0300" channel="AlkassSeven.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250607050000 +0300" stop="20250607053000 +0300" channel="AlkassSeven.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250607053000 +0300" stop="20250607053000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250607053000 +0300" stop="20250607074500 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250607074500 +0300" stop="20250607074500 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers North Korea vs Kyrgyzstan</title>
-  </programme>
-  <programme start="20250607074500 +0300" stop="20250607100000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers North Korea vs Kyrgyzstan</title>
-  </programme>
-  <programme start="20250607100000 +0300" stop="20250607120000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
-  </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassSeven.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607123000 +0300" stop="20250607123000 +0300" channel="AlkassSeven.qa">
-    <title>JARAYED.</title>
-  </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassSeven.qa">
-    <title>JARAYED.</title>
-  </programme>
-  <programme start="20250607130000 +0300" stop="20250607150000 +0300" channel="AlkassSeven.qa">
-    <title>2026 World Cup Qualifiers / Oman vs Palestine</title>
-  </programme>
-  <programme start="20250607150000 +0300" stop="20250607153000 +0300" channel="AlkassSeven.qa">
-    <title>THE GREATS OF ALL TIME</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607173000 +0300" channel="AlkassSeven.qa">
-    <title>2026 World Cup Qualifiers / Iraq vs Jordan</title>
-  </programme>
-  <programme start="20250607173000 +0300" stop="20250607180000 +0300" channel="AlkassSeven.qa">
+  <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassSix.qa">
     <title>MARINEMAGAZINE</title>
   </programme>
-  <programme start="20250607180000 +0300" stop="20250607200000 +0300" channel="AlkassSeven.qa">
-    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
+  <programme start="20250608220000 +0300" stop="20250609000000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / China × Japan</title>
   </programme>
-  <programme start="20250607200000 +0300" stop="20250607203000 +0300" channel="AlkassSeven.qa">
-    <title>GOLMNIA</title>
-  </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassSeven.qa">
-    <title>TAWAASL</title>
-  </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassSeven.qa">
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassSix.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250607233000 +0300" channel="AlkassSeven.qa">
-    <title>Asian World Cup Qualifiers Qatar vs. Uzbekistan</title>
+  <programme start="20250609003000 +0300" stop="20250609023500 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / UAE x Kyrgyzstan</title>
   </programme>
-  <programme start="20250607233000 +0300" stop="20250608000000 +0300" channel="AlkassSeven.qa">
+  <programme start="20250609023500 +0300" stop="20250609050000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Bahrain vs China</title>
+  </programme>
+  <programme start="20250609050000 +0300" stop="20250609071500 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Kuwait vs South Korea</title>
+  </programme>
+  <programme start="20250609071500 +0300" stop="20250609093000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Australia × Saudi Arabia</title>
+  </programme>
+  <programme start="20250609093000 +0300" stop="20250609120000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassSix.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassSix.qa">
+    <title>JARAYED.</title>
+  </programme>
+  <programme start="20250609130000 +0300" stop="20250609150000 +0300" channel="AlkassSix.qa">
+    <title>Asian World Cup qualifiers 2026 /  Qatar × UAE</title>
+  </programme>
+  <programme start="20250609150000 +0300" stop="20250609153000 +0300" channel="AlkassSix.qa">
     <title>INVINCIBLE</title>
+  </programme>
+  <programme start="20250609153000 +0300" stop="20250609173000 +0300" channel="AlkassSix.qa">
+    <title>Asian World Cup qualifiers 2026 / Jordan × Kuwait</title>
+  </programme>
+  <programme start="20250609173000 +0300" stop="20250609180000 +0300" channel="AlkassSix.qa">
+    <title>SPORT CONFIDENTIAL.</title>
+  </programme>
+  <programme start="20250609180000 +0300" stop="20250609183000 +0300" channel="AlkassSix.qa">
+    <title>INSIDELINE</title>
+  </programme>
+  <programme start="20250609183000 +0300" stop="20250609203000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers Studio Indonesia vs. Saudi Arabia</title>
+  </programme>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassSix.qa">
+    <title>TAWAASL</title>
+  </programme>
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassSix.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609213000 +0300" stop="20250609220000 +0300" channel="AlkassSix.qa">
+    <title>MARINEMAGAZINE</title>
+  </programme>
+  <programme start="20250609220000 +0300" stop="20250609230000 +0300" channel="AlkassSix.qa">
+    <title>2026 World Cup Qualifiers / China × Japan</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassSeven.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608003000 +0300" stop="20250608024500 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
+  <programme start="20250608003000 +0300" stop="20250608023500 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / UAE x Kyrgyzstan</title>
   </programme>
-  <programme start="20250608024500 +0300" stop="20250608024500 +0300" channel="AlkassSeven.qa">
-    <title>Aspire Magazine</title>
+  <programme start="20250608023500 +0300" stop="20250608050000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Bahrain vs China</title>
   </programme>
-  <programme start="20250608024500 +0300" stop="20250608031500 +0300" channel="AlkassSeven.qa">
-    <title>Aspire Magazine</title>
+  <programme start="20250608050000 +0300" stop="20250608071500 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Kuwait vs South Korea</title>
   </programme>
-  <programme start="20250608031500 +0300" stop="20250608050000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250608071500 +0300" stop="20250608093000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Australia × Saudi Arabia</title>
   </programme>
-  <programme start="20250608050000 +0300" stop="20250608050000 +0300" channel="AlkassSeven.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250608050000 +0300" stop="20250608053000 +0300" channel="AlkassSeven.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250608053000 +0300" stop="20250608053000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250608053000 +0300" stop="20250608074500 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250608074500 +0300" stop="20250608074500 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers North Korea vs Kyrgyzstan</title>
-  </programme>
-  <programme start="20250608074500 +0300" stop="20250608100000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers North Korea vs Kyrgyzstan</title>
-  </programme>
-  <programme start="20250608100000 +0300" stop="20250608120000 +0300" channel="AlkassSeven.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
+  <programme start="20250608093000 +0300" stop="20250608120000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassSeven.qa">
     <title>NEWS.</title>
@@ -2031,25 +1862,25 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
     <title>JARAYED.</title>
   </programme>
   <programme start="20250608123000 +0300" stop="20250608130000 +0300" channel="AlkassSeven.qa">
-    <title>JARAYED.</title>
+    <title>NEWS.</title>
   </programme>
   <programme start="20250608130000 +0300" stop="20250608150000 +0300" channel="AlkassSeven.qa">
-    <title>2026 World Cup Qualifiers / Oman vs Palestine</title>
+    <title>Asian World Cup qualifiers 2026 /  Qatar × UAE</title>
   </programme>
   <programme start="20250608150000 +0300" stop="20250608153000 +0300" channel="AlkassSeven.qa">
-    <title>THE GREATS OF ALL TIME</title>
+    <title>INVINCIBLE</title>
   </programme>
   <programme start="20250608153000 +0300" stop="20250608173000 +0300" channel="AlkassSeven.qa">
-    <title>2026 World Cup Qualifiers / Iraq vs Jordan</title>
+    <title>Asian World Cup qualifiers 2026 / Jordan × Kuwait</title>
   </programme>
   <programme start="20250608173000 +0300" stop="20250608180000 +0300" channel="AlkassSeven.qa">
-    <title>MARINEMAGAZINE</title>
+    <title>SPORT CONFIDENTIAL.</title>
   </programme>
-  <programme start="20250608180000 +0300" stop="20250608200000 +0300" channel="AlkassSeven.qa">
-    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
+  <programme start="20250608180000 +0300" stop="20250608183000 +0300" channel="AlkassSeven.qa">
+    <title>INSIDELINE</title>
   </programme>
-  <programme start="20250608200000 +0300" stop="20250608203000 +0300" channel="AlkassSeven.qa">
-    <title>GOLMNIA</title>
+  <programme start="20250608183000 +0300" stop="20250608203000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers Studio Indonesia vs. Saudi Arabia</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassSeven.qa">
     <title>TAWAASL</title>
@@ -2057,98 +1888,98 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassSeven.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassSeven.qa">
-    <title>Asian World Cup Qualifiers Qatar vs. Uzbekistan</title>
-  </programme>
-  <programme start="20250608233000 +0300" stop="20250609003000 +0300" channel="AlkassSeven.qa">
-    <title>INVINCIBLE</title>
-  </programme>
-  <programme start="20250607000000 +0300" stop="20250607003000 +0300" channel="AlkassEight.qa">
-    <title>NEWS.</title>
-  </programme>
-  <programme start="20250607003000 +0300" stop="20250607024500 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
-  </programme>
-  <programme start="20250607024500 +0300" stop="20250607044500 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
-  </programme>
-  <programme start="20250607044500 +0300" stop="20250607051500 +0300" channel="AlkassEight.qa">
+  <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassSeven.qa">
     <title>MARINEMAGAZINE</title>
   </programme>
-  <programme start="20250607051500 +0300" stop="20250607071500 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250608220000 +0300" stop="20250609000000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / China × Japan</title>
   </programme>
-  <programme start="20250607071500 +0300" stop="20250607074500 +0300" channel="AlkassEight.qa">
-    <title>THE GREATS OF ALL TIME</title>
-  </programme>
-  <programme start="20250607074500 +0300" stop="20250607100000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
-  </programme>
-  <programme start="20250607100000 +0300" stop="20250607120000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers UAE vs Uzbekistan</title>
-  </programme>
-  <programme start="20250607120000 +0300" stop="20250607123000 +0300" channel="AlkassEight.qa">
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassSeven.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607123000 +0300" stop="20250607130000 +0300" channel="AlkassEight.qa">
+  <programme start="20250609003000 +0300" stop="20250609023500 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / UAE x Kyrgyzstan</title>
+  </programme>
+  <programme start="20250609023500 +0300" stop="20250609050000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Bahrain vs China</title>
+  </programme>
+  <programme start="20250609050000 +0300" stop="20250609071500 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Kuwait vs South Korea</title>
+  </programme>
+  <programme start="20250609071500 +0300" stop="20250609093000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Australia × Saudi Arabia</title>
+  </programme>
+  <programme start="20250609093000 +0300" stop="20250609120000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / Qatar vs Uzbekistan</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassSeven.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609123000 +0300" channel="AlkassSeven.qa">
     <title>JARAYED.</title>
   </programme>
-  <programme start="20250607130000 +0300" stop="20250607150000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
-  </programme>
-  <programme start="20250607150000 +0300" stop="20250607150000 +0300" channel="AlkassEight.qa">
-    <title>FOOTBALL REVIEW.</title>
-  </programme>
-  <programme start="20250607150000 +0300" stop="20250607153000 +0300" channel="AlkassEight.qa">
-    <title>FOOTBALL REVIEW.</title>
-  </programme>
-  <programme start="20250607153000 +0300" stop="20250607173000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
-  </programme>
-  <programme start="20250607173000 +0300" stop="20250607180000 +0300" channel="AlkassEight.qa">
-    <title>INSIDELINE</title>
-  </programme>
-  <programme start="20250607180000 +0300" stop="20250607200000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
-  </programme>
-  <programme start="20250607200000 +0300" stop="20250607203000 +0300" channel="AlkassEight.qa">
-    <title>SPORT CONFIDENTIAL.</title>
-  </programme>
-  <programme start="20250607203000 +0300" stop="20250607210000 +0300" channel="AlkassEight.qa">
-    <title>TAWAASL</title>
-  </programme>
-  <programme start="20250607210000 +0300" stop="20250607213000 +0300" channel="AlkassEight.qa">
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassSeven.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250607213000 +0300" stop="20250607220000 +0300" channel="AlkassEight.qa">
-    <title>HASELA ASIA</title>
+  <programme start="20250609130000 +0300" stop="20250609150000 +0300" channel="AlkassSeven.qa">
+    <title>Asian World Cup qualifiers 2026 /  Qatar × UAE</title>
   </programme>
-  <programme start="20250607220000 +0300" stop="20250608000000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250609150000 +0300" stop="20250609153000 +0300" channel="AlkassSeven.qa">
+    <title>INVINCIBLE</title>
+  </programme>
+  <programme start="20250609153000 +0300" stop="20250609173000 +0300" channel="AlkassSeven.qa">
+    <title>Asian World Cup qualifiers 2026 / Jordan × Kuwait</title>
+  </programme>
+  <programme start="20250609173000 +0300" stop="20250609180000 +0300" channel="AlkassSeven.qa">
+    <title>SPORT CONFIDENTIAL.</title>
+  </programme>
+  <programme start="20250609180000 +0300" stop="20250609183000 +0300" channel="AlkassSeven.qa">
+    <title>INSIDELINE</title>
+  </programme>
+  <programme start="20250609183000 +0300" stop="20250609203000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers Studio Indonesia vs. Saudi Arabia</title>
+  </programme>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassSeven.qa">
+    <title>TAWAASL</title>
+  </programme>
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassSeven.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609213000 +0300" stop="20250609220000 +0300" channel="AlkassSeven.qa">
+    <title>MARINEMAGAZINE</title>
+  </programme>
+  <programme start="20250609220000 +0300" stop="20250609230000 +0300" channel="AlkassSeven.qa">
+    <title>2026 World Cup Qualifiers / China × Japan</title>
   </programme>
   <programme start="20250608000000 +0300" stop="20250608003000 +0300" channel="AlkassEight.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608003000 +0300" stop="20250608024500 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
+  <programme start="20250608003000 +0300" stop="20250608023000 +0300" channel="AlkassEight.qa">
+    <title>World Cup Qualifiers Australia vs. Japan</title>
   </programme>
-  <programme start="20250608024500 +0300" stop="20250608044500 +0300" channel="AlkassEight.qa">
+  <programme start="20250608023000 +0300" stop="20250608030000 +0300" channel="AlkassEight.qa">
+    <title>HASELA ASIA</title>
+  </programme>
+  <programme start="20250608030000 +0300" stop="20250608050000 +0300" channel="AlkassEight.qa">
+    <title>World Cup Qualifiers Uzbekistan vs. United Arab Emirates</title>
+  </programme>
+  <programme start="20250608050000 +0300" stop="20250608060000 +0300" channel="AlkassEight.qa">
+    <title>TACTIC</title>
+  </programme>
+  <programme start="20250608060000 +0300" stop="20250608080000 +0300" channel="AlkassEight.qa">
+    <title>2026 World Cup Qualifiers / north korea x Uzbekistan</title>
+  </programme>
+  <programme start="20250608080000 +0300" stop="20250608100000 +0300" channel="AlkassEight.qa">
     <title>World Cup Qualifiers Kuwait vs. Palestine</title>
   </programme>
-  <programme start="20250608044500 +0300" stop="20250608051500 +0300" channel="AlkassEight.qa">
-    <title>MARINEMAGAZINE</title>
-  </programme>
-  <programme start="20250608051500 +0300" stop="20250608071500 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
-  </programme>
-  <programme start="20250608071500 +0300" stop="20250608074500 +0300" channel="AlkassEight.qa">
-    <title>THE GREATS OF ALL TIME</title>
-  </programme>
-  <programme start="20250608074500 +0300" stop="20250608100000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Indonesia vs. China</title>
+  <programme start="20250608100000 +0300" stop="20250608100000 +0300" channel="AlkassEight.qa">
+    <title>2026 World Cup Qualifiers Oman vs Jordan</title>
   </programme>
   <programme start="20250608100000 +0300" stop="20250608120000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers UAE vs Uzbekistan</title>
+    <title>2026 World Cup Qualifiers Oman vs Jordan</title>
+  </programme>
+  <programme start="20250608120000 +0300" stop="20250608120000 +0300" channel="AlkassEight.qa">
+    <title>NEWS.</title>
   </programme>
   <programme start="20250608120000 +0300" stop="20250608123000 +0300" channel="AlkassEight.qa">
     <title>NEWS.</title>
@@ -2157,25 +1988,22 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
     <title>JARAYED.</title>
   </programme>
   <programme start="20250608130000 +0300" stop="20250608150000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iran vs. Qatar</title>
-  </programme>
-  <programme start="20250608150000 +0300" stop="20250608150000 +0300" channel="AlkassEight.qa">
-    <title>FOOTBALL REVIEW.</title>
+    <title>World Cup Qualifiers Australia vs. Indonesia</title>
   </programme>
   <programme start="20250608150000 +0300" stop="20250608153000 +0300" channel="AlkassEight.qa">
-    <title>FOOTBALL REVIEW.</title>
+    <title>MARINEMAGAZINE</title>
   </programme>
   <programme start="20250608153000 +0300" stop="20250608173000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Bahrain vs. Saudi Arabia</title>
+    <title>World Cup qualifiers / Japan vs Bahrain</title>
   </programme>
   <programme start="20250608173000 +0300" stop="20250608180000 +0300" channel="AlkassEight.qa">
-    <title>INSIDELINE</title>
+    <title>FOOTBALL REVIEW.</title>
   </programme>
   <programme start="20250608180000 +0300" stop="20250608200000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
+    <title>World Cup qualifiers /  South Korea vs Oman</title>
   </programme>
   <programme start="20250608200000 +0300" stop="20250608203000 +0300" channel="AlkassEight.qa">
-    <title>SPORT CONFIDENTIAL.</title>
+    <title>THE GREATS OF ALL TIME</title>
   </programme>
   <programme start="20250608203000 +0300" stop="20250608210000 +0300" channel="AlkassEight.qa">
     <title>TAWAASL</title>
@@ -2183,10 +2011,82 @@ Hiro, and his friends are the next generation of ninjas. Their mission: defen
   <programme start="20250608210000 +0300" stop="20250608213000 +0300" channel="AlkassEight.qa">
     <title>NEWS.</title>
   </programme>
-  <programme start="20250608213000 +0300" stop="20250608220000 +0300" channel="AlkassEight.qa">
+  <programme start="20250608213000 +0300" stop="20250608233000 +0300" channel="AlkassEight.qa">
+    <title>Asian Qualifiers Council for the 2026 World Cup / North Korea × Qatar</title>
+  </programme>
+  <programme start="20250608233000 +0300" stop="20250608233000 +0300" channel="AlkassEight.qa">
+    <title>Aspire Magazine</title>
+  </programme>
+  <programme start="20250608233000 +0300" stop="20250609000000 +0300" channel="AlkassEight.qa">
+    <title>Aspire Magazine</title>
+  </programme>
+  <programme start="20250609000000 +0300" stop="20250609003000 +0300" channel="AlkassEight.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609003000 +0300" stop="20250609023000 +0300" channel="AlkassEight.qa">
+    <title>World Cup Qualifiers Australia vs. Japan</title>
+  </programme>
+  <programme start="20250609023000 +0300" stop="20250609030000 +0300" channel="AlkassEight.qa">
     <title>HASELA ASIA</title>
   </programme>
-  <programme start="20250608220000 +0300" stop="20250608230000 +0300" channel="AlkassEight.qa">
-    <title>World Cup Qualifiers Iraq vs. South Korea</title>
+  <programme start="20250609030000 +0300" stop="20250609050000 +0300" channel="AlkassEight.qa">
+    <title>World Cup Qualifiers Uzbekistan vs. United Arab Emirates</title>
+  </programme>
+  <programme start="20250609050000 +0300" stop="20250609060000 +0300" channel="AlkassEight.qa">
+    <title>TACTIC</title>
+  </programme>
+  <programme start="20250609060000 +0300" stop="20250609080000 +0300" channel="AlkassEight.qa">
+    <title>2026 World Cup Qualifiers / north korea x Uzbekistan</title>
+  </programme>
+  <programme start="20250609080000 +0300" stop="20250609100000 +0300" channel="AlkassEight.qa">
+    <title>World Cup Qualifiers Kuwait vs. Palestine</title>
+  </programme>
+  <programme start="20250609100000 +0300" stop="20250609100000 +0300" channel="AlkassEight.qa">
+    <title>2026 World Cup Qualifiers Oman vs Jordan</title>
+  </programme>
+  <programme start="20250609100000 +0300" stop="20250609120000 +0300" channel="AlkassEight.qa">
+    <title>2026 World Cup Qualifiers Oman vs Jordan</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609120000 +0300" channel="AlkassEight.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609120000 +0300" stop="20250609123000 +0300" channel="AlkassEight.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609123000 +0300" stop="20250609130000 +0300" channel="AlkassEight.qa">
+    <title>JARAYED.</title>
+  </programme>
+  <programme start="20250609130000 +0300" stop="20250609150000 +0300" channel="AlkassEight.qa">
+    <title>World Cup Qualifiers Australia vs. Indonesia</title>
+  </programme>
+  <programme start="20250609150000 +0300" stop="20250609153000 +0300" channel="AlkassEight.qa">
+    <title>MARINEMAGAZINE</title>
+  </programme>
+  <programme start="20250609153000 +0300" stop="20250609173000 +0300" channel="AlkassEight.qa">
+    <title>World Cup qualifiers / Japan vs Bahrain</title>
+  </programme>
+  <programme start="20250609173000 +0300" stop="20250609180000 +0300" channel="AlkassEight.qa">
+    <title>FOOTBALL REVIEW.</title>
+  </programme>
+  <programme start="20250609180000 +0300" stop="20250609200000 +0300" channel="AlkassEight.qa">
+    <title>World Cup qualifiers /  South Korea vs Oman</title>
+  </programme>
+  <programme start="20250609200000 +0300" stop="20250609203000 +0300" channel="AlkassEight.qa">
+    <title>THE GREATS OF ALL TIME</title>
+  </programme>
+  <programme start="20250609203000 +0300" stop="20250609210000 +0300" channel="AlkassEight.qa">
+    <title>TAWAASL</title>
+  </programme>
+  <programme start="20250609210000 +0300" stop="20250609213000 +0300" channel="AlkassEight.qa">
+    <title>NEWS.</title>
+  </programme>
+  <programme start="20250609213000 +0300" stop="20250609233000 +0300" channel="AlkassEight.qa">
+    <title>Asian Qualifiers Council for the 2026 World Cup / North Korea × Qatar</title>
+  </programme>
+  <programme start="20250609233000 +0300" stop="20250609233000 +0300" channel="AlkassEight.qa">
+    <title>Aspire Magazine</title>
+  </programme>
+  <programme start="20250609233000 +0300" stop="20250610003000 +0300" channel="AlkassEight.qa">
+    <title>Aspire Magazine</title>
   </programme>
 </tv>
