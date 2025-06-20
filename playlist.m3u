@@ -33,7 +33,7 @@ http://livepptv.net:80/299819323222593/1593574628/14793
 http://livepptv.net:80/299819323222593/1593574628/55500
 #EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR HD" tvg-logo="http://aptvpix.net/picons/NEW2022/cstar.png" group-title="FRANCE HD",CSTAR HD
 http://livepptv.net:80/299819323222593/1593574628/7743
-#EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="T18 HD" tvg-logo="" group-title="FRANCE HD",T18 HD
+#EXTINF:-1 tvg-id="ChaineEvenement.fr" tvg-name="T18 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/t18.png" group-title="FRANCE HD",T18 HD
 http://livepptv.net:80/299819323222593/1593574628/7744
 #EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NOVO 19 //SOON//" tvg-logo="" group-title="FRANCE HD",NOVO 19 //SOON//
 http://livepptv.net:80/299819323222593/1593574628/7810
@@ -611,7 +611,7 @@ http://livepptv.net:80/299819323222593/1593574628/131373
 http://livepptv.net:80/299819323222593/1593574628/131374
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV FILMS FRANÇAIS " tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV FILMS FRANÇAIS 
 http://livepptv.net:80/299819323222593/1593574628/69150
-#EXTINF:-1 tvg-id="ATBA1000004XC" tvg-name="RAKUTEN TV ACTION" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV ACTION
+#EXTINF:-1 tvg-id="AT2600002KW" tvg-name="RAKUTEN TV ACTION" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV ACTION
 http://livepptv.net:80/299819323222593/1593574628/67513
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV ACTION 2" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV ACTION 2
 http://livepptv.net:80/299819323222593/1593574628/110064
@@ -619,15 +619,11 @@ http://livepptv.net:80/299819323222593/1593574628/110064
 http://livepptv.net:80/299819323222593/1593574628/75560
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV TOP FILMS 2" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV TOP FILMS 2
 http://livepptv.net:80/299819323222593/1593574628/110063
-#EXTINF:-1 tvg-id="ATBA1000004XC" tvg-name="RAKUTEN TV CRIME " tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV CRIME 
-http://livepptv.net:80/299819323222593/1593574628/110448
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV SPOTLIGHT" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV SPOTLIGHT
 http://livepptv.net:80/299819323222593/1593574628/67516
-#EXTINF:-1 tvg-id="ATBA1000004XC" tvg-name="RAKUTEN TV COMEDIE" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV COMEDIE
-http://livepptv.net:80/299819323222593/1593574628/67514
 #EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-name="RAKUTEN TV DRAME" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV DRAME
 http://livepptv.net:80/299819323222593/1593574628/67515
-#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-name="RAKUTEN TV FAMILLE " tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV FAMILLE 
+#EXTINF:-1 tvg-id="AT2600002KW" tvg-name="RAKUTEN TV FAMILLE " tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV FAMILLE 
 http://livepptv.net:80/299819323222593/1593574628/67537
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV SHOW" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV SHOW
 http://livepptv.net:80/299819323222593/1593574628/67688
@@ -947,6 +943,8 @@ http://livepptv.net:80/299819323222593/1593574628/142748
 http://livepptv.net:80/299819323222593/1593574628/167922
 #EXTINF:-1 tvg-id="" tvg-name="A LA UNE " tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/alaune.png" group-title="FRANCE HD",A LA UNE 
 http://livepptv.net:80/299819323222593/1593574628/115232
+#EXTINF:-1 tvg-id="" tvg-name="SECRET STORY " tvg-logo="" group-title="FRANCE HD",SECRET STORY 
+http://livepptv.net:80/299819323222593/1593574628/124268
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHD" tvg-logo="https://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE FHD",TF1 FHD
 http://livepptv.net:80/299819323222593/1593574628/94
 #EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2 FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE FHD",FRANCE 2 FHD
@@ -1059,7 +1057,7 @@ http://livepptv.net:80/299819323222593/1593574628/158
 http://livepptv.net:80/299819323222593/1593574628/29519
 #EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/BET.png" group-title="FRANCE FHD",BET FHD
 http://livepptv.net:80/299819323222593/1593574628/10815
-#EXTINF:-1 tvg-id="olympia.fr" tvg-name="OLYMPIA TV  FHD " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/OLYMPIA.png" group-title="FRANCE FHD",OLYMPIA TV  FHD 
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="OLYMPIA TV  FHD " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/OLYMPIA.png" group-title="FRANCE FHD",OLYMPIA TV  FHD 
 http://livepptv.net:80/299819323222593/1593574628/37521
 #EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/EENTERTAINEMENT.png" group-title="FRANCE FHD",E! FHD
 http://livepptv.net:80/299819323222593/1593574628/2856
@@ -1141,7 +1139,7 @@ http://livepptv.net:80/299819323222593/1593574628/1787
 http://livepptv.net:80/299819323222593/1593574628/67535
 #EXTINF:-1 tvg-id="toonami.fr" tvg-name="WARNER TV NEXT FHD" tvg-logo="http://aptvpix.net/pubs/2022/wbnext.pnghttp://aptvpix.net/pubs/2022/wbnext.png" group-title="FRANCE FHD",WARNER TV NEXT FHD
 http://livepptv.net:80/299819323222593/1593574628/7194
-#EXTINF:-1 tvg-id="ES1.fr" tvg-name="MGG TV FHD" tvg-logo="http://aptvpix.net/picons/NEW2022/toutlesport.png" group-title="FRANCE FHD",MGG TV FHD
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="MGG TV FHD" tvg-logo="http://aptvpix.net/picons/NEW2022/toutlesport.png" group-title="FRANCE FHD",MGG TV FHD
 http://livepptv.net:80/299819323222593/1593574628/30203
 #EXTINF:-1 tvg-id="01tv.fr" tvg-name="B SMART " tvg-logo="" group-title="FRANCE FHD",B SMART 
 http://livepptv.net:80/299819323222593/1593574628/48808
@@ -1161,8 +1159,6 @@ http://livepptv.net:80/299819323222593/1593574628/1642
 http://livepptv.net:80/299819323222593/1593574628/7621
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="MEZZO LIVE FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/MEZZOLIVE.png" group-title="FRANCE FHD",MEZZO LIVE FHD
 http://livepptv.net:80/299819323222593/1593574628/2349
-#EXTINF:-1 tvg-id="" tvg-name="SECRET STORY FHD" tvg-logo="" group-title="FRANCE FHD",SECRET STORY FHD
-http://livepptv.net:80/299819323222593/1593574628/124268
 #EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1 SD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCESD/TF1.png" group-title="FRANCE SD",TF1 SD
 http://livepptv.net:80/299819323222593/1593574628/7401
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 SD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCESD/FRANCE2.png" group-title="FRANCE SD",FRANCE 2 SD
@@ -1319,7 +1315,7 @@ http://livepptv.net:80/299819323222593/1593574628/104312
 http://livepptv.net:80/299819323222593/1593574628/7634
 #EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG SD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCESD/BOOMERANG.png" group-title="FRANCE SD",BOOMERANG SD
 http://livepptv.net:80/299819323222593/1593574628/7635
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="CARTOONITO SD" tvg-logo="http://aptvpix.net/pubs/2022/cartonito.png" group-title="FRANCE SD",CARTOONITO SD
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="CARTOONITO SD" tvg-logo="http://aptvpix.net/pubs/2022/cartonito.png" group-title="FRANCE SD",CARTOONITO SD
 http://livepptv.net:80/299819323222593/1593574628/8087
 #EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCESD/DISNEYCHANNEL.png" group-title="FRANCE SD",DISNEY CHANNEL SD
 http://livepptv.net:80/299819323222593/1593574628/7672
@@ -1617,8 +1613,6 @@ http://livepptv.net:80/299819323222593/1593574628/134169
 http://livepptv.net:80/299819323222593/1593574628/51370
 #EXTINF:-1 tvg-id="CanalPlusLive6.fr" tvg-name="CANAL+ LIVE 6 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 6 HD
 http://livepptv.net:80/299819323222593/1593574628/134170
-#EXTINF:-1 tvg-id="CanalPlusLive6.fr" tvg-name="CANAL+ LIVE 6" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 6
-http://livepptv.net:80/299819323222593/1593574628/51371
 #EXTINF:-1 tvg-id="CanalPlusLive7.fr" tvg-name="CANAL+ LIVE 7 HD" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 7 HD
 http://livepptv.net:80/299819323222593/1593574628/134171
 #EXTINF:-1 tvg-id="CanalPlusLive7.fr" tvg-name="CANAL+ LIVE 7" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 7
@@ -1649,8 +1643,6 @@ http://livepptv.net:80/299819323222593/1593574628/134158
 http://livepptv.net:80/299819323222593/1593574628/134159
 #EXTINF:-1 tvg-id="CanalPlusLive17.fr" tvg-name="CANAL+ LIVE 17" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 17
 http://livepptv.net:80/299819323222593/1593574628/134160
-#EXTINF:-1 tvg-id="CanalPlusLive18.fr" tvg-name="CANAL+ LIVE 18" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 18
-http://livepptv.net:80/299819323222593/1593574628/134161
 #EXTINF:-1 tvg-id="CanalPlusLive19.fr" tvg-name="CANAL+ LIVE 19" tvg-logo="https://aptvpix.net/pubs/2024/picons/canalpluslive.png" group-title="SPORT FR",CANAL+ LIVE 19
 http://livepptv.net:80/299819323222593/1593574628/134162
 #EXTINF:-1 tvg-id="CANAL+SPORT1.civ" tvg-name="AF | CANAL+ SPORT 1" tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/canalafrica.png" group-title="SPORT FR",AF | CANAL+ SPORT 1
@@ -1703,9 +1695,9 @@ http://livepptv.net:80/299819323222593/1593574628/7701
 http://livepptv.net:80/299819323222593/1593574628/7863
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="CANAL+ SPORT SD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT SD
 http://livepptv.net:80/299819323222593/1593574628/3941
-#EXTINF:-1 tvg-id="C+SPORT360.fr" tvg-name="CANAL+ SPORT360 SD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 SD
+#EXTINF:-1 tvg-id="CanalPlusLigue1.fr" tvg-name="CANAL+ SPORT360 SD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 SD
 http://livepptv.net:80/299819323222593/1593574628/3944
-#EXTINF:-1 tvg-id="C+FOOT.fr" tvg-name="CANAL+ FOOT SD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT SD
+#EXTINF:-1 tvg-id="CanalPlusLigue1.fr" tvg-name="CANAL+ FOOT SD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT SD
 http://livepptv.net:80/299819323222593/1593574628/99359
 #EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 SD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FR",FR | BEIN SPORT 1 SD
 http://livepptv.net:80/299819323222593/1593574628/3969
@@ -2121,8 +2113,6 @@ http://livepptv.net:80/299819323222593/1593574628/585
 http://livepptv.net:80/299819323222593/1593574628/9130
 #EXTINF:-1 tvg-id="BeIN Sports Xtra 1" tvg-name="AR | BEIN SPORTS XTRA 1HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | BEIN SPORTS XTRA 1HD
 http://livepptv.net:80/299819323222593/1593574628/95128
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR | beIN SPORTS XTRA 2HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS XTRA 2HD
-http://livepptv.net:80/299819323222593/1593574628/64852
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR | beIN SPORTS XTRA 3HD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS XTRA 3HD
 http://livepptv.net:80/299819323222593/1593574628/586
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR | beIN SPORTS 1SD" tvg-logo="http://aptvpix.net/pubs/december2020/12-20-2020/bs.png" group-title="SPORT AR",AR | beIN SPORTS 1SD
@@ -2225,7 +2215,7 @@ http://livepptv.net:80/299819323222593/1593574628/38036
 http://livepptv.net:80/299819323222593/1593574628/58511
 #EXTINF:-1 tvg-id="Al-Kass-2" tvg-name="AR | ALKASS 2" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="SPORT AR",AR | ALKASS 2
 http://livepptv.net:80/299819323222593/1593574628/38037
-#EXTINF:-1 tvg-id="Al-Kass-3-1_EN.bein" tvg-name="AR | ALKASS 3" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="SPORT AR",AR | ALKASS 3
+#EXTINF:-1 tvg-id="2023_Alkass_1_EN.bein" tvg-name="AR | ALKASS 3" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="SPORT AR",AR | ALKASS 3
 http://livepptv.net:80/299819323222593/1593574628/47759
 #EXTINF:-1 tvg-id="alkassfour.qa" tvg-name="AR | ALKASS 4" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="SPORT AR",AR | ALKASS 4
 http://livepptv.net:80/299819323222593/1593574628/38038
@@ -2343,105 +2333,105 @@ http://livepptv.net:80/299819323222593/1593574628/169221
 http://livepptv.net:80/299819323222593/1593574628/169222
 #EXTINF:-1 tvg-id="" tvg-name="[TOD] EVENT 32" tvg-logo="https://aptvpix.net/pubs/2022/tod.png" group-title="SPORT AR",[TOD] EVENT 32
 http://livepptv.net:80/299819323222593/1593574628/169223
-#EXTINF:-1 tvg-id="" tvg-name="Slovakiaring - Race 3 (2025-06-08 11:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aoznyarh6e36knq0fx0xeop7s_image-header_pRow_1748867957000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Slovakiaring - Race 3 (2025-06-08 11:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Review Show | MD 7 (2025-06-21 03:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3nfo0n3rnckuiyebhlshwmvhf_image-header_pRow_1750075837000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Review Show | MD 7 (2025-06-21 03:30:00)
 http://livepptv.net:80/299819323222593/1593574628/169196
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 16 (2025-06-08 11:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/l8y5fkagh6fn1bi6xg3vbvmrw_image-header_pRow_1748597385000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 16 (2025-06-08 11:15:00)
+#EXTINF:-1 tvg-id="" tvg-name="Miami Assassins vs. Boston Butchers & Philadelphia Smoke vs. Las Vegas Hustle (2025-06-21 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10lekowxjzdra1bc2t5pbvmg63_image-header_pRow_1749646554000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Miami Assassins vs. Boston Butchers & Philadelphia Smoke vs. Las Vegas Hustle (2025-06-21 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169195
-#EXTINF:-1 tvg-id="" tvg-name="Paris Musketeers @ Rhein Fire (2025-06-08 11:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1r4jkn2sq27071cxgkit9kmijo_image-header_pRow_1747131656000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Paris Musketeers @ Rhein Fire (2025-06-08 11:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Stevens vs. Khamukov (2025-06-21 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lg3xycys3qtw1h74n2pl9xsem_image-header_pRow_1748350948000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Stevens vs. Khamukov (2025-06-21 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169194
-#EXTINF:-1 tvg-id="" tvg-name="Prague Lions @ Wrocław Panthers (2025-06-08 11:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/61oibtedpbtb18aic6sm2t4qg_image-header_pRow_1747131656000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Prague Lions @ Wrocław Panthers (2025-06-08 11:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bayern München vs. CA Boca Juniors - HDR (2025-06-21 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d9qplzz06eg34o1k5mvthum2e_image-header_pRow_1749896136000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bayern München vs. CA Boca Juniors - HDR (2025-06-21 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169193
-#EXTINF:-1 tvg-id="" tvg-name="ELF Zone (2025-06-08 10:55:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1rhnmk7y6k2s11pmrrm07z3q7x_image-header_pRow_1747151504000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",ELF Zone (2025-06-08 10:55:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bayern München vs. CA Boca Juniors (Arabic) 2 (2025-06-21 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5zkyfs7u1s7mx2gauj41sxf4_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bayern München vs. CA Boca Juniors (Arabic) 2 (2025-06-21 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169192
-#EXTINF:-1 tvg-id="" tvg-name="Zandvoort: Race 2 (2025-06-08 09:35:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9kxdk8qippe0rrtrtmnblw8e8_image-header_pRow_1747460149000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Zandvoort: Race 2 (2025-06-08 09:35:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bayern München vs. CA Boca Juniors (Arabic) (2025-06-21 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aorkh7he29zeikmtutn6vkch7_image-header_pRow_1749670134000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bayern München vs. CA Boca Juniors (Arabic) (2025-06-21 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169191
-#EXTINF:-1 tvg-id="" tvg-name="IRONMAN 70.3 Eagleman (2025-06-08 09:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dyoweoaqhf4jrcgu0px04jbmn_image-header_pRow_1748533393000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",IRONMAN 70.3 Eagleman (2025-06-08 09:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bayern München vs. CA Boca Juniors (2025-06-21 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11752vb7r1p1hkxqiv6qbmn3c_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bayern München vs. CA Boca Juniors (2025-06-21 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169190
-#EXTINF:-1 tvg-id="" tvg-name="Opetaia vs. Squeo (2025-06-08 09:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jwekrpkqwnh51cxuy67mzjhre_image-header_pRow_1744021681000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Opetaia vs. Squeo (2025-06-08 09:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bonner vs. Soto: Weigh-In (2025-06-20 22:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mku9hztt3ht61uojf1dl00cue_image-header_pRow_1750265286000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bonner vs. Soto: Weigh-In (2025-06-20 22:30:00)
 http://livepptv.net:80/299819323222593/1593574628/169189
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 15 (2025-06-08 08:50:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17pggv8c8njxl19lvbepgo8465_image-header_pRow_1748598609000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 15 (2025-06-08 08:50:00)
+#EXTINF:-1 tvg-id="" tvg-name="LAFC vs. Espérance Sportive de Tunis (2025-06-20 22:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5bsq6cmgjhah7boso00p4libf_image-header_pRow_1748770355000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",LAFC vs. Espérance Sportive de Tunis (2025-06-20 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169188
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 14 (2025-06-08 06:35:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1wqhc3f2stnuz1qgco3xeimhyk_image-header_pRow_1748595925000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 14 (2025-06-08 06:35:00)
+#EXTINF:-1 tvg-id="" tvg-name="LAFC vs. Espérance Sportive de Tunis (Arabic) 2 (2025-06-20 22:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vvce3ur6tpgwxson7hixhsjb_image-header_pRow_1749670134000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",LAFC vs. Espérance Sportive de Tunis (Arabic) 2 (2025-06-20 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169187
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull Rookies Cup, Aragon - Race 2 (2025-06-08 06:35:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87sca5b9ypm1lyk4rww0y1p3t_image-header_pRow_1749154279000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Red Bull Rookies Cup, Aragon - Race 2 (2025-06-08 06:35:00)
+#EXTINF:-1 tvg-id="" tvg-name="LAFC vs. Espérance Sportive de Tunis - HDR (2025-06-20 22:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ps1p18rwxr6et9p50nqx3f23_image-header_pRow_1749900038000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",LAFC vs. Espérance Sportive de Tunis - HDR (2025-06-20 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169186
-#EXTINF:-1 tvg-id="" tvg-name="Opetaia vs. Squeo: Prelims (2025-06-08 06:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1fub2tkhe0rn31ppei3q90s40x_image-header_pRow_1748856742000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Opetaia vs. Squeo: Prelims (2025-06-08 06:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="LAFC vs. Espérance Sportive de Tunis (Arabic) (2025-06-20 22:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6vg4yvioy936o8tptonpkd5sx_image-header_pRow_1748770355000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",LAFC vs. Espérance Sportive de Tunis (Arabic) (2025-06-20 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169185
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 13 (2025-06-08 05:25:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ymcjumwu941b13sgzsapmi4at_image-header_pRow_1748591401000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 13 (2025-06-08 05:25:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 2 - Featured Holes (2025-06-20 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2bei25j9um24hpbzyy4hasky8_image-header_pRow_1748425225000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 2 - Featured Holes (2025-06-20 19:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169184
-#EXTINF:-1 tvg-id="" tvg-name="Ferreira vs. Ferreyra (2025-06-08 00:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jqknl43bwvaw1fevtmsv05e7t_image-header_pRow_1748360466000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Ferreira vs. Ferreyra (2025-06-08 00:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo vs. Chelsea FC - HDR (2025-06-20 18:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/km1qp43aq4ssajdc88l1bm2d_image-header_pRow_1749899911000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Flamengo vs. Chelsea FC - HDR (2025-06-20 18:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169183
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Fury vs. Miami Assassins & LA Elite vs. Las Vegas Hustle (2025-06-07 23:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/115pr3ft0uxjh186g75ik94ttp_image-header_pRow_1749134224000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Phoenix Fury vs. Miami Assassins & LA Elite vs. Las Vegas Hustle (2025-06-07 23:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo vs. Chelsea FC (Arabic) 2 (2025-06-20 18:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e02pak10x5u4p2tjwx75w3rz4_image-header_pRow_1749670134000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Flamengo vs. Chelsea FC (Arabic) 2 (2025-06-20 18:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169182
-#EXTINF:-1 tvg-id="" tvg-name="Ferreira vs. Ferreyra: Prelims (2025-06-07 22:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3tz9a0d0agie1paeqb6zor6tv_image-header_pRow_1748868555000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Ferreira vs. Ferreyra: Prelims (2025-06-07 22:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo vs. Chelsea FC (Arabic) (2025-06-20 18:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8v0bl3zg7a8ns7mo1ywh0w8bi_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Flamengo vs. Chelsea FC (Arabic) (2025-06-20 18:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169181
-#EXTINF:-1 tvg-id="" tvg-name="O'Toole vs. Alexander (2025-06-07 21:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sehp076qzf916oect8jflb1z_image-header_pRow_1749135007000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",O'Toole vs. Alexander (2025-06-07 21:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo vs. Chelsea FC (2025-06-20 18:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7jnnyapwvahpnvl1le5jrjcse_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Flamengo vs. Chelsea FC (2025-06-20 18:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169180
-#EXTINF:-1 tvg-id="" tvg-name="Hexagone - Reims, France (2025-06-07 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ij5ju388k0bx6qjjw3ikc5hk_image-header_pRow_1747237034000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Hexagone - Reims, France (2025-06-07 19:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="SL Benfica vs. Auckland City FC - HDR (2025-06-20 16:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9aiusdu4i7qc1every4yt749t_image-header_pRow_1749899856000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",SL Benfica vs. Auckland City FC - HDR (2025-06-20 16:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169179
-#EXTINF:-1 tvg-id="" tvg-name="Olimpia Milano vs. Virtus Bologna (2025-06-07 18:45:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3rjui8bc779a136xeyoybft4d_image-header_pRow_1748950593000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Olimpia Milano vs. Virtus Bologna (2025-06-07 18:45:00)
+#EXTINF:-1 tvg-id="" tvg-name="SL Benfica vs. Auckland City FC (Arabic) 2 (2025-06-20 16:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16dnu5t79ny66gb7pdibwadns_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",SL Benfica vs. Auckland City FC (Arabic) 2 (2025-06-20 16:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169178
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Transfer by Fabrizio Romano | Day 5 (2025-06-07 18:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ncmd1m4zv9x8qjfiiptntyu5_image-header_pRow_1748513452000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",DAZN Transfer by Fabrizio Romano | Day 5 (2025-06-07 18:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="SL Benfica vs. Auckland City FC (2025-06-20 16:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/567hfbp18k14667rq4h93u2n7_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",SL Benfica vs. Auckland City FC (2025-06-20 16:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169177
-#EXTINF:-1 tvg-id="" tvg-name="Oktagon 28 - Courmayeur (2025-06-07 17:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6nggydzb31dyra8oo8qncn58p_image-header_pRow_1749209654000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Oktagon 28 - Courmayeur (2025-06-07 17:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="SL Benfica vs. Auckland City FC (Arabic) (2025-06-20 16:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/77myh2sw052mhplayx22ptw6d_image-header_pRow_1749670135000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",SL Benfica vs. Auckland City FC (Arabic) (2025-06-20 16:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169176
-#EXTINF:-1 tvg-id="" tvg-name="Brave CF 96 - Ljubljana, Slovenia (2025-06-07 17:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16e2i9a8vzrxi0n0a6ybglz8u_image-header_pRow_1749209782000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Brave CF 96 - Ljubljana, Slovenia (2025-06-07 17:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 2 - Marquee Group (2025-06-20 14:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6z8m1s2hg9jfcwa90rht6hbev_image-header_pRow_1748425225000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 2 - Marquee Group (2025-06-20 14:30:00)
 http://livepptv.net:80/299819323222593/1593574628/169175
-#EXTINF:-1 tvg-id="" tvg-name="Wardley vs. Huni (2025-06-07 17:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/s3yzvy8qocp21m220ycz2y3gb_image-header_pRow_1749047236000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Wardley vs. Huni (2025-06-07 17:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 2 - Featured Group (2025-06-20 14:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d9lvry2tl5ds5c25c9jrik5xm_image-header_pRow_1748425224000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 2 - Featured Group (2025-06-20 14:15:00)
 http://livepptv.net:80/299819323222593/1593574628/169174
-#EXTINF:-1 tvg-id="" tvg-name="Madrid Bravos @ Fehérvár Enthroners (2025-06-07 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1v2n3nlvn62lb1tqd3vh1fecl5_image-header_pRow_1747131656000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Madrid Bravos @ Fehérvár Enthroners (2025-06-07 17:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 2 - Main Feed (2025-06-20 12:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/stt2k6oybm4ngkljx9jfsove_image-header_pRow_1748425225000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 2 - Main Feed (2025-06-20 12:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169173
-#EXTINF:-1 tvg-id="" tvg-name="LIV Golf Virginia - Day 2 (2025-06-07 17:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1zase7pbumkqf4ryhdjombncm_image-header_pRow_1738858480000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",LIV Golf Virginia - Day 2 (2025-06-07 17:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Yafai vs. Rodriguez: Weigh-In (2025-06-20 12:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1sltl6qkeb5sc1uumwye1axbjh_image-header_pRow_1749642202000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Yafai vs. Rodriguez: Weigh-In (2025-06-20 12:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169172
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Media Zone & Sv D from Service Park, Olbia (2025-06-07 16:45:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15arx9mws6ef71t82qaysnklrd_image-header_pRow_1748585603000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Media Zone & Sv D from Service Park, Olbia (2025-06-07 16:45:00)
+#EXTINF:-1 tvg-id="" tvg-name="Nurburgring 24 Hours - Qualifying (2025-06-20 11:20:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/brd6di145lb99g8u5dg1hns4h_image-header_pRow_1748964528000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Nurburgring 24 Hours - Qualifying (2025-06-20 11:20:00)
 http://livepptv.net:80/299819323222593/1593574628/169171
-#EXTINF:-1 tvg-id="" tvg-name="Raiders Tirol @ Vienna Vikings (2025-06-07 16:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/thtye24svm5j1aiwftu4zbw4e_image-header_pRow_1747131656000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Raiders Tirol @ Vienna Vikings (2025-06-07 16:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Nottingham Open - Day 5 (2025-06-20 10:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bzy93w46fi0lkls0z4l6mwtgx_image-header_pRow_1749135216000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Nottingham Open - Day 5 (2025-06-20 10:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169170
-#EXTINF:-1 tvg-id="" tvg-name="Berlin Thunder @ Hamburg Sea Devils (2025-06-07 16:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/w0ipc54fb6p51k0wi2s53ck38_image-header_pRow_1748787375000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Berlin Thunder @ Hamburg Sea Devils (2025-06-07 16:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Berlin Open - Day 5 (2025-06-20 09:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/46pflffvhxqjbebsle4lmr43o_image-header_pRow_1749180240000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Berlin Open - Day 5 (2025-06-20 09:30:00)
 http://livepptv.net:80/299819323222593/1593574628/169169
-#EXTINF:-1 tvg-id="" tvg-name="ELF Zone (2025-06-07 15:55:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/64s8iuyv9bo11tbotb1st1147_image-header_pRow_1747151504000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",ELF Zone (2025-06-07 15:55:00)
+#EXTINF:-1 tvg-id="" tvg-name="WBC Boxing Grand Prix: Phase 2, Day 1 (2025-06-20 09:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/28xykfaen9yp1gm3fipq2vuv7_image-header_pRow_1750256842000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",WBC Boxing Grand Prix: Phase 2, Day 1 (2025-06-20 09:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169168
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 12 (2025-06-07 15:31:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10pn0i7rgcm6d15ba4kz596bjh_image-header_pRow_1748576670000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 12 (2025-06-07 15:31:00)
+#EXTINF:-1 tvg-id="" tvg-name="Review Show | MD 6 (2025-06-20 03:30:00)" tvg-logo="" group-title="SPORT AR",Review Show | MD 6 (2025-06-20 03:30:00)
 http://livepptv.net:80/299819323222593/1593574628/169167
-#EXTINF:-1 tvg-id="" tvg-name="Xhoxhaj vs. Aliev (2025-06-07 15:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/forf1ow4dy0b113ytlcvuucmz_image-header_pRow_1748596181000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Xhoxhaj vs. Aliev (2025-06-07 15:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain vs. Botafogo (Arabic) 2 (2025-06-20 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b07w18xlsxzqep0bq4raecwrg_image-header_pRow_1749670134000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Paris Saint-Germain vs. Botafogo (Arabic) 2 (2025-06-20 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169166
-#EXTINF:-1 tvg-id="" tvg-name="Wardley vs. Huni: Prelims (2025-06-07 15:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4u3dls02g4iu1okuznslja4xr_image-header_pRow_1748611173000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Wardley vs. Huni: Prelims (2025-06-07 15:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain vs. Botafogo (Arabic) (2025-06-20 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7pqfvftxu1i3ld4m7jymytasx_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Paris Saint-Germain vs. Botafogo (Arabic) (2025-06-20 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169165
-#EXTINF:-1 tvg-id="" tvg-name="Brno - Coppa Shell AM Race 1 (2025-06-07 14:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ch3s6zr1byxmuksimw27ds41b_image-header_pRow_1748372808000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Brno - Coppa Shell AM Race 1 (2025-06-07 14:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain vs. Botafogo - HDR (2025-06-20 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3svyd9ibgx115s6uo36nrglft_image-header_pRow_1749894862000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Paris Saint-Germain vs. Botafogo - HDR (2025-06-20 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169164
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 11 (2025-06-07 14:16:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1d1c3b7g8lfja1uttbkyxydeq7_image-header_pRow_1748576171000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 11 (2025-06-07 14:16:00)
+#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain vs. Botafogo (2025-06-20 01:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7k9lyz53eruabqit7tt8giszf_image-header_pRow_1747917282000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Paris Saint-Germain vs. Botafogo (2025-06-20 01:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169163
-#EXTINF:-1 tvg-id="" tvg-name="Kurylenko vs. Boryshpolets 2 (2025-06-07 14:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sralggc8n9glzovpz52fz4tq_image-header_pRow_1748958845000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Kurylenko vs. Boryshpolets 2 (2025-06-07 14:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Sounders FC vs. Atlético de Madrid - HDR (2025-06-19 22:00:00)" tvg-logo="" group-title="SPORT AR",Seattle Sounders FC vs. Atlético de Madrid - HDR (2025-06-19 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169162
-#EXTINF:-1 tvg-id="" tvg-name="Drift Masters, Power Park Huvivaltio Finland - Top 16 & Final (2025-06-07 13:50:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14lgflw7gz6vhrv2e6ucfrqa1_image-header_pRow_1749143787000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Drift Masters, Power Park Huvivaltio Finland - Top 16 & Final (2025-06-07 13:50:00)
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Sounders FC vs. Atlético de Madrid (2025-06-19 22:00:00)" tvg-logo="" group-title="SPORT AR",Seattle Sounders FC vs. Atlético de Madrid (2025-06-19 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169161
-#EXTINF:-1 tvg-id="" tvg-name="Slovakiaring - Race 2 (2025-06-07 13:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cfjnoikw7patn6y051c6izi0d_image-header_pRow_1748862850000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Slovakiaring - Race 2 (2025-06-07 13:15:00)
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Sounders FC vs. Atlético de Madrid (Arabic) 2 (2025-06-19 22:00:00)" tvg-logo="" group-title="SPORT AR",Seattle Sounders FC vs. Atlético de Madrid (Arabic) 2 (2025-06-19 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169160
-#EXTINF:-1 tvg-id="" tvg-name="Brno - Trofeo Pirelli Race 1 (2025-06-07 13:15:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3x4rck6789h8khuf4axnv3ab2_image-header_pRow_1748373277000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Brno - Trofeo Pirelli Race 1 (2025-06-07 13:15:00)
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Sounders FC vs. Atlético de Madrid (Arabic) (2025-06-19 22:00:00)" tvg-logo="" group-title="SPORT AR",Seattle Sounders FC vs. Atlético de Madrid (Arabic) (2025-06-19 22:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169159
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 10 (2025-06-07 13:05:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1w8eqrdlwn8xw1gvmmzr6ebox1_image-header_pRow_1748587397000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 10 (2025-06-07 13:05:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bonner vs. Soto: Press Conference (2025-06-19 20:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hi2wwwj3y1851s1s0csod4eyf_image-header_pRow_1750259612000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bonner vs. Soto: Press Conference (2025-06-19 20:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169158
-#EXTINF:-1 tvg-id="" tvg-name="Day 3 - Marquee Group (2025-06-07 12:45:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1rb1ltpefn46lvvbv8t1bfpcn_image-header_pRow_1747149205000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 3 - Marquee Group (2025-06-07 12:45:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 1 - Featured Holes (2025-06-19 19:00:00)" tvg-logo="" group-title="SPORT AR",Day 1 - Featured Holes (2025-06-19 19:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169157
-#EXTINF:-1 tvg-id="" tvg-name="Day 3 - Featured Holes (2025-06-07 12:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/55ikp15x373h205b14n87j1p9_image-header_pRow_1747149205000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 3 - Featured Holes (2025-06-07 12:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Inter Miami CF vs. FC Porto (Arabic) 2 (2025-06-19 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4yz6380442xxfy392471b3oa9_image-header_pRow_1749670135000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Inter Miami CF vs. FC Porto (Arabic) 2 (2025-06-19 19:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169156
-#EXTINF:-1 tvg-id="" tvg-name="Day 3 - Featured Group (2025-06-07 12:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10jb6opno7hn70xek5hjypoft_image-header_pRow_1747149205000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 3 - Featured Group (2025-06-07 12:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Inter Miami CF vs. FC Porto (2025-06-19 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bsu31zpqi94a7egsnqt5x1tx4_image-header_pRow_1747917283000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Inter Miami CF vs. FC Porto (2025-06-19 19:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169155
-#EXTINF:-1 tvg-id="" tvg-name="Brno - Coppa Shell 1 (2025-06-07 12:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6icnr57kp28utixost53xxxv8_image-header_pRow_1748371909000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Brno - Coppa Shell 1 (2025-06-07 12:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Inter Miami CF vs. FC Porto - HDR (2025-06-19 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aosv7gibzfdt7qgj0sgoqaeqd_image-header_pRow_1749838746000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Inter Miami CF vs. FC Porto - HDR (2025-06-19 19:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169154
-#EXTINF:-1 tvg-id="" tvg-name="Zandvoort: Race 1 (2025-06-07 09:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11d3i8sk9vc16pi14fexwb4r3_image-header_pRow_1747454719000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Zandvoort: Race 1 (2025-06-07 09:30:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 1 - Main Feed (2025-06-19 12:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dmrbl56ri522nk65j0u2253rj_image-header_pRow_1748425223000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 1 - Main Feed (2025-06-19 12:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169147
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Stage 9 (2025-06-07 09:31:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2q4u7w8pieov1fmbdyyx2e9qy_image-header_pRow_1748573809000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Stage 9 (2025-06-07 09:31:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 1 - Featured Group (2025-06-19 13:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9u3n09ttltv2hm3v46lrfiwy4_image-header_pRow_1748425225000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 1 - Featured Group (2025-06-19 13:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169148
-#EXTINF:-1 tvg-id="" tvg-name="Drift Masters, Power Park Huvivaltio Finland - Top 32 (2025-06-07 09:45:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/akgtgut344yu12x50vbwfaqui_image-header_pRow_1749143075000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Drift Masters, Power Park Huvivaltio Finland - Top 32 (2025-06-07 09:45:00)
+#EXTINF:-1 tvg-id="" tvg-name="Day 1 - Marquee Group (2025-06-19 14:30:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d52n1e7htr122eglyjtdqtl3a_image-header_pRow_1748425225000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Day 1 - Marquee Group (2025-06-19 14:30:00)
 http://livepptv.net:80/299819323222593/1593574628/169149
-#EXTINF:-1 tvg-id="" tvg-name="Slovakiaring - Race 1 (2025-06-07 10:45:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f2px452hp5vzeefsf1nt4330u_image-header_pRow_1748863231000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Slovakiaring - Race 1 (2025-06-07 10:45:00)
+#EXTINF:-1 tvg-id="" tvg-name="ELF Zone (2025-06-21 15:55:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/33f0jtdl3pcx1orlunqfbhckt_image-header_pRow_1747151504000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",ELF Zone (2025-06-21 15:55:00)
 http://livepptv.net:80/299819323222593/1593574628/169150
-#EXTINF:-1 tvg-id="" tvg-name="Rally Italia Sardegna: Media Zone and Service C from Olbia Service Park (2025-06-07 10:45:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7ip4441izuxu16y6q75knegev_image-header_pRow_1748585988000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Rally Italia Sardegna: Media Zone and Service C from Olbia Service Park (2025-06-07 10:45:00)
+#EXTINF:-1 tvg-id="" tvg-name="ELF Zone 2 (2025-06-22 14:20:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1egj4jb92r25v13ocpzd2ukd1z_image-header_pRow_1747151504000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",ELF Zone 2 (2025-06-22 14:20:00)
 http://livepptv.net:80/299819323222593/1593574628/169151
-#EXTINF:-1 tvg-id="" tvg-name="Day 3 - Main Feed (2025-06-07 12:00:00)" tvg-logo="" group-title="SPORT AR",Day 3 - Main Feed (2025-06-07 12:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Bullet Chess Championship - Day 1 (2025-06-25 18:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b2kszis13zri19b9s1ybti7v7_image-header_pRow_1750349681000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Bullet Chess Championship - Day 1 (2025-06-25 18:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169152
-#EXTINF:-1 tvg-id="" tvg-name="RWS: Petchsaman vs. Khunsueknoi (2025-06-07 12:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f4qih68ufxpseioziq56r70kt_image-header_pRow_1748601407000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",RWS: Petchsaman vs. Khunsueknoi (2025-06-07 12:00:00)
+#EXTINF:-1 tvg-id="" tvg-name="Inter Miami CF vs. FC Porto (Arabic) (2025-06-19 19:00:00)" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/874zqr7xat0ob0y4l6g6131or_image-header_pRow_1747917283000/fill/none/top/none/85/668/374/webp/image" group-title="SPORT AR",Inter Miami CF vs. FC Porto (Arabic) (2025-06-19 19:00:00)
 http://livepptv.net:80/299819323222593/1593574628/169153
 #EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
 http://livepptv.net:80/299819323222593/1593574628/191
@@ -2595,7 +2585,7 @@ http://livepptv.net:80/299819323222593/1593574628/37949
 http://livepptv.net:80/299819323222593/1593574628/37946
 #EXTINF:-1 tvg-id="mbcactionen.ae" tvg-name="AR | MBC ACTION HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/MBCACTION.png" group-title="ARABIC",AR | MBC ACTION HD
 http://livepptv.net:80/299819323222593/1593574628/37944
-#EXTINF:-1 tvg-id="mbcactionen.ae" tvg-name="AR | MBC ACTION SD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/MBCACTION.png" group-title="ARABIC",AR | MBC ACTION SD
+#EXTINF:-1 tvg-id="mbcactionen.ae" tvg-name="AR | MBC ACTION FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/MBCACTION.png" group-title="ARABIC",AR | MBC ACTION FHD
 http://livepptv.net:80/299819323222593/1593574628/38129
 #EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/MBCMAX.png" group-title="ARABIC",AR | MBC Max HD
 http://livepptv.net:80/299819323222593/1593574628/37952
